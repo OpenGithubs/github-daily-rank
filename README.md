@@ -11,7 +11,33 @@
 
 ## 日-Star飙升榜
 
-统计周期：2024.1.18-2024.1.19
+> 统计周期：2024.1.19-2024.1.20
+
+| 排名        |  用户     |  项目名          | Star⭐          | 今日增长量     | 上周增长量      |  开源时间   |
+|------------|------------|---------------|---------------- |--------------|----------------|------------|
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/3595733?u=442ccd775c6a5c2bd262fb78c0fd458697081e30&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [linexjlin/GPTs](https://github.com/linexjlin/GPTs)| 23.6k  | 🔺395| 🔺1803 | 2023-11-11 |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/6178510?u=f9940c5492bc7ede04a9f2ea7df3aae973e45165&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mingrammer/diagrams](https://github.com/mingrammer/diagrams)| 32.6k  | 🔺299| 🔺330 | 2020-02-02 |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [shadcn/ui](https://github.com/shadcn/ui)| 44.8k  | 🔺252| 🔺1513 | 2023-01-04 |
+| 4 | <img src="https://avatars.githubusercontent.com/u/63927363?u=9a5a30771011c3cfdde19cd51d18d85e7ed6d53f&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)| 38.7k  | 🔺225| 🔺1394 | 2023-07-14 |
+| 5 | <img src="https://avatars.githubusercontent.com/u/48798027?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)| 27.8k  | 🔺207| 🔺968 | 2020-04-14 |
+| 6 | <img src="https://avatars.githubusercontent.com/u/89421154?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)| 150.9k  | 🔺204| 🔺1484 | 2017-04-12 |
+| 7 | <img src="https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jmorganca/ollama](https://github.com/jmorganca/ollama)| 31.9k  | 🔺175| 🔺1010 | 2023-06-27 |
+| 8 | <img src="https://avatars.githubusercontent.com/u/58904235?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)| 239.8k  | 🔺162| 🔺1449 | 2018-05-09 |
+| 9 | <img src="https://avatars.githubusercontent.com/u/102363196?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [janhq/jan](https://github.com/janhq/jan)| 7.3k  | 🔺158| 🔺1195 | 2023-08-17 |
+| 10 | <img src="https://avatars.githubusercontent.com/u/59452120?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)| 65.6k  | 🔺157| 🔺2035 | 2020-01-02 |
+| 11 | <img src="https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)| 286k  | 🔺155| 🔺790 | 2014-07-11 |
+| 12 | <img src="https://avatars.githubusercontent.com/u/14127308?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)| 307.5k  | 🔺149| 🔺692 | 2013-10-11 |
+| 13 | <img src="https://avatars.githubusercontent.com/u/78728988?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)| 25.4k  | 🔺143| 🔺481 | 2022-08-01 |
+| 14 | <img src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)| 3.2k  | 🔺141| 🔺372 | 2023-09-11 |
+| 15 | <img src="https://avatars.githubusercontent.com/u/16145783?u=d3427dc9181a9a33de66f739b98b282f4c3d13ed&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)| 31.2k  | 🔺137| 🔺177 | 2017-05-30 |
+| 16 | <img src="https://avatars.githubusercontent.com/u/24270415?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)| 165.2k  | 🔺136| 🔺747 | 2015-06-01 |
+| 17 | <img src="https://avatars.githubusercontent.com/u/652070?u=95b472a9a11b64ee0f74512ad918d762d42c213c&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [vinta/awesome-python](https://github.com/vinta/awesome-python)| 195k  | 🔺130| 🔺1036 | 2014-06-28 |
+| 18 | <img src="https://avatars.githubusercontent.com/u/20920490?u=8bdc7c9401f507e51b55e558baa8184d4ed30c7d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)| 118.2k  | 🔺128| 🔺749 | 2022-08-22 |
+| 19 | <img src="https://avatars.githubusercontent.com/u/667063?u=c0ea6956bba58ee8baabb6568f0374263ed96f1d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)| 5.2k  | 🔺124| 🔺882 | 2023-10-27 |
+| 20 | <img src="https://avatars.githubusercontent.com/u/21018904?u=bcc423f3536e0ea420dfe438d96b36a7ff2704d7&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)| 77.5k  | 🔺119| 🔺774 | 2019-09-05 |
+
+
+> 统计周期：2024.1.18-2024.1.19
 
 | 排名        |  用户     |  项目名          | Star⭐          | 今日增长量     | 上周增长量      |  创建时间   |
 |------------|------------|---------------|---------------- |--------------|----------------|------------|
