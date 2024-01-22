@@ -11,6 +11,32 @@
 
 ## 日-Star飙升榜
 
+> 统计周期：2024.1.21-2024.1.22
+
+| 排名        |  用户     |  项目名          | Star⭐          | 今日增长量     | 上周增长量      |  开源时间   |
+|------------|------------|---------------|---------------- |--------------|----------------|------------|
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/61944859?u=912270e4ade246b3f8555e7a8db6a58efe6f4587&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [KRTirtho/spotube](https://github.com/KRTirtho/spotube)| 14.2k  | 🔺2067| 🔺2776 | 2021-02-14 |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/16145783?u=d3427dc9181a9a33de66f739b98b282f4c3d13ed&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)| 31.6k  | 🔺243| 🔺551 | 2017-05-30 |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/1680273?u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| 68.3k  | 🔺221| 🔺547 | 2016-07-17 |
+| 4 | <img src="https://avatars.githubusercontent.com/u/14127308?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)| 308k  | 🔺212| 🔺859 | 2013-10-11 |
+| 5 | <img src="https://avatars.githubusercontent.com/u/21018904?u=bcc423f3536e0ea420dfe438d96b36a7ff2704d7&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)| 77.8k  | 🔺211| 🔺793 | 2019-09-05 |
+| 6 | <img src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [shadcn/ui](https://github.com/shadcn/ui)| 45.1k  | 🔺163| 🔺1339 | 2023-01-04 |
+| 7 | <img src="https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)| 286.2k  | 🔺150| 🔺843 | 2014-07-11 |
+| 8 | <img src="https://avatars.githubusercontent.com/u/89421154?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)| 151.2k  | 🔺147| 🔺1315 | 2017-04-12 |
+| 9 | <img src="https://avatars.githubusercontent.com/u/104967037?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [refinedev/refine](https://github.com/refinedev/refine)| 19.3k  | 🔺138| 🔺572 | 2021-01-20 |
+| 10 | <img src="https://avatars.githubusercontent.com/u/667063?u=c0ea6956bba58ee8baabb6568f0374263ed96f1d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)| 5.5k  | 🔺136| 🔺863 | 2023-10-27 |
+| 11 | <img src="https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jmorganca/ollama](https://github.com/jmorganca/ollama)| 32.1k  | 🔺120| 🔺853 | 2023-06-27 |
+| 12 | <img src="https://avatars.githubusercontent.com/u/58904235?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)| 240.1k  | 🔺118| 🔺1029 | 2018-05-09 |
+| 13 | <img src="https://avatars.githubusercontent.com/u/24270415?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)| 165.5k  | 🔺114| 🔺738 | 2015-06-01 |
+| 14 | <img src="https://avatars.githubusercontent.com/u/55993183?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [FuelLabs/sway](https://github.com/FuelLabs/sway)| 41.3k  | 🔺112| 🔺635 | 2021-01-20 |
+| 15 | <img src="https://avatars.githubusercontent.com/u/6178510?u=f9940c5492bc7ede04a9f2ea7df3aae973e45165&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mingrammer/diagrams](https://github.com/mingrammer/diagrams)| 32.9k  | 🔺105| 🔺617 | 2020-02-02 |
+| 16 | <img src="https://avatars.githubusercontent.com/u/652070?u=95b472a9a11b64ee0f74512ad918d762d42c213c&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [vinta/awesome-python](https://github.com/vinta/awesome-python)| 195.3k  | 🔺102| 🔺896 | 2014-06-28 |
+| 17 | <img src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)| 79.4k  | 🔺100| 🔺214 | 2020-11-10 |
+| 18 | <img src="https://avatars.githubusercontent.com/u/48798027?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)| 28k  | 🔺100| 🔺1029 | 2020-04-14 |
+| 19 | <img src="https://avatars.githubusercontent.com/u/20920490?u=8bdc7c9401f507e51b55e558baa8184d4ed30c7d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)| 118.4k  | 🔺98| 🔺724 | 2022-08-22 |
+| 20 | <img src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)| 3.4k  | 🔺97| 🔺565 | 2023-09-11 |
+
+
 > 统计周期：2024.1.19-2024.1.20
 
 | 排名        |  用户     |  项目名          | Star⭐          | 今日增长量     | 上周增长量      |  开源时间   |
