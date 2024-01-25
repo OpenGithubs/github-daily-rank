@@ -11,6 +11,33 @@
 
 ## 日-Star飙升榜
 
+> 统计周期：2024.1.24-2024.1.25
+
+
+| 排名        |  用户     |  项目名          | Star⭐          | 今日增长量     | 上周增长量      |  开源时间   |
+|------------|------------|---------------|---------------- |--------------|----------------|------------|
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/81252890?u=f9898d723658a498328f14f717e1eeccb42ca675&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mlabonne/llm-course](https://github.com/mlabonne/llm-course)| 18.9k  | 🔺948| 🔺2859 | 2023-06-18 |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/61944859?u=912270e4ade246b3f8555e7a8db6a58efe6f4587&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [KRTirtho/spotube](https://github.com/KRTirtho/spotube)| 19.7k  | 🔺533| 🔺8147 | 2021-02-14 |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/51121562?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [public-apis/public-apis](https://github.com/public-apis/public-apis)| 276.5k  | 🔺436| 🔺1250 | 2016-03-21 |
+| 4 | <img src="https://avatars.githubusercontent.com/u/58904235?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)| 241.2k  | 🔺370| 🔺1534 | 2018-05-09 |
+| 5 | <img src="https://avatars.githubusercontent.com/u/16145783?u=d3427dc9181a9a33de66f739b98b282f4c3d13ed&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)| 32.5k  | 🔺365| 🔺1416 | 2017-05-30 |
+| 6 | <img src="https://avatars.githubusercontent.com/u/14127308?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)| 309.3k  | 🔺304| 🔺1865 | 2013-10-11 |
+| 7 | <img src="https://avatars.githubusercontent.com/u/4921183?u=d6ed3573fc67b699e0c3bc2c7e1fb82c98c40dec&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)| 264.3k  | 🔺232| 🔺925 | 2017-03-15 |
+| 8 | <img src="https://avatars.githubusercontent.com/u/24270415?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)| 166.1k  | 🔺202| 🔺939 | 2015-06-01 |
+| 9 | <img src="https://avatars.githubusercontent.com/u/95485601?u=a8d780d2fca71e6b5b1bebfbd8f17baaddb8d049&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)| 21.1k  | 🔺196| 🔺719 | 2023-01-11 |
+| 10 | <img src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)| 79.9k  | 🔺196| 🔺659 | 2020-11-10 |
+| 11 | <img src="https://avatars.githubusercontent.com/u/21018904?u=bcc423f3536e0ea420dfe438d96b36a7ff2704d7&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)| 78.4k  | 🔺194| 🔺949 | 2019-09-05 |
+| 12 | <img src="https://avatars.githubusercontent.com/u/3771963?u=4b348c742192b1963aabbf803a1174d2a4de155a&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)| 276.2k  | 🔺186| 🔺658 | 2016-06-06 |
+| 13 | <img src="https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)| 286.7k  | 🔺185| 🔺905 | 2014-07-11 |
+| 14 | <img src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [shadcn/ui](https://github.com/shadcn/ui)| 45.7k  | 🔺179| 🔺1168 | 2023-01-04 |
+| 15 | <img src="https://avatars.githubusercontent.com/u/151674099?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jmorganca/ollama](https://github.com/jmorganca/ollama)| 32.6k  | 🔺176| 🔺816 | 2023-06-27 |
+| 16 | <img src="https://avatars.githubusercontent.com/u/59452120?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)| 66.2k  | 🔺171| 🔺790 | 2020-01-02 |
+| 17 | <img src="https://avatars.githubusercontent.com/u/6178510?u=f9940c5492bc7ede04a9f2ea7df3aae973e45165&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mingrammer/diagrams](https://github.com/mingrammer/diagrams)| 33.5k  | 🔺169| 🔺1158 | 2020-02-02 |
+| 18 | <img src="https://avatars.githubusercontent.com/u/89421154?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)| 151.8k  | 🔺166| 🔺1051 | 2017-04-12 |
+| 19 | <img src="https://avatars.githubusercontent.com/u/1315101?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)| 105.2k  | 🔺161| 🔺721 | 2016-07-05 |
+| 20 | <img src="https://avatars.githubusercontent.com/u/9892522?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)| 382.2k  | 🔺160| 🔺713 | 2014-12-25 |
+
+
 > 统计周期：2024.1.23-2024.1.24
 
 | 排名        |  用户     |  项目名          | Star⭐          | 今日增长量     | 上周增长量      |  开源时间   |
