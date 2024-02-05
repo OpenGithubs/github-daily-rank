@@ -12,10 +12,10 @@
 
 > 日榜最佳项目:FuelLabs/sway  
 
-- 开源地址：https://github.com/FuelLabs/sway
-- 开源时间：2021-01-20
-- 开源Stars：45814⭐
-- 日Star增长量：711⭐
+    - 开源地址：https://github.com/FuelLabs/sway
+    - 开源时间：2021-01-20
+    - 开源Stars：45814⭐
+    - 日Star增长量：711⭐
 
 ![]()
 
