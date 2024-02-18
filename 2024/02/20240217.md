@@ -12,10 +12,10 @@
 
 > 日榜最佳项目:janhq/jan  
 
-    - 开源地址：https://github.com/janhq/jan
-    - 开源时间：2023-08-17
-    - 开源Stars：10284⭐
-    - 日Star增长量：321⭐
+- 开源地址：https://github.com/janhq/jan
+- 开源时间：2023-08-17
+- 开源Stars：10284⭐
+- 日Star增长量：321⭐
 
 ![]()
 
@@ -54,3 +54,4 @@ Github历史期刊:https://github.com/OpenGithubs
 - 周刊汇总:[Github精选开源项目周刊,每周一更新](https://github.com/OpenGithubs/weekly)
 - 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
 - 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
+selectedColumn)
