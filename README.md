@@ -55,6 +55,3 @@ Github历史期刊:https://github.com/OpenGithubs
 - 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
 - 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
 onthly)
-- 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
-hub精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
-n)
