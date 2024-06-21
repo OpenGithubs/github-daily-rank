@@ -48,7 +48,7 @@
 ---
 ## 更多Github开源项目
 
-以上就是本期的推荐所有项目，如果你喜欢本期的内容，欢迎收藏和关注OpenGithub社区：https://open.itc.cn/，我们会定期推送优质的开源项目。
+以上就是本期的推荐所有项目，如果你喜欢本期的内容，欢迎收藏和关注[OpenGithub社区](https://open.itc.cn/),我们会定期推送优质的开源项目。
 
 Github历史期刊:https://github.com/OpenGithubs
 - 周刊汇总:[Github精选开源项目周刊,每周一更新](https://github.com/OpenGithubs/weekly)
