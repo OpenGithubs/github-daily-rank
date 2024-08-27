@@ -16,7 +16,8 @@
 - 日Star增长量：457⭐
 - 项目描述: Sketch and take handwritten notes.
 
-![]()
+![image](https://github.com/user-attachments/assets/564a8962-ba5b-4cec-b065-8a96ed21b83f)
+
 
 ## 日榜排行榜 统计周期：2024.08.26-2024.08.27
 
