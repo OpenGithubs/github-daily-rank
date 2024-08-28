@@ -152,16 +152,3 @@ Github历史期刊:https://github.com/OpenGithubs
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github（备注“公众号”）</center>
 <center><span style="color: orangered">▲ 关注”GitHub狐动社“，洞察Github开源动态</span><center>
-�式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
-
-![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
-
----
-## 更多Github开源项目
-
-以上就是本期的推荐所有项目，如果你喜欢本期的内容，欢迎收藏和关注OpenGithub社区：https://open.itc.cn ，我们会定期推送优质的开源项目。
-
-Github历史期刊:https://github.com/OpenGithubs
-- 周刊汇总:[Github精选开源项目周刊,每周一更新](https://github.com/OpenGithubs/weekly)
-- 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
-- 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
