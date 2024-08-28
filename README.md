@@ -12,22 +12,20 @@
 
 
 > 🏆2024.08.27日榜最佳项目:Z4nzu/hackingtool  黑客工具全家桶
-
-![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
-
 - 开源地址：https://github.com/Z4nzu/hackingtool
 - 📅 开源时间：2020-04-11
 - ⭐ 总星标数量：45429⭐
-- 🔺日Star增长量：752⭐
-- 项目描述: 一个集成了各种黑客工具的项目，包括密码破解、SQL 注入、钓鱼攻击、跨站脚本攻击（XSS）、分布式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
+- 🔺 日Star增长量：752⭐
+- 📝 项目描述: 一个集成了各种黑客工具的项目，包括密码破解、SQL 注入、钓鱼攻击、跨站脚本攻击（XSS）、分布式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.08.27 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 🥇 |  [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)| 45.4k  | 🔺752 |
-| 🥈 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)| 38.5k  | 🔺302 |
-| 🥉 |  [dokku/dokku](https://github.com/dokku/dokku)| 26.9k  | 🔺286 |
+| 1 |  [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)| 45.4k  | 🔺752 |
+| 2 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)| 38.5k  | 🔺302 |
+| 3 |  [dokku/dokku](https://github.com/dokku/dokku)| 26.9k  | 🔺286 |
 | 4 |  [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)| 13.2k  | 🔺217 |
 | 5 |  [coollabsio/coolify](https://github.com/coollabsio/coolify)| 28.6k  | 🔺204 |
 | 6 |  [katanaml/sparrow](https://github.com/katanaml/sparrow)| 3.2k  | 🔺147 |
@@ -153,4 +151,5 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
