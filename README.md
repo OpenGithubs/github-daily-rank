@@ -41,7 +41,7 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.08.27 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**1. 黑客工具全家桶 https://github.com/Z4nzu/hackingtool**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 黑客工具全家桶 https://github.com/Z4nzu/hackingtool</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：45.4k
 - 🔺 日增长数量：752⭐
@@ -50,9 +50,9 @@
 - 📅 开源时间：2020-04-11
 - 📝 项目描述：一个集成了各种黑客工具的项目，包括密码破解、SQL 注入、钓鱼攻击、跨站脚本攻击（XSS）、分布式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
 
-![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**2. 知识库管理工具 https://github.com/toeverything/AFFiNE**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 知识库管理工具 https://github.com/toeverything/AFFiNE</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：38.5k
 - 🔺 日增长数量：302⭐
@@ -61,9 +61,9 @@
 - 📅 开源时间：2022-08-01
 - 📝 项目描述：一个功能强大的知识库管理工具，可以作为Notion的替代品。它拥有清新简洁的界面样式，支持所见即所得的编辑和排版，同时提供基于Markdown的多任务管理和多人实时协作功能。AFFiNE还具有较高的私密性，用户可以在本地自行部署，保护数据安全。该项目持续更新迭代，为用户提供更好的使用体验。
 
-![](http://photocdn.tv.sohu.com/img/q_mini/20230707/pic_org_3ceb76ae-5fbb-4e0e-bdec-665355b9bf4a.jpg)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**3.  https://github.com/dokku/dokku**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/dokku/dokku</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：26.9k
 - 🔺 日增长数量：286⭐
@@ -72,9 +72,9 @@
 - 📅 开源时间：2013-06-08
 - 📝 项目描述：A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
-![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**4. 金融大型语言模型 https://github.com/AI4Finance-Foundation/FinGPT**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 金融大型语言模型 https://github.com/AI4Finance-Foundation/FinGPT</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：13.2k
 - 🔺 日增长数量：217⭐
@@ -83,9 +83,9 @@
 - 📅 开源时间：2023-02-12
 - 📝 项目描述：一个金融领域的大型语言模型，通过在FinNLP和FinNLP网站上进行民主化互联网规模的数据训练而得到。该项目旨在为金融领域提供强大的自然语言处理能力，帮助分析师、交易员和研究人员在金融领域的各种任务中获得更准确的语言模型支持。
 
-![](http://photocdn.tv.sohu.com/img/q_mini/20230619/pic_org_dfd1e7db-6b6a-4f96-a6c4-06c66e0770ca.png)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**5. GitHub上的项目自托管方案 https://github.com/coollabsio/coolify**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. GitHub上的项目自托管方案 https://github.com/coollabsio/coolify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：28.6k
 - 🔺 日增长数量：204⭐
@@ -94,9 +94,9 @@
 - 📅 开源时间：2021-01-26
 - 📝 项目描述：一个在GitHub上开源的项目自托管方案，可用于替代Heroku和Netlify。它支持反向代理、免费SSL证书配置、多种常用数据库配置、项目一键安装与升级等功能。coolify旨在提供一个灵活的自托管解决方案，使开发人员能够轻松部署和管理其应用程序。
 
-![](http://photocdn.tv.sohu.com/img/q_mini/20231023/pic_org_00da42b3-d3e9-4742-870b-ef1b149dc579.png)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**6.  https://github.com/katanaml/sparrow**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/katanaml/sparrow</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：3.2k
 - 🔺 日增长数量：147⭐
@@ -105,9 +105,9 @@
 - 📅 开源时间：2022-01-08
 - 📝 项目描述：Data extraction with ML and LLM
 
-![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**7.  https://github.com/flxzt/rnote**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/flxzt/rnote</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：7.5k
 - 🔺 日增长数量：143⭐
@@ -116,9 +116,9 @@
 - 📅 开源时间：2021-08-05
 - 📝 项目描述：Sketch and take handwritten notes.
 
-![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**8. 编程学习工具 https://github.com/getcursor/cursor**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 编程学习工具 https://github.com/getcursor/cursor</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：21.6k
 - 🔺 日增长数量：143⭐
@@ -127,9 +127,9 @@
 - 📅 开源时间：2023-03-12
 - 📝 项目描述：Cursor 是一个基于人工智能编程的交互式编辑器，旨在为用户提供全新的代码学习体验。它提供了与用户进行智能对话的能力，为用户提供帮助和建议。通过 Cursor，用户可以通过与聊天机器人交互的方式来学习编程，提升编程技能和理解能力。
 
-![](http://photocdn.tv.sohu.com/img/20230329/pic_org_aeb5af6b-8f68-4ad0-9883-0c485074ecd1.png)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**9. AI应用程序开发工具 https://github.com/langgenius/dify**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. AI应用程序开发工具 https://github.com/langgenius/dify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：43.1k
 - 🔺 日增长数量：138⭐
@@ -138,9 +138,9 @@
 - 📅 开源时间：2023-04-12
 - 📝 项目描述：一个用于创建强大的AI应用程序的开发工具，它提供了插件和数据集的API，以及一个用于快速工程和可视化操作的界面。对于想要开发应用程序的开发者和研究人员，dify提供了方便的工具和接口，帮助他们构建功能丰富的AI应用。
 
-![](http://photocdn.tv.sohu.com/img/q_mini/20230804/pic_org_51a15148-584b-459a-a5b0-ccded137ce3b.png)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">**10. 模块化GUI框架 https://github.com/comfyanonymous/ComfyUI**</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 模块化GUI框架 https://github.com/comfyanonymous/ComfyUI</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：48.4k
 - 🔺 日增长数量：129⭐
@@ -149,11 +149,11 @@
 - 📅 开源时间：2023-01-17
 - 📝 项目描述：一个强大和模块化的GUI和图形/节点接口，它提供了稳定和可扩展的用户界面组件。这个项目的设计注重可定制性和易用性，使开发人员能够快速构建漂亮和功能丰富的图形界面应用程序。
 
-![](http://photocdn.tv.sohu.com/img/q_mini/20230717/pic_org_129fcdfb-3817-4455-8e03-1b3ba9dd827c.png)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
 
 ---
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">结论</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
