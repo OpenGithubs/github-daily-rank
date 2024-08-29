@@ -1,4 +1,4 @@
-## 2024.08.28 最佳开源项目🔝:hackingtool
+## 2024.08.28 最佳开源项目🔝:CogVideo
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -11,68 +11,35 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2024.08.28日榜最佳项目:Z4nzu/hackingtool  黑客工具全家桶
-- 开源地址：https://github.com/Z4nzu/hackingtool
-- 📅 开源时间：2020-04-11
-- ⭐ 总星标数量：46055⭐
-- 🔺 日Star增长量：626⭐
-- 📝 项目描述: 一个集成了各种黑客工具的项目，包括密码破解、SQL 注入、钓鱼攻击、跨站脚本攻击（XSS）、分布式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
+> 🏆2024.08.28日榜最佳项目:THUDM/CogVideo  
+- 开源地址：https://github.com/THUDM/CogVideo
+- 📅 开源时间：2022-05-29
+- ⭐ 总星标数量：6084⭐
+- 🔺 日Star增长量：147⭐
+- 📝 项目描述: 一个可基于文本生成视频的开源项目：CogVideo，由清华大学数据挖掘研究小组开源，面向研究者和开发者的开源视频工具，支持视频摘要、语义理解、视频检索等功能，让您对视频有更深入的理解！
+    ![](http://photocdn.tv.sohu.com/img/20230407/pic_org_bf693af0-184d-4d9d-b9a1-def280c72698.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.08.28 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)| 46.1k  | 🔺626 |
-| 2 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)| 38.8k  | 🔺340 |
-| 3 |  [langgenius/dify](https://github.com/langgenius/dify)| 43.3k  | 🔺243 |
-| 4 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo)| 6.1k  | 🔺147 |
-| 5 |  [getcursor/cursor](https://github.com/getcursor/cursor)| 21.7k  | 🔺129 |
-| 6 |  [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)| 40.6k  | 🔺116 |
-| 7 |  [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)| 48.5k  | 🔺114 |
-| 8 |  [openobserve/openobserve](https://github.com/openobserve/openobserve)| 10.9k  | 🔺111 |
-| 9 |  [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui)| 37k  | 🔺109 |
-| 10 |  [dokku/dokku](https://github.com/dokku/dokku)| 27k  | 🔺93 |
+| 1 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo)| 6.1k  | 🔺147 |
+| 2 |  [getcursor/cursor](https://github.com/getcursor/cursor)| 21.7k  | 🔺129 |
+| 3 |  [openobserve/openobserve](https://github.com/openobserve/openobserve)| 10.9k  | 🔺111 |
+| 4 |  [dokku/dokku](https://github.com/dokku/dokku)| 27k  | 🔺93 |
+| 5 |  [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)| 4.8k  | 🔺92 |
+| 6 |  [coollabsio/coolify](https://github.com/coollabsio/coolify)| 28.7k  | 🔺91 |
+| 7 |  [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)| 2.9k  | 🔺91 |
+| 8 |  [paul-gauthier/aider](https://github.com/paul-gauthier/aider)| 17k  | 🔺86 |
+| 9 |  [iDvel/rime-ice](https://github.com/iDvel/rime-ice)| 8.7k  | 🔺78 |
+| 10 |  [katanaml/sparrow](https://github.com/katanaml/sparrow)| 3.3k  | 🔺78 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.08.28 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 黑客工具全家桶 https://github.com/Z4nzu/hackingtool</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：46.1k
-- 🔺 日增长数量：626⭐
-- 🔺 上周增长数量：2061⭐
-- 🔺 上月增长数量：2447⭐
-- 📅 开源时间：2020-04-11
-- 📝 项目描述：一个集成了各种黑客工具的项目，包括密码破解、SQL 注入、钓鱼攻击、跨站脚本攻击（XSS）、分布式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 知识库管理工具 https://github.com/toeverything/AFFiNE</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：38.8k
-- 🔺 日增长数量：340⭐
-- 🔺 上周增长数量：784⭐
-- 🔺 上月增长数量：3153⭐
-- 📅 开源时间：2022-08-01
-- 📝 项目描述：一个功能强大的知识库管理工具，可以作为Notion的替代品。它拥有清新简洁的界面样式，支持所见即所得的编辑和排版，同时提供基于Markdown的多任务管理和多人实时协作功能。AFFiNE还具有较高的私密性，用户可以在本地自行部署，保护数据安全。该项目持续更新迭代，为用户提供更好的使用体验。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230707/pic_org_3ceb76ae-5fbb-4e0e-bdec-665355b9bf4a.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. AI应用程序开发工具 https://github.com/langgenius/dify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：43.3k
-- 🔺 日增长数量：243⭐
-- 🔺 上周增长数量：725⭐
-- 🔺 上月增长数量：5807⭐
-- 📅 开源时间：2023-04-12
-- 📝 项目描述：一个用于创建强大的AI应用程序的开发工具，它提供了插件和数据集的API，以及一个用于快速工程和可视化操作的界面。对于想要开发应用程序的开发者和研究人员，dify提供了方便的工具和接口，帮助他们构建功能丰富的AI应用。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230804/pic_org_51a15148-584b-459a-a5b0-ccded137ce3b.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/THUDM/CogVideo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/THUDM/CogVideo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：6.1k
 - 🔺 日增长数量：147⭐
@@ -83,7 +50,7 @@
 
     ![](http://photocdn.tv.sohu.com/img/20230407/pic_org_bf693af0-184d-4d9d-b9a1-def280c72698.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 编程学习工具 https://github.com/getcursor/cursor</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 编程学习工具 https://github.com/getcursor/cursor</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：21.7k
 - 🔺 日增长数量：129⭐
@@ -94,29 +61,7 @@
 
     ![](http://photocdn.tv.sohu.com/img/20230329/pic_org_aeb5af6b-8f68-4ad0-9883-0c485074ecd1.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. Docker中运行macOS https://github.com/sickcodes/Docker-OSX</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：40.6k
-- 🔺 日增长数量：116⭐
-- 🔺 上周增长数量：387⭐
-- 🔺 上月增长数量：4383⭐
-- 📅 开源时间：2020-06-04
-- 📝 项目描述：一个让你在Docker中运行macOS操作系统的项目。通过仅需两条命令，用户可以在Docker容器中轻松启动一个macOS操作系统。这为开发者提供了一种简单而刺激的方式，让他们可以在非苹果硬件上体验macOS，从而进行测试和开发。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20231127/pic_org_5d1481a4-f966-4708-97ec-ff190979e66c.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 模块化GUI框架 https://github.com/comfyanonymous/ComfyUI</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：48.5k
-- 🔺 日增长数量：114⭐
-- 🔺 上周增长数量：671⭐
-- 🔺 上月增长数量：6312⭐
-- 📅 开源时间：2023-01-17
-- 📝 项目描述：一个强大和模块化的GUI和图形/节点接口，它提供了稳定和可扩展的用户界面组件。这个项目的设计注重可定制性和易用性，使开发人员能够快速构建漂亮和功能丰富的图形界面应用程序。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230717/pic_org_129fcdfb-3817-4455-8e03-1b3ba9dd827c.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 云原生可视化监控平台 https://github.com/openobserve/openobserve</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 云原生可视化监控平台 https://github.com/openobserve/openobserve</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：10.9k
 - 🔺 日增长数量：111⭐
@@ -127,17 +72,86 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20230619/pic_org_6a3d1208-97a2-4130-ade1-6a7fa7611d31.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/ollama-webui/ollama-webui</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/dokku/dokku</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：37k
-- 🔺 日增长数量：109⭐
-- 🔺 上周增长数量：613⭐
-- 🔺 上月增长数量：5212⭐
-- 📅 开源时间：2023-10-07
-- 📝 项目描述：ChatGPT-Style Web UI Client for Ollama 🦙
+- ⭐ 总星标数量：27k
+- 🔺 日增长数量：93⭐
+- 🔺 上周增长数量：446⭐
+- 🔺 上月增长数量：559⭐
+- 📅 开源时间：2013-06-08
+- 📝 项目描述：A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/dokku/dokku</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/seleniumbase/SeleniumBase</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：4.8k
+- 🔺 日增长数量：92⭐
+- 🔺 上周增长数量：110⭐
+- 🔺 上月增长数量：278⭐
+- 📅 开源时间：2014-03-05
+- 📝 项目描述：📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. GitHub上的项目自托管方案 https://github.com/coollabsio/coolify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：28.7k
+- 🔺 日增长数量：91⭐
+- 🔺 上周增长数量：666⭐
+- 🔺 上月增长数量：1959⭐
+- 📅 开源时间：2021-01-26
+- 📝 项目描述：一个在GitHub上开源的项目自托管方案，可用于替代Heroku和Netlify。它支持反向代理、免费SSL证书配置、多种常用数据库配置、项目一键安装与升级等功能。coolify旨在提供一个灵活的自托管解决方案，使开发人员能够轻松部署和管理其应用程序。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20231023/pic_org_00da42b3-d3e9-4742-870b-ef1b149dc579.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/XayahSuSuSu/Android-DataBackup</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：2.9k
+- 🔺 日增长数量：91⭐
+- 🔺 上周增长数量：128⭐
+- 🔺 上月增长数量：489⭐
+- 📅 开源时间：2021-11-22
+- 📝 项目描述：数据备份 DataBackup for Android
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 支持GPT的终端编码工具 https://github.com/paul-gauthier/aider</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：17k
+- 🔺 日增长数量：86⭐
+- 🔺 上周增长数量：483⭐
+- 🔺 上月增长数量：2873⭐
+- 📅 开源时间：2023-05-10
+- 📝 项目描述：一个支持GPT的编码工具，可以在您的终端中进行使用。它提供了便捷的命令行界面，让您可以轻松地与GPT进行交互，并进行文本生成、对话等任务。Aider为开发人员提供了更方便的方式来利用GPT的强大能力。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230714/pic_org_0b903811-8634-41ff-8d31-4a036c3ba55e.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/iDvel/rime-ice</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：8.7k
+- 🔺 日增长数量：78⭐
+- 🔺 上周增长数量：137⭐
+- 🔺 上月增长数量：481⭐
+- 📅 开源时间：2021-01-29
+- 📝 项目描述：Rime 配置：雾凇拼音 | 长期维护的简体词库
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/katanaml/sparrow</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：3.3k
+- 🔺 日增长数量：78⭐
+- 🔺 上周增长数量：244⭐
+- 🔺 上月增长数量：980⭐
+- 📅 开源时间：2022-01-08
+- 📝 项目描述：Data extraction with ML and LLM
+
+
+---
+
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+
+<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
+10.  https://github.com/dokku/dokku</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：27k
 - 🔺 日增长数量：93⭐
