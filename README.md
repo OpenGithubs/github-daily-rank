@@ -1,4 +1,4 @@
-## 2024.09.03 最佳开源项目🔝:erpnext
+## 2024.09.03 最佳开源项目🔝:nocodb
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -11,34 +11,57 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2024.09.03日榜最佳项目:frappe/erpnext  
-- 开源地址：https://github.com/frappe/erpnext
-- 📅 开源时间：2011-06-08
-- ⭐ 总星标数量：18730⭐
-- 🔺 日Star增长量：591⭐
-- 📝 项目描述: Free and Open Source Enterprise Resource Planning (ERP)
+> 🏆2024.09.03日榜最佳项目:nocodb/nocodb  
+- 开源地址：https://github.com/nocodb/nocodb
+- 📅 开源时间：2017-10-30
+- ⭐ 总星标数量：45241⭐
+- 🔺 日Star增长量：684⭐
+- 📝 项目描述: 开源的智能表格制作工具,能够快速创建自己的数据库应用。它基于 MySQL 和 MongoDB 数据库，并提供了可视化的界面，让数据库管理变得更加简单。
+    ![](http://photocdn.tv.sohu.com/img/20230404/pic_org_ae449a95-1fc1-4e1f-9356-0ed76612acff.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.09.03 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [frappe/erpnext](https://github.com/frappe/erpnext)| 18.7k  | 🔺591 |
-| 2 |  [dokku/dokku](https://github.com/dokku/dokku)| 27.5k  | 🔺544 |
-| 3 |  [openobserve/openobserve](https://github.com/openobserve/openobserve)| 11.2k  | 🔺310 |
-| 4 |  [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)| 4.8k  | 🔺162 |
-| 5 |  [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)| 29.5k  | 🔺146 |
-| 6 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo)| 6.2k  | 🔺128 |
-| 7 |  [getcursor/cursor](https://github.com/getcursor/cursor)| 21.8k  | 🔺107 |
-| 8 |  [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis)| 8k  | 🔺70 |
-| 9 |  [usebruno/bruno](https://github.com/usebruno/bruno)| 24.6k  | 🔺69 |
-| 10 |  [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)| 13.3k  | 🔺69 |
+| 1 |  [nocodb/nocodb](https://github.com/nocodb/nocodb)| 45.2k  | 🔺684 |
+| 2 |  [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)| 46.7k  | 🔺656 |
+| 3 |  [frappe/erpnext](https://github.com/frappe/erpnext)| 18.7k  | 🔺591 |
+| 4 |  [dokku/dokku](https://github.com/dokku/dokku)| 27.5k  | 🔺544 |
+| 5 |  [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)| 39.1k  | 🔺313 |
+| 6 |  [openobserve/openobserve](https://github.com/openobserve/openobserve)| 11.2k  | 🔺310 |
+| 7 |  [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)| 40.8k  | 🔺235 |
+| 8 |  [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)| 4.8k  | 🔺162 |
+| 9 |  [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)| 29.5k  | 🔺146 |
+| 10 |  [localsend/localsend](https://github.com/localsend/localsend)| 41.2k  | 🔺144 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.09.03 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/frappe/erpnext</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/nocodb/nocodb</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：45.2k
+- 🔺 日增长数量：684⭐
+- 🔺 上周增长数量：772⭐
+- 🔺 上月增长数量：1204⭐
+- 📅 开源时间：2017-10-30
+- 📝 项目描述：开源的智能表格制作工具,能够快速创建自己的数据库应用。它基于 MySQL 和 MongoDB 数据库，并提供了可视化的界面，让数据库管理变得更加简单。
+
+    ![](http://photocdn.tv.sohu.com/img/20230404/pic_org_ae449a95-1fc1-4e1f-9356-0ed76612acff.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 黑客工具全家桶 https://github.com/Z4nzu/hackingtool</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：46.7k
+- 🔺 日增长数量：656⭐
+- 🔺 上周增长数量：2711⭐
+- 🔺 上月增长数量：3029⭐
+- 📅 开源时间：2020-04-11
+- 📝 项目描述：一个集成了各种黑客工具的项目，包括密码破解、SQL 注入、钓鱼攻击、跨站脚本攻击（XSS）、分布式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230821/pic_org_b0429f32-1c1f-49fd-b2b9-e397d899f5ab.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/frappe/erpnext</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：18.7k
 - 🔺 日增长数量：591⭐
@@ -48,7 +71,7 @@
 - 📝 项目描述：Free and Open Source Enterprise Resource Planning (ERP)
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/dokku/dokku</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/dokku/dokku</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：27.5k
 - 🔺 日增长数量：544⭐
@@ -59,7 +82,18 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20240828/pic_org_b1b376bc-3c7c-4a84-a341-80a0abff8091.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 云原生可视化监控平台 https://github.com/openobserve/openobserve</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 知识库管理工具 https://github.com/toeverything/AFFiNE</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：39.1k
+- 🔺 日增长数量：313⭐
+- 🔺 上周增长数量：1096⭐
+- 🔺 上月增长数量：3133⭐
+- 📅 开源时间：2022-08-01
+- 📝 项目描述：一个功能强大的知识库管理工具，可以作为Notion的替代品。它拥有清新简洁的界面样式，支持所见即所得的编辑和排版，同时提供基于Markdown的多任务管理和多人实时协作功能。AFFiNE还具有较高的私密性，用户可以在本地自行部署，保护数据安全。该项目持续更新迭代，为用户提供更好的使用体验。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20230707/pic_org_3ceb76ae-5fbb-4e0e-bdec-665355b9bf4a.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 云原生可视化监控平台 https://github.com/openobserve/openobserve</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：11.2k
 - 🔺 日增长数量：310⭐
@@ -70,7 +104,18 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20230619/pic_org_6a3d1208-97a2-4130-ade1-6a7fa7611d31.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/NirDiamant/RAG_Techniques</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. Docker中运行macOS https://github.com/sickcodes/Docker-OSX</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：40.8k
+- 🔺 日增长数量：235⭐
+- 🔺 上周增长数量：622⭐
+- 🔺 上月增长数量：4474⭐
+- 📅 开源时间：2020-06-04
+- 📝 项目描述：一个让你在Docker中运行macOS操作系统的项目。通过仅需两条命令，用户可以在Docker容器中轻松启动一个macOS操作系统。这为开发者提供了一种简单而刺激的方式，让他们可以在非苹果硬件上体验macOS，从而进行测试和开发。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20231127/pic_org_5d1481a4-f966-4708-97ec-ff190979e66c.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/NirDiamant/RAG_Techniques</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：4.8k
 - 🔺 日增长数量：162⭐
@@ -81,7 +126,7 @@
 
     ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/mattermost/mattermost-server</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/mattermost/mattermost-server</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：29.5k
 - 🔺 日增长数量：146⭐
@@ -92,59 +137,16 @@
 
     ![](https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/21/37448451.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/THUDM/CogVideo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 安全跨平台本地通信 https://github.com/localsend/localsend</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：6.2k
-- 🔺 日增长数量：128⭐
-- 🔺 上周增长数量：427⭐
-- 🔺 上月增长数量：2641⭐
-- 📅 开源时间：2022-05-29
-- 📝 项目描述：一个可基于文本生成视频的开源项目：CogVideo，由清华大学数据挖掘研究小组开源，面向研究者和开发者的开源视频工具，支持视频摘要、语义理解、视频检索等功能，让您对视频有更深入的理解！
+- ⭐ 总星标数量：41.2k
+- 🔺 日增长数量：144⭐
+- 🔺 上周增长数量：379⭐
+- 🔺 上月增长数量：2317⭐
+- 📅 开源时间：2022-12-16
+- 📝 项目描述：一个跨平台的应用程序，它使用REST API和HTTPS加密来实现设备之间的安全通信。与其他依赖外部服务器的消息应用程序不同，LocalSend不需要互联网连接或第三方服务器。这使得LocalSend成为本地通信的快速、可靠和安全的解决方案。用户可以使用LocalSend实现设备之间的通信，而无需担心隐私和安全问题。
 
-    ![](http://photocdn.tv.sohu.com/img/20230407/pic_org_bf693af0-184d-4d9d-b9a1-def280c72698.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 编程学习工具 https://github.com/getcursor/cursor</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：21.8k
-- 🔺 日增长数量：107⭐
-- 🔺 上周增长数量：639⭐
-- 🔺 上月增长数量：1127⭐
-- 📅 开源时间：2023-03-12
-- 📝 项目描述：Cursor 是一个基于人工智能编程的交互式编辑器，旨在为用户提供全新的代码学习体验。它提供了与用户进行智能对话的能力，为用户提供帮助和建议。通过 Cursor，用户可以通过与聊天机器人交互的方式来学习编程，提升编程技能和理解能力。
-
-    ![](http://photocdn.tv.sohu.com/img/20230329/pic_org_aeb5af6b-8f68-4ad0-9883-0c485074ecd1.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/darkroomengineering/lenis</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8k
-- 🔺 日增长数量：70⭐
-- 🔺 上周增长数量：74⭐
-- 🔺 上月增长数量：74⭐
-- 📅 开源时间：2022-02-21
-- 📝 项目描述：How smooth scroll should be
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 开源API探索和测试IDE https://github.com/usebruno/bruno</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：24.6k
-- 🔺 日增长数量：69⭐
-- 🔺 上周增长数量：504⭐
-- 🔺 上月增长数量：2173⭐
-- 📅 开源时间：2022-09-28
-- 📝 项目描述：一个开源IDE，旨在帮助用户探索和测试API。它是一个轻量级的替代品，可用于执行API请求和测试，类似于Postman或Insomnia。bruno提供了用户友好的界面，使API测试变得简单而高效。它是开发者的有力工具，可用于检查和测试API端点。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20231013/pic_org_0ee85f73-a82b-4c08-b98f-42ffdca266c5.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 金融大型语言模型 https://github.com/AI4Finance-Foundation/FinGPT</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：13.3k
-- 🔺 日增长数量：69⭐
-- 🔺 上周增长数量：448⭐
-- 🔺 上月增长数量：607⭐
-- 📅 开源时间：2023-02-12
-- 📝 项目描述：一个金融领域的大型语言模型，通过在FinNLP和FinNLP网站上进行民主化互联网规模的数据训练而得到。该项目旨在为金融领域提供强大的自然语言处理能力，帮助分析师、交易员和研究人员在金融领域的各种任务中获得更准确的语言模型支持。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20230619/pic_org_dfd1e7db-6b6a-4f96-a6c4-06c66e0770ca.png)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20231023/pic_org_6d90077e-2177-4e06-832e-def9d100d999.png)
 
 ---
 
