@@ -17,7 +17,7 @@
 - ⭐ 总星标数量：9796⭐
 - 🔺 日Star增长量：461⭐
 - 📝 项目描述: 一款无需 CA 证书即可抓取 HTTPS 明文的工具。该项目基于 eBPF 技术实现了 TLS 加密的明文捕获，可用于 MySQL 数据库的查询审计、bash 命令捕获等场景，仅支持 Linux 和 Android 系统。
-    ![](https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/469303019.png)
+    ![](https://photocdn.tv.sohu.com/img/github/469303019.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.09.12 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -48,7 +48,7 @@
 - 📅 开源时间：2022-03-13
 - 📝 项目描述：一款无需 CA 证书即可抓取 HTTPS 明文的工具。该项目基于 eBPF 技术实现了 TLS 加密的明文捕获，可用于 MySQL 数据库的查询审计、bash 命令捕获等场景，仅支持 Linux 和 Android 系统。
 
-    ![](https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/81/469303019.png)
+    ![](https://photocdn.tv.sohu.com/img/github/469303019.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/AmruthPillai/Reactive-Resume</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -59,7 +59,7 @@
 - 📅 开源时间：2020-03-25
 - 📝 项目描述：一款颇为独特的简历生成器，可通过各种配置，让创建、更新、共享简历的过程变得更加简单便捷。免费开源、支持中文，可同时创建多份简历，并快速打印成PDF。
 
-    ![](https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/249995750.jpg)
+    ![](https://photocdn.tv.sohu.com/img/github/249995750.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 社区塑造的文档签署工具 https://github.com/documenso/documenso</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -92,7 +92,7 @@
 - 📅 开源时间：2023-03-31
 - 📝 项目描述：一个使用LangchainJS拖放UI构建定制化低代码机器学习（LLM）流程的工具。它简化了机器学习流程的开发和部署，让用户能够通过拖放操作设计自己的机器学习工作流程，提高开发效率。
 
-    ![](https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/88/621803253.gif)
+    ![](https://photocdn.tv.sohu.com/img/github/621803253.gif)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. Ollama交互的Web 客户端 https://github.com/ollama-webui/ollama-webui</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -114,7 +114,7 @@
 - 📅 开源时间：2022-10-24
 - 📝 项目描述：开源的 PS4 模拟器。这是用 C++ 编写的 PlayStation 4（PS4）模拟器，支持在 Windows、Linux 和 macOS 系统上玩 PS4 游戏。虽然项目仍处于早期开发阶段，能运行的游戏有限，但最新版已经能够成功运行《血源诅咒》和《黑暗之魂II》等游戏。
 
-    ![](https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/101/556675672.png)
+    ![](https://photocdn.tv.sohu.com/img/github/556675672.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 前端小项目集合 https://github.com/bradtraversy/50projects50days</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -125,7 +125,7 @@
 - 📅 开源时间：2020-11-16
 - 📝 项目描述：50 个采用 HTML+CSS+JS 的前端小项目集合。项目包含网页源码和效果展示，标准入门级的前端开源项目。通过查看效果让新手感受前端的美妙，简单的源码降低了上手写代码门槛。
 
-    ![](https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/64/313330998.png)
+    ![](https://photocdn.tv.sohu.com/img/github/313330998.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/mulaRahul/keyviz</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -136,7 +136,7 @@
 - 📅 开源时间：2022-07-22
 - 📝 项目描述：一款免费的实时键鼠输入可视化软件。该项目可以将鼠标和键盘的操作展示到屏幕上，让观众可以看到你的键鼠操作。适用于截图、录制视频、演示和协作等场景，支持 Windows、Linux 和 macOS 操作系统。
 
-    ![](https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/516753000.png)
+    ![](https://photocdn.tv.sohu.com/img/github/516753000.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 基础设施即代码工具 https://github.com/hashicorp/terraform</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -154,5 +154,8 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
+ter><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
