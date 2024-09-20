@@ -16,7 +16,9 @@
 - 📅 开源时间：2021-09-28
 - ⭐ 总星标数量：14729⭐
 - 🔺 日Star增长量：325⭐
-- 📝 项目描述: A high-performance, zero-overhead, extensible Python compiler using LLVM
+- 📝 项目描述: 一种高性能的 Python 实现，它可以编译为本机机器代码，而没有任何运行时开销。在单个线程上，与 vanilla Python 相比，典型的加速大约为 10-100 倍或更多。Codon 的性能通常与 C/C++ 相当（有时甚至更好）。与 Python 不同，Codon 支持本机多线程，这可能会导致加速提高许多倍。
+  ![image](https://github.com/user-attachments/assets/6c396d7e-a884-46d3-97cc-cd933900f0df)
+
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.09.19 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -45,7 +47,9 @@
 - 🔺 上周增长数量：415⭐
 - 🔺 上月增长数量：431⭐
 - 📅 开源时间：2021-09-28
-- 📝 项目描述：A high-performance, zero-overhead, extensible Python compiler using LLVM
+- 📝 项目描述：一种高性能的 Python 实现，它可以编译为本机机器代码，而没有任何运行时开销。在单个线程上，与 vanilla Python 相比，典型的加速大约为 10-100 倍或更多。Codon 的性能通常与 C/C++ 相当（有时甚至更好）。与 Python 不同，Codon 支持本机多线程，这可能会导致加速提高许多倍。
+  ![image](https://github.com/user-attachments/assets/daedede9-bdc9-4f2f-a354-5e5b1f1a87ff)
+
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Ollama交互的Web 客户端 https://github.com/ollama-webui/ollama-webui</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
