@@ -32,7 +32,7 @@
 | 7 |  [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)| 23.1k  | 🔺104 |
 | 8 |  [cpacker/MemGPT](https://github.com/cpacker/MemGPT)| 11.5k  | 🔺96 |
 | 9 |  [n8n-io/n8n](https://github.com/n8n-io/n8n)| 46.1k  | 🔺86 |
-| 10 |  [n8n-io/n8n](https://github.com/n8n-io/n8n)| 46.1k  | 🔺86 |
+| 10 |  [immich-app/immich](https://github.com/immich-app/immich)| 45.4k  | 🔺84 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
@@ -140,16 +140,16 @@
 
     ![](http://photocdn.tv.sohu.com/github/f3e8950a80f349ae79344b265c06dbd5f2260478-2209x1256.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 开源的工作流程自动化工具 https://github.com/n8n-io/n8n</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 照片和视频自动备份 https://github.com/immich-app/immich</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：46.1k
-- 🔺 日增长数量：86⭐
-- 🔺 上周增长数量：341⭐
-- 🔺 上月增长数量：2281⭐
-- 📅 开源时间：2019-06-22
-- 📝 项目描述：Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- ⭐ 总星标数量：45.4k
+- 🔺 日增长数量：84⭐
+- 🔺 上周增长数量：401⭐
+- 🔺 上月增长数量：3073⭐
+- 📅 开源时间：2022-02-03
+- 📝 项目描述：一个自托管的照片和视频备份解决方案，可以直接从您的手机上传。它提供了一个安全、便捷的方式来备份您的个人照片和视频，并确保您的数据得到保护和隐私的维护。您可以轻松地将照片和视频上传到自己的服务器，并随时在需要时进行访问和恢复。
 
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20240814/pic_org_4075219c-acb6-490b-aaa5-d497c20ee620.png)
+    ![](https://photocdn.tv.sohu.com/img/github/455229168.png)
 
 ---
 
