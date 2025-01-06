@@ -11,12 +11,12 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.01.05日榜最佳项目:stanford-oval/storm  
+> 🏆2025.01.05日榜最佳项目:stanford-oval/storm  斯坦福项目
 - 开源地址：https://github.com/stanford-oval/storm
 - 📅 开源时间：2024-03-25
 - ⭐ 总星标数量：17101⭐
 - 🔺 日Star增长量：924⭐
-- 📝 项目描述: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+- 📝 项目描述: 一个来自斯坦福的有潜力的项目。storm 可能在科学研究或工程领域发挥重要作用，其创新的技术和方法值得关注。对于从事相关领域的研究者和开发者来说，是一个值得深入了解的项目。
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_b891fc65-6fa7-4a52-8f04-62d286f3dea4.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.01.05 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
@@ -39,14 +39,14 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.01.05 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/stanford-oval/storm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 斯坦福项目 https://github.com/stanford-oval/storm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：17.1k
 - 🔺 日增长数量：924⭐
 - 🔺 上周增长数量：3302⭐
 - 🔺 上月增长数量：3342⭐
 - 📅 开源时间：2024-03-25
-- 📝 项目描述：An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+- 📝 项目描述：一个来自斯坦福的有潜力的项目。storm 可能在科学研究或工程领域发挥重要作用，其创新的技术和方法值得关注。对于从事相关领域的研究者和开发者来说，是一个值得深入了解的项目。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_b891fc65-6fa7-4a52-8f04-62d286f3dea4.jpg)
 
