@@ -1,4 +1,4 @@
-## 2025.02.06 最佳开源项目🔝:anything-llm
+## 2025.02.06 最佳开源项目🔝:DeepSeek-R1
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -11,34 +11,55 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.02.06日榜最佳项目:Mintplex-Labs/anything-llm  通用语言模型
-- 开源地址：https://github.com/Mintplex-Labs/anything-llm
-- 📅 开源时间：2023-06-04
-- ⭐ 总星标数量：33340⭐
-- 🔺 日Star增长量：504⭐
-- 📝 项目描述: 一个有潜力的通用语言模型项目。anything-llm 可能旨在提供一种能够处理各种任务的语言模型，具有广泛的应用前景。对于人工智能研究者和开发者来说，这个项目值得关注。
+> 🏆2025.02.06日榜最佳项目:deepseek-ai/DeepSeek-R1  
+- 开源地址：https://github.com/deepseek-ai/DeepSeek-R1
+- 📅 开源时间：2025-01-20
+- ⭐ 总星标数量：64595⭐
+- 🔺 日Star增长量：2604⭐
+- 📝 项目描述: 
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.02.06 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)| 33.3k  | 🔺504 |
-| 2 |  [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)| 10.5k  | 🔺464 |
-| 3 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)| 24.6k  | 🔺356 |
-| 4 |  [cline/cline](https://github.com/cline/cline)| 27.5k  | 🔺228 |
-| 5 |  [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT)| 5.9k  | 🔺189 |
-| 6 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)| 29k  | 🔺177 |
-| 7 |  [huggingface/lerobot](https://github.com/huggingface/lerobot)| 8.7k  | 🔺162 |
-| 8 |  [metabase/metabase](https://github.com/metabase/metabase)| 40.4k  | 🔺157 |
-| 9 |  [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)| 21.2k  | 🔺148 |
-| 10 |  [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)| 39.5k  | 🔺141 |
+| 1 |  [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)| 64.6k  | 🔺2604 |
+| 2 |  [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui)| 68.7k  | 🔺927 |
+| 3 |  [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)| 33.3k  | 🔺504 |
+| 4 |  [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)| 10.5k  | 🔺464 |
+| 5 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)| 24.6k  | 🔺356 |
+| 6 |  [cline/cline](https://github.com/cline/cline)| 27.5k  | 🔺228 |
+| 7 |  [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT)| 5.9k  | 🔺189 |
+| 8 |  [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)| 29k  | 🔺177 |
+| 9 |  [huggingface/lerobot](https://github.com/huggingface/lerobot)| 8.7k  | 🔺162 |
+| 10 |  [metabase/metabase](https://github.com/metabase/metabase)| 40.4k  | 🔺157 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.02.06 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 通用语言模型 https://github.com/Mintplex-Labs/anything-llm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/deepseek-ai/DeepSeek-R1</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：64.6k
+- 🔺 日增长数量：2604⭐
+- 🔺 上周增长数量：3481⭐
+- 🔺 上月增长数量：3481⭐
+- 📅 开源时间：2025-01-20
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Ollama交互的Web 客户端 https://github.com/ollama-webui/ollama-webui</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：68.7k
+- 🔺 日增长数量：927⭐
+- 🔺 上周增长数量：3775⭐
+- 🔺 上月增长数量：13117⭐
+- 📅 开源时间：2023-10-07
+- 📝 项目描述：ChatGPT-Style Web UI Client for Ollama 🦙
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20240530/pic_org_02fdf3a9-d129-429f-b0f1-43de7f47238f.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 通用语言模型 https://github.com/Mintplex-Labs/anything-llm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：33.3k
 - 🔺 日增长数量：504⭐
@@ -48,7 +69,7 @@
 - 📝 项目描述：一个有潜力的通用语言模型项目。anything-llm 可能旨在提供一种能够处理各种任务的语言模型，具有广泛的应用前景。对于人工智能研究者和开发者来说，这个项目值得关注。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. AI字幕一键搬运 https://github.com/Huanshere/VideoLingo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. AI字幕一键搬运 https://github.com/Huanshere/VideoLingo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：10.5k
 - 🔺 日增长数量：464⭐
@@ -59,7 +80,7 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_8dc75e52-18b8-4a5b-988f-0660235f82a6.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 浏览器扩展工具 https://github.com/browser-use/browser-use</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 浏览器扩展工具 https://github.com/browser-use/browser-use</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：24.6k
 - 🔺 日增长数量：356⭐
@@ -70,7 +91,7 @@
 
     ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 编码代理工具 https://github.com/cline/cline</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 编码代理工具 https://github.com/cline/cline</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：27.5k
 - 🔺 日增长数量：228⭐
@@ -81,7 +102,7 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_e31648bd-9491-4cfb-b526-be27d1713310.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/RockChinQ/QChatGPT</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/RockChinQ/QChatGPT</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：5.9k
 - 🔺 日增长数量：189⭐
@@ -91,7 +112,7 @@
 - 📝 项目描述：😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、Gemini Pro、gpt4free、One API 的 QQ 机器人平台
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 开源Crawl4AI python库 https://github.com/unclecode/crawl4ai</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 开源Crawl4AI python库 https://github.com/unclecode/crawl4ai</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：29k
 - 🔺 日增长数量：177⭐
@@ -102,7 +123,7 @@
 
     ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 智能机器人 https://github.com/huggingface/lerobot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 智能机器人 https://github.com/huggingface/lerobot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：8.7k
 - 🔺 日增长数量：162⭐
@@ -112,7 +133,7 @@
 - 📝 项目描述：一个有潜力的智能机器人项目。huggingface/lerobot 可能为用户提供智能对话和任务处理能力，具有广泛的应用前景。无论是在客服、教育还是其他领域，这个项目都有望发挥重要作用。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 数据可视化工具 https://github.com/metabase/metabase</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 数据可视化工具 https://github.com/metabase/metabase</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：40.4k
 - 🔺 日增长数量：157⭐
@@ -123,30 +144,14 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20230728/pic_org_0f9d5807-0867-40bd-aa68-0a5f55aaeeb5.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/GyulyVGC/sniffnet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：21.2k
-- 🔺 日增长数量：148⭐
-- 🔺 上周增长数量：1443⭐
-- 🔺 上月增长数量：1724⭐
-- 📅 开源时间：2022-08-01
-- 📝 项目描述：Comfortably monitor your Internet traffic 🕵️‍♂️
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 语言模型工厂 https://github.com/hiyouga/LLaMA-Factory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：39.5k
-- 🔺 日增长数量：141⭐
-- 🔺 上周增长数量：370⭐
-- 🔺 上月增长数量：1839⭐
-- 📅 开源时间：2023-05-28
-- 📝 项目描述：一个有潜力的语言模型项目。LLaMA-Factory 提供了一种构建和训练语言模型的方法，对于自然语言处理领域的研究者和开发者来说，是一个很有价值的资源。
-
-    ![](https://photocdn.tv.sohu.com/img/github/646410686.png)
-
 ---
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+
+<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
+style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
