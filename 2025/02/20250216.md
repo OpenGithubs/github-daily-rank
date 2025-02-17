@@ -150,15 +150,3 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-d">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
- 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-r: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
