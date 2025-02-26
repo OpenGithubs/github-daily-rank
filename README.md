@@ -11,13 +11,13 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.02.25日榜最佳项目:deepseek-ai/DeepEP  
+> 🏆2025.02.25日榜最佳项目:deepseek-ai/DeepEP  专家模型高效通信库
 - 开源地址：https://github.com/deepseek-ai/DeepEP
 - 📅 开源时间：2025-02-17
 - ⭐ 总星标数量：4717⭐
 - 🔺 日Star增长量：3630⭐
 - 📝 项目描述: 一个专为专家混合（MoE）和专家并行（EP）设计的高效通信库，能够实现高吞吐量和低延迟的GPU内核操作。该库支持多种低精度操作，并优化了不对称域带宽转发以适应DeepSeek-V3中的组限流算法，此外，还提供了一种挂钩式的通信-计算重叠方法，以降低延迟并提升性能。
-    ![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250226/pic_org_003c9d65-689a-4488-8f6d-f226d3f59009.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.02.25 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -39,7 +39,7 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.02.25 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/deepseek-ai/DeepEP</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 专家模型高效通信库 https://github.com/deepseek-ai/DeepEP</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：4.7k
 - 🔺 日增长数量：3630⭐
@@ -48,7 +48,7 @@
 - 📅 开源时间：2025-02-17
 - 📝 项目描述：一个专为专家混合（MoE）和专家并行（EP）设计的高效通信库，能够实现高吞吐量和低延迟的GPU内核操作。该库支持多种低精度操作，并优化了不对称域带宽转发以适应DeepSeek-V3中的组限流算法，此外，还提供了一种挂钩式的通信-计算重叠方法，以降低延迟并提升性能。
 
-    ![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250226/pic_org_003c9d65-689a-4488-8f6d-f226d3f59009.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/deepseek-ai/FlashMLA</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -115,7 +115,7 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20230904/pic_org_8fca44b5-d06b-412b-81e2-823fca60d330.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. DeepSeek 开源的基础设施库 https://github.com/deepseek-ai/open-infra-index</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/deepseek-ai/open-infra-index</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：4.6k
 - 🔺 日增长数量：573⭐
