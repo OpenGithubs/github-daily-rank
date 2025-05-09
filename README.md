@@ -1,4 +1,4 @@
-## 2025.05.08 最佳开源项目🔝:weekly
+## 2025.05.08 最佳开源项目🔝:void
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -11,44 +11,35 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.05.08日榜最佳项目:ruanyf/weekly  
-- 开源地址：https://github.com/ruanyf/weekly
-- 📅 开源时间：2018-10-13
-- ⭐ 总星标数量：60006⭐
-- 🔺 日Star增长量：998⭐
-- 📝 项目描述: 科技爱好者周刊，每周五发布
+> 🏆2025.05.08日榜最佳项目:voideditor/void  AI编码工具
+- 开源地址：https://github.com/voideditor/void
+- 📅 开源时间：2024-09-11
+- ⭐ 总星标数量：12990⭐
+- 🔺 日Star增长量：404⭐
+- 📝 项目描述: Void is the open-source Cursor alternative. This repo contains the full sourcecode for Void. We have a waitlist for downloading the official release, but you can build and develop Void right now.
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_5fceaa0a-4517-44ad-9e5c-692b5bec404d.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.08 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [ruanyf/weekly](https://github.com/ruanyf/weekly)| 60k  | 🔺998 |
-| 2 |  [voideditor/void](https://github.com/voideditor/void)| 13k  | 🔺404 |
-| 3 |  [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)| 19k  | 🔺260 |
-| 4 |  [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis)| 10.6k  | 🔺224 |
-| 5 |  [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)| 37.3k  | 🔺216 |
-| 6 |  [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)| 33.4k  | 🔺177 |
-| 7 |  [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)| 19.2k  | 🔺170 |
-| 8 |  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)| 22.8k  | 🔺149 |
-| 9 |  [browser-use/browser-use](https://github.com/browser-use/browser-use)| 59.4k  | 🔺130 |
-| 10 |  [pathwaycom/pathway](https://github.com/pathwaycom/pathway)| 24.7k  | 🔺127 |
+| 1 |  [voideditor/void](https://github.com/voideditor/void)| 13k  | 🔺404 |
+| 2 |  [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)| 19k  | 🔺260 |
+| 3 |  [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis)| 10.6k  | 🔺224 |
+| 4 |  [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)| 37.3k  | 🔺216 |
+| 5 |  [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)| 33.4k  | 🔺177 |
+| 6 |  [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)| 19.2k  | 🔺170 |
+| 7 |  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)| 22.8k  | 🔺149 |
+| 8 |  [pathwaycom/pathway](https://github.com/pathwaycom/pathway)| 24.7k  | 🔺127 |
+| 9 |  [astral-sh/ruff](https://github.com/astral-sh/ruff)| 38.5k  | 🔺117 |
+| 10 |  [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)| 10.1k  | 🔺111 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.08 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/ruanyf/weekly</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：60k
-- 🔺 日增长数量：998⭐
-- 🔺 上周增长数量：5247⭐
-- 🔺 上月增长数量：5931⭐
-- 📅 开源时间：2018-10-13
-- 📝 项目描述：科技爱好者周刊，每周五发布
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. AI编码工具 https://github.com/voideditor/void</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. AI编码工具 https://github.com/voideditor/void</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：13k
 - 🔺 日增长数量：404⭐
@@ -59,7 +50,7 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_5fceaa0a-4517-44ad-9e5c-692b5bec404d.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/beekeeper-studio/beekeeper-studio</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/beekeeper-studio/beekeeper-studio</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：19k
 - 🔺 日增长数量：260⭐
@@ -70,7 +61,7 @@
 
     ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/darkroomengineering/lenis</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/darkroomengineering/lenis</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：10.6k
 - 🔺 日增长数量：224⭐
@@ -80,7 +71,7 @@
 - 📝 项目描述：How smooth scroll should be
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/dylanaraps/pure-bash-bible</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/dylanaraps/pure-bash-bible</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：37.3k
 - 🔺 日增长数量：216⭐
@@ -91,7 +82,7 @@
 
     ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 图片转文字识别软件 https://github.com/hiroi-sora/Umi-OCR</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 图片转文字识别软件 https://github.com/hiroi-sora/Umi-OCR</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：33.4k
 - 🔺 日增长数量：177⭐
@@ -102,7 +93,7 @@
 
     ![](https://photocdn.tv.sohu.com/img/github/474839179.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/Ciphey/Ciphey</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/Ciphey/Ciphey</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：19.2k
 - 🔺 日增长数量：170⭐
@@ -113,7 +104,7 @@
 
     ![](https://photocdn.tv.sohu.com/img/github/197261780.gif)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. PDF 翻译 https://github.com/Byaidu/PDFMathTranslate</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. PDF 翻译 https://github.com/Byaidu/PDFMathTranslate</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：22.8k
 - 🔺 日增长数量：149⭐
@@ -123,18 +114,7 @@
 - 📝 项目描述：一个实用的 PDF 数学公式翻译项目。Byaidu/PDFMathTranslate 能够将 PDF 文档中的数学公式进行准确翻译，为学术研究和教育工作者提供了极大的便利。对于需要处理大量数学文献的人来说，这个项目可以节省大量的时间和精力，提高工作效率。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 浏览器扩展工具 https://github.com/browser-use/browser-use</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：59.4k
-- 🔺 日增长数量：130⭐
-- 🔺 上周增长数量：930⭐
-- 🔺 上月增长数量：6540⭐
-- 📅 开源时间：2024-11-01
-- 📝 项目描述：一个实用的 browser - use 项目。在当今数字化时代，了解用户如何使用浏览器对于网站开发者和运营者来说至关重要。该项目致力于收集和分析用户在浏览器中的行为数据，通过详细的跟踪和统计，能够帮助开发者更好地优化网站性能、提升用户体验。比如，它可以揭示用户在页面间的跳转路径、停留时间，以及不同浏览器功能的使用频率等。这使得开发者能精准地定位问题、发现潜在需求，进而有针对性地改进网站。无论是小型创业公司的产品，还是大型企业的平台，都能从该项目的分析结果中获取有价值的信息，为产品迭代提供有力支撑。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250401/pic_org_89ba7dc0-2ce7-4345-96dd-7f149b302586.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 实时数据处理利器 https://github.com/pathwaycom/pathway</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 实时数据处理利器 https://github.com/pathwaycom/pathway</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：24.7k
 - 🔺 日增长数量：127⭐
@@ -145,10 +125,34 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250401/pic_org_4fc0b7b2-2e96-40e1-a4bf-88a5c9ae7d02.jpg)
 
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/astral-sh/ruff</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：38.5k
+- 🔺 日增长数量：117⭐
+- 🔺 上周增长数量：345⭐
+- 🔺 上月增长数量：997⭐
+- 📅 开源时间：2022-08-10
+- 📝 项目描述：An extremely fast Python linter and code formatter, written in Rust.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/maboloshi/github-chinese</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：10.1k
+- 🔺 日增长数量：111⭐
+- 🔺 上周增长数量：876⭐
+- 🔺 上月增长数量：1351⭐
+- 📅 开源时间：2021-09-27
+- 📝 项目描述：GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用。来自 [@wuyuncheng-26](https://hellogithub.com/user/zepvSg6Vwl4EqMr) 的分享
+
+    ![](https://photocdn.tv.sohu.com/img/github/410808715.png)
+
 ---
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
+or: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
