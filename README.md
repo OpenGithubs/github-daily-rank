@@ -16,8 +16,8 @@
 - 📅 开源时间：2023-03-06
 - ⭐ 总星标数量：8248⭐
 - 🔺 日Star增长量：344⭐
-- 📝 项目描述: 一个强大的邮件服务器项目。stalwartlabs/mail-server 提供了稳定可靠的邮件服务，具有丰富的功能和可扩展性。对于需要搭建自己邮件服务器的企业或个人来说，是一个很好的选择。
-    ![]()
+- 📝 项目描述: 一款开源的邮件与协作服务器，支持 JMAP、IMAP4、POP3、SMTP、CalDAV、CardDAV 和 WebDAV，具备广泛的现代功能。它使用 Rust 编写，旨在实现安全、快速、稳健且可扩展。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250529/pic_org_fd2c32ee-4246-4b39-9c1d-08159818068b.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.28 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -46,9 +46,9 @@
 - 🔺 上周增长数量：616⭐
 - 🔺 上月增长数量：832⭐
 - 📅 开源时间：2023-03-06
-- 📝 项目描述：一个强大的邮件服务器项目。stalwartlabs/mail-server 提供了稳定可靠的邮件服务，具有丰富的功能和可扩展性。对于需要搭建自己邮件服务器的企业或个人来说，是一个很好的选择。
+- 📝 项目描述：一款开源的邮件与协作服务器，支持 JMAP、IMAP4、POP3、SMTP、CalDAV、CardDAV 和 WebDAV，具备广泛的现代功能。它使用 Rust 编写，旨在实现安全、快速、稳健且可扩展。
 
-    ![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250529/pic_org_fd2c32ee-4246-4b39-9c1d-08159818068b.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/sktime/sktime</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
