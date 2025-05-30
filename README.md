@@ -11,12 +11,13 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.05.29日榜最佳项目:sktime/sktime  
+> 🏆2025.05.29日榜最佳项目:sktime/sktime  人工智能Python 框架
 - 开源地址：https://github.com/sktime/sktime
 - 📅 开源时间：2018-11-06
 - ⭐ 总星标数量：8994⭐
 - 🔺 日Star增长量：195⭐
-- 📝 项目描述: A unified framework for machine learning with time series
+- 📝 项目描述: 一个开源的 Python 框架，专注于时间序列数据的机器学习和人工智能任务。其设计灵感来源于scikit-learn，旨在为时间序列分析提供统一、模块化且易于扩展的接口。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250530/pic_org_fcca235d-592c-4712-a9b6-d356d708b241.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.29 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -38,15 +39,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.05.29 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/sktime/sktime</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 人工智能Python 框架 https://github.com/sktime/sktime</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：9k
 - 🔺 日增长数量：195⭐
 - 🔺 上周增长数量：574⭐
 - 🔺 上月增长数量：574⭐
 - 📅 开源时间：2018-11-06
-- 📝 项目描述：A unified framework for machine learning with time series
+- 📝 项目描述：一个开源的 Python 框架，专注于时间序列数据的机器学习和人工智能任务。其设计灵感来源于scikit-learn，旨在为时间序列分析提供统一、模块化且易于扩展的接口。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250530/pic_org_fcca235d-592c-4712-a9b6-d356d708b241.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 用 SQL 开启机器学习的数据库 https://github.com/mindsdb/mindsdb</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -150,11 +152,6 @@
 ---
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-n-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
