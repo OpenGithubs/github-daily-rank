@@ -16,7 +16,10 @@
 - 📅 开源时间：2024-06-10
 - ⭐ 总星标数量：8704⭐
 - 🔺 日Star增长量：333⭐
-- 📝 项目描述: 一个创新的智能代理项目。frdel/agent-zero 可能在自动化任务处理、决策支持等方面发挥重要作用，为用户提供智能化的服务。对于追求智能化解决方案的用户来说，这个项目是一个很有吸引力的尝试。
+- 📝 项目描述: Agent Zero是一个有机的智能体框架，它会随着用户的使用而成长和学习。它具有高度的透明度、可读性、可理解性、可定制性和交互性，利用计算机作为工具来完成用户的任务。
+
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250606/pic_org_1d11ade5-ddae-4b63-a8c4-b8ed829ba101.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.06.05 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -45,8 +48,11 @@
 - 🔺 上周增长数量：1873⭐
 - 🔺 上月增长数量：2074⭐
 - 📅 开源时间：2024-06-10
-- 📝 项目描述：一个创新的智能代理项目。frdel/agent-zero 可能在自动化任务处理、决策支持等方面发挥重要作用，为用户提供智能化的服务。对于追求智能化解决方案的用户来说，这个项目是一个很有吸引力的尝试。
+- 📝 项目描述：Agent Zero是一个有机的智能体框架，它会随着用户的使用而成长和学习。它具有高度的透明度、可读性、可理解性、可定制性和交互性，利用计算机作为工具来完成用户的任务。
 
+
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250606/pic_org_1d11ade5-ddae-4b63-a8c4-b8ed829ba101.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/nautechsystems/nautilus_trader</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -153,7 +159,7 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-��众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+</h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
