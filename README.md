@@ -11,12 +11,13 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.06.10日榜最佳项目:LizardByte/Sunshine  
+> 🏆2025.06.10日榜最佳项目:LizardByte/Sunshine  自托管游戏串流服务器
 - 开源地址：https://github.com/LizardByte/Sunshine
 - 📅 开源时间：2021-12-16
 - ⭐ 总星标数量：26318⭐
 - 🔺 日Star增长量：127⭐
-- 📝 项目描述: Self-hosted game stream host for Moonlight.
+- 📝 项目描述: 一个自托管的游戏串流服务，支持与 Moonlight 客户端配合使用。它提供低延迟体验，支持 AMD、Intel、Nvidia 显卡硬件编码，也支持软件编码。用户可通过网页界面进行配置和配对，支持多设备连接。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250611/pic_org_dc79c07e-1bf5-4c1f-aa47-19f3dddd209f.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.06.10 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -38,15 +39,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.06.10 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/LizardByte/Sunshine</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 自托管游戏串流服务器 https://github.com/LizardByte/Sunshine</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：26.3k
 - 🔺 日增长数量：127⭐
 - 🔺 上周增长数量：309⭐
 - 🔺 上月增长数量：1148⭐
 - 📅 开源时间：2021-12-16
-- 📝 项目描述：Self-hosted game stream host for Moonlight.
+- 📝 项目描述：一个自托管的游戏串流服务，支持与 Moonlight 客户端配合使用。它提供低延迟体验，支持 AMD、Intel、Nvidia 显卡硬件编码，也支持软件编码。用户可通过网页界面进行配置和配对，支持多设备连接。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250611/pic_org_dc79c07e-1bf5-4c1f-aa47-19f3dddd209f.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 智能代理 https://github.com/frdel/agent-zero</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -151,14 +153,7 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-y: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-us: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+b</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
  style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
