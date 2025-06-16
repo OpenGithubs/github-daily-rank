@@ -16,7 +16,7 @@
 - 📅 开源时间：2019-04-26
 - ⭐ 总星标数量：10902⭐
 - 🔺 日Star增长量：167⭐
-- 📝 项目描述: The Next Generation of Anti-Rookit(ARK) tool for Windows.
+- 📝 项目描述: 专业的 Windows 恶意程序分析与清理工具。这是一款 Windows 平台上的对抗和清理 Rootkit（恶意程序）工具，它能够帮助程序员发现系统中隐藏的恶意软件，支持查看进程、进程注入、内核驱动模式和扫描等功能。
     ![](https://photocdn.tv.sohu.com/img/github/183564981.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.06.15 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
@@ -46,7 +46,7 @@
 - 🔺 上周增长数量：200⭐
 - 🔺 上月增长数量：376⭐
 - 📅 开源时间：2019-04-26
-- 📝 项目描述：The Next Generation of Anti-Rookit(ARK) tool for Windows.
+- 📝 项目描述：专业的 Windows 恶意程序分析与清理工具。这是一款 Windows 平台上的对抗和清理 Rootkit（恶意程序）工具，它能够帮助程序员发现系统中隐藏的恶意软件，支持查看进程、进程注入、内核驱动模式和扫描等功能。
 
     ![](https://photocdn.tv.sohu.com/img/github/183564981.png)
 
@@ -152,10 +152,5 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-n><center>
-tHub狐动社“，洞察Github开源动态</span><center>
- style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
