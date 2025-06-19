@@ -149,4 +149,6 @@
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<span></span><img class="avatar-img " style="width:150px;height:150px;" src="/static/images/gongzhonghao.png" alt=""></span>
