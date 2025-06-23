@@ -24,15 +24,15 @@
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
 | 1 |  [voideditor/void](https://github.com/voideditor/void)| 24.2k  | 🔺194 |
-| 2 |  [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki)| 2.4k  | 🔺180 |
-| 3 |  [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)| 11.2k  | 🔺162 |
-| 4 |  [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)| 31.1k  | 🔺138 |
-| 5 |  [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)| 14.3k  | 🔺129 |
-| 6 |  [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)| 16.1k  | 🔺96 |
-| 7 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 32.5k  | 🔺87 |
-| 8 |  [ManimCommunity/manim](https://github.com/ManimCommunity/manim)| 32.7k  | 🔺87 |
-| 9 |  [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)| 3.4k  | 🔺68 |
-| 10 |  [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)| 32.2k  | 🔺58 |
+| 2 |  [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)| 11.2k  | 🔺162 |
+| 3 |  [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)| 31.1k  | 🔺138 |
+| 4 |  [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)| 14.3k  | 🔺129 |
+| 5 |  [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)| 16.1k  | 🔺96 |
+| 6 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 32.5k  | 🔺87 |
+| 7 |  [ManimCommunity/manim](https://github.com/ManimCommunity/manim)| 32.7k  | 🔺87 |
+| 8 |  [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)| 3.4k  | 🔺68 |
+| 9 |  [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)| 32.2k  | 🔺58 |
+| 10 |  [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)| 9.2k  | 🔺53 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
@@ -50,17 +50,7 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_5fceaa0a-4517-44ad-9e5c-692b5bec404d.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/chaitin/PandaWiki</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：2.4k
-- 🔺 日增长数量：180⭐
-- 🔺 上周增长数量：459⭐
-- 🔺 上月增长数量：459⭐
-- 📅 开源时间：2025-05-15
-- 📝 项目描述：
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/dail8859/NotepadNext</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/dail8859/NotepadNext</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：11.2k
 - 🔺 日增长数量：162⭐
@@ -71,7 +61,7 @@
 
     ![](https://photocdn.tv.sohu.com/img/github/224468265.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/kuchin/awesome-cto</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/kuchin/awesome-cto</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：31.1k
 - 🔺 日增长数量：138⭐
@@ -81,7 +71,7 @@
 - 📝 项目描述：A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 限制工具 https://github.com/Flowseal/zapret-discord-youtube</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 限制工具 https://github.com/Flowseal/zapret-discord-youtube</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：14.3k
 - 🔺 日增长数量：129⭐
@@ -91,7 +81,7 @@
 - 📝 项目描述：一个具有特定功能的项目。Flowseal/zapret-discord-youtube 可能用于对 Discord 和 YouTube 进行某种限制操作，对于有特定网络管理需求的用户来说，这个项目值得关注，它或许能提供一种独特的解决方案。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/Orange-OpenSource/hurl</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/Orange-OpenSource/hurl</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：16.1k
 - 🔺 日增长数量：96⭐
@@ -101,7 +91,7 @@
 - 📝 项目描述：Hurl, run and test HTTP requests with plain text.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：32.5k
 - 🔺 日增长数量：87⭐
@@ -111,7 +101,7 @@
 - 📝 项目描述：一个实用的文档处理项目。docling 可以帮助用户更好地管理和分析文档，提高工作效率。对于经常处理文档的用户来说，是一个很有帮助的工具。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/ManimCommunity/manim</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/ManimCommunity/manim</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：32.7k
 - 🔺 日增长数量：87⭐
@@ -122,7 +112,7 @@
 
     ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/yuka-friends/Windrecorder</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/yuka-friends/Windrecorder</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：3.4k
 - 🔺 日增长数量：68⭐
@@ -133,7 +123,7 @@
 
     ![](https://photocdn.tv.sohu.com/img/github/672537073.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 长寿指南 https://github.com/geekan/HowToLiveLonger</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 长寿指南 https://github.com/geekan/HowToLiveLonger</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：32.2k
 - 🔺 日增长数量：58⭐
@@ -142,6 +132,17 @@
 - 📅 开源时间：2022-04-16
 - 📝 项目描述：一个有趣的项目，探讨如何活得更长久。它可能包含各种健康生活方式的建议和科学研究成果，为人们追求健康长寿提供参考。对于关注健康的人来说，是一个值得一看的项目。
 
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/microsoft/fluentui-system-icons</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：9.2k
+- 🔺 日增长数量：53⭐
+- 🔺 上周增长数量：2527⭐
+- 🔺 上月增长数量：2792⭐
+- 📅 开源时间：2020-05-13
+- 📝 项目描述：微软开源的图标集合。这是一套微软 Fluent UI 设计风格的图标，它丰富、精致、统一。
+
+    ![](https://photocdn.tv.sohu.com/img/github/263452252.png)
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
