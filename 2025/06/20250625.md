@@ -16,7 +16,8 @@
 - 📅 开源时间：2022-02-07
 - ⭐ 总星标数量：14239⭐
 - 🔺 日Star增长量：534⭐
-- 📝 项目描述: 一个全面的自托管指南项目。mikeroyal/Self-Hosting-Guide 为用户提供了详细的自托管教程和指南，涵盖了各种软件和服务。它帮助用户更好地掌握自托管技术，实现对自己数据和服务的掌控。
+- 📝 项目描述: 一个全面的自托管指南项目。全面了解如何在本地（在本地服务器和私有网络服务器上）自行或由您的组织托管和管理软件应用程序。涵盖云服务、大语言模型、WireGuard、自动化、Home Assistant 以及网络服务.
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250626/pic_org_21aeaa51-f9d4-4e93-9fd0-d4bbc1642d82.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.06.25 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -45,8 +46,9 @@
 - 🔺 上周增长数量：612⭐
 - 🔺 上月增长数量：832⭐
 - 📅 开源时间：2022-02-07
-- 📝 项目描述：一个全面的自托管指南项目。mikeroyal/Self-Hosting-Guide 为用户提供了详细的自托管教程和指南，涵盖了各种软件和服务。它帮助用户更好地掌握自托管技术，实现对自己数据和服务的掌控。
+- 📝 项目描述：一个全面的自托管指南项目。全面了解如何在本地（在本地服务器和私有网络服务器上）自行或由您的组织托管和管理软件应用程序。涵盖云服务、大语言模型、WireGuard、自动化、Home Assistant 以及网络服务.
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250626/pic_org_21aeaa51-f9d4-4e93-9fd0-d4bbc1642d82.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/ml-tooling/best-of-ml-python</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
