@@ -60,16 +60,16 @@
 - 📝 项目描述：🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/kilimchoi/engineering-blogs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 全球领先公司blog资源库 https://github.com/kilimchoi/engineering-blogs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：33.9k
 - 🔺 日增长数量：304⭐
 - 🔺 上周增长数量：667⭐
 - 🔺 上月增长数量：811⭐
 - 📅 开源时间：2015-06-14
-- 📝 项目描述：600多个大牛公司和各大牛的技术blog收集贴（英文）
+- 📝 项目描述：600多个大牛公司和各大牛的技术blog开源资源，收集了来自全球领先公司和技术领袖的工程博客链接。它通过分公司、个人贡献者、技术产品等多个维度分类，帮助开发者轻松找到优质的技术分享，从核心架构设计到开发实践、性能优化、团队协作、电商实战、前端/后端技术等领域。
 
-    ![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250626/pic_org_e5fbe363-9375-4239-beac-1ba511936bc3.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/DioxusLabs/dioxus</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
