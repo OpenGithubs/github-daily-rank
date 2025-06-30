@@ -11,12 +11,13 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.06.29日榜最佳项目:GyulyVGC/sniffnet  
+> 🏆2025.06.29日榜最佳项目:GyulyVGC/sniffnet  跨平台网络监控工具
 - 开源地址：https://github.com/GyulyVGC/sniffnet
 - 📅 开源时间：2022-08-01
 - ⭐ 总星标数量：25132⭐
 - 🔺 日Star增长量：320⭐
-- 📝 项目描述: Comfortably monitor your Internet traffic 🕵️‍♂️
+- 📝 项目描述: 一个用 Rust 编写的跨平台网络监控工具，具有图形化界面，支持对本机的实时网络流量进行分析和可视化展示。它简单、直观、开源、安全，适合网络分析爱好者、系统管理员和开发者快速排查网络连接问题或观察设备行为。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250630/pic_org_197545f3-85b5-49f5-aed7-3bb52048bdfc.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.06.29 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -38,15 +39,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.06.29 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/GyulyVGC/sniffnet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 跨平台网络监控工具 https://github.com/GyulyVGC/sniffnet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：25.1k
 - 🔺 日增长数量：320⭐
 - 🔺 上周增长数量：609⭐
 - 🔺 上月增长数量：1126⭐
 - 📅 开源时间：2022-08-01
-- 📝 项目描述：Comfortably monitor your Internet traffic 🕵️‍♂️
+- 📝 项目描述：一个用 Rust 编写的跨平台网络监控工具，具有图形化界面，支持对本机的实时网络流量进行分析和可视化展示。它简单、直观、开源、安全，适合网络分析爱好者、系统管理员和开发者快速排查网络连接问题或观察设备行为。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250630/pic_org_197545f3-85b5-49f5-aed7-3bb52048bdfc.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/m1k1o/neko</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -152,25 +154,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-e9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：5.7k
-- 🔺 日增长数量：83⭐
-- 🔺 上周增长数量：101⭐
-- 🔺 上月增长数量：184⭐
-- 📅 开源时间：2020-10-18
-- 📝 项目描述：一款 C++ 写的数据可视化桌面工具。支持多平台，效果和操作步骤如下
-
-    ![](https://photocdn.tv.sohu.com/img/github/305089628.gif)
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 /img/github/119190187.gif)
 
 ---
