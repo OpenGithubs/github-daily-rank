@@ -11,12 +11,12 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.07.01日榜最佳项目:stanford-oval/storm  斯坦福项目
+> 🏆2025.07.01日榜最佳项目:stanford-oval/storm  斯坦福开源的 LLM 智能体平台
 - 开源地址：https://github.com/stanford-oval/storm
 - 📅 开源时间：2024-03-25
 - ⭐ 总星标数量：25779⭐
 - 🔺 日Star增长量：255⭐
-- 📝 项目描述: 一个来自斯坦福的有潜力的项目。storm 可能在科学研究或工程领域发挥重要作用，其创新的技术和方法值得关注。对于从事相关领域的研究者和开发者来说，是一个值得深入了解的项目。
+- 📝 项目描述: 一个来自斯坦福大学 OVAL 实验室的开源项目，旨在为 大语言模型（LLM）驱动的多智能体系统 提供一个统一的平台。Storm 让开发者可以像编排云函数一样，构建和管理多个协作的 AI Agent，实现复杂任务的分解、并发和响应式执行。
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_b891fc65-6fa7-4a52-8f04-62d286f3dea4.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.07.01 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
@@ -39,14 +39,14 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.07.01 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 斯坦福项目 https://github.com/stanford-oval/storm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 斯坦福开源的 LLM 智能体平台 https://github.com/stanford-oval/storm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：25.8k
 - 🔺 日增长数量：255⭐
 - 🔺 上周增长数量：1143⭐
 - 🔺 上月增长数量：1338⭐
 - 📅 开源时间：2024-03-25
-- 📝 项目描述：一个来自斯坦福的有潜力的项目。storm 可能在科学研究或工程领域发挥重要作用，其创新的技术和方法值得关注。对于从事相关领域的研究者和开发者来说，是一个值得深入了解的项目。
+- 📝 项目描述：一个来自斯坦福大学 OVAL 实验室的开源项目，旨在为 大语言模型（LLM）驱动的多智能体系统 提供一个统一的平台。Storm 让开发者可以像编排云函数一样，构建和管理多个协作的 AI Agent，实现复杂任务的分解、并发和响应式执行。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_b891fc65-6fa7-4a52-8f04-62d286f3dea4.jpg)
 
@@ -154,4 +154,4 @@
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
-
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
