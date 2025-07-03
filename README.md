@@ -61,15 +61,17 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20230904/pic_org_8fca44b5-d06b-412b-81e2-823fca60d330.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/GraphiteEditor/Graphite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 下一代 GPU 加速的 2D 图形编辑器 https://github.com/GraphiteEditor/Graphite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：17.6k
 - 🔺 日增长数量：162⭐
 - 🔺 上周增长数量：162⭐
 - 🔺 上月增长数量：162⭐
 - 📅 开源时间：2020-04-26
-- 📝 项目描述：
+- 📝 项目描述：一个使用 Rust 开发的 现代化 2D 矢量图形编辑器，采用 WebAssembly 和 GPU 加速渲染技术，具备非破坏性编辑、图层混合、路径编辑等核心功能，目标是成为开源界的 Illustrator 或 Affinity Designer 替代品。
+它专为性能与可扩展性设计，核心采用模块化插件机制，并通过 Web UI 提供跨平台体验，适合创意设计师、开发者以及教育领域使用。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250703/pic_org_77aff5bf-3f89-4194-a3a0-6fff566fa3ff.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/pcottle/learnGitBranching</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -89,7 +91,7 @@
 - 🔺 上周增长数量：351⭐
 - 🔺 上月增长数量：579⭐
 - 📅 开源时间：2024-08-09
-- 📝 项目描述：Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+- 📝 项目描述：一款开源的 AI 驱动多语言学习平台，可以将任意 YouTube 视频转化为语言学习材料。它支持自动字幕抓取、分句分析、重点词汇标注，并提供 AI 对话功能帮助用户练习听力与口语。通过 GPT 模型实现句子翻译、语法解释、情境对话模拟，让外语学习更自然、有趣、沉浸。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_8dc75e52-18b8-4a5b-988f-0660235f82a6.jpg)
 
@@ -104,15 +106,16 @@
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_b891fc65-6fa7-4a52-8f04-62d286f3dea4.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. AI文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：33.5k
 - 🔺 日增长数量：119⭐
 - 🔺 上周增长数量：685⭐
 - 🔺 上月增长数量：2429⭐
 - 📅 开源时间：2024-07-09
-- 📝 项目描述：一个实用的文档处理项目。docling 可以帮助用户更好地管理和分析文档，提高工作效率。对于经常处理文档的用户来说，是一个很有帮助的工具。
+- 📝 项目描述：一个实用的文档处理项目。docling 可以帮助用户更好地管理和分析文档，提高工作效率。专注于用 AI 理解结构化和非结构化的技术文档，如软件说明书、API 文档、论文、技术报告等,是一个很有帮助的工具。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250703/pic_org_f73e677b-b72b-49a5-8778-681327b529dc.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 跨平台网络监控工具 https://github.com/GyulyVGC/sniffnet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
