@@ -11,12 +11,13 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.07.02日榜最佳项目:microsoft/vscode-copilot-chat  
+> 🏆2025.07.02日榜最佳项目:microsoft/vscode-copilot-chat   AI 编程助手
 - 开源地址：https://github.com/microsoft/vscode-copilot-chat
 - 📅 开源时间：2025-06-11
 - ⭐ 总星标数量：4482⭐
 - 🔺 日Star增长量：624⭐
-- 📝 项目描述: 
+- 📝 项目描述: Microsoft 和 GitHub 联合开发的开源插件，专为 Visual Studio Code 打造一款人工智能辅助编程工具，可帮助您更快速、更智能地编写代码。GitHub Copilot 能够适应您的独特需求，让您为项目选择最佳模型，通过自定义指令定制聊天回复，并利用智能体模式实现由人工智能驱动、无缝集成的协同编程会话。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250703/pic_org_6abd7228-f0ea-4c2c-9e6a-dfeba6afba5c.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.07.02 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -38,15 +39,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.07.02 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/microsoft/vscode-copilot-chat</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  AI 编程助手 https://github.com/microsoft/vscode-copilot-chat</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：4.5k
 - 🔺 日增长数量：624⭐
 - 🔺 上周增长数量：624⭐
 - 🔺 上月增长数量：624⭐
 - 📅 开源时间：2025-06-11
-- 📝 项目描述：
+- 📝 项目描述：Microsoft 和 GitHub 联合开发的开源插件，专为 Visual Studio Code 打造一款人工智能辅助编程工具，可帮助您更快速、更智能地编写代码。GitHub Copilot 能够适应您的独特需求，让您为项目选择最佳模型，通过自定义指令定制聊天回复，并利用智能体模式实现由人工智能驱动、无缝集成的协同编程会话。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250703/pic_org_6abd7228-f0ea-4c2c-9e6a-dfeba6afba5c.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 手机或桌面推送通知工具 https://github.com/binwiederhier/ntfy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -149,11 +151,6 @@
 ## 更多Github开源项目,请关注微信&公众号
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-ed">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
