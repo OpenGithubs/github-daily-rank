@@ -157,15 +157,3 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-��目是运行在 Docker 容器中的自托管虚拟浏览器环境，为用户提供安全、隔离和功能齐全的虚拟浏览器。此外，它还支持在线共享浏览器和实时互动演示，具备多人访问、管理员用户、文本聊天和双向文件传输等功能。来自 [@猎隼丶止戈reNo7](https://hellogithub.com/user/Ew59HqRWjPe0zZO) 的分享
-
-    ![](https://photocdn.tv.sohu.com/img/github/247350713.gif)
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
