@@ -156,22 +156,3 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
- solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：12.4k
-- 🔺 日增长数量：147⭐
-- 🔺 上周增长数量：477⭐
-- 🔺 上月增长数量：1253⭐
-- 📅 开源时间：2024-05-09
-- 📝 项目描述：一个具有预测功能的项目。Kazumi 可能在数据分析和趋势预测方面有独特的能力，为用户提供有价值的信息和决策支持。
-
-    ![](https://photocdn.tv.sohu.com/img/github/798049841.png)
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
