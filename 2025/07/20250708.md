@@ -7,7 +7,7 @@
 - 微信公众号: >>[搜索开源推荐官](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
 - 头条社区: >>[搜索开源推荐官](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
 - 知乎社区: >>[搜索Open Github社区](https://www.zhihu.com/people/OpenGithub)
-- **订阅日榜榜单**: [订阅日榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065035174692438029#wechat_redirect)
+- **订阅日榜榜单**: [订阅日榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065034652468035603#wechat_redirect)
 - 日飙升榜: https://github.com/OpenGithubs/github-daily-rank
 
 
