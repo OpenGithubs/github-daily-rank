@@ -11,13 +11,13 @@
 - 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
-> 🏆2025.07.08日榜最佳项目:rustfs/rustfs  高性能对象存储
+> 🏆2025.07.08日榜最佳项目:rustfs/rustfs  分布式高性能对象存储
 - 开源地址：https://github.com/rustfs/rustfs
 - 📅 开源时间：2023-11-23
 - ⭐ 总星标数量：3128⭐
 - 🔺 日Star增长量：1060⭐
-- 📝 项目描述: 一个现代化的用户态文件系统工具包，支持构建基于 FUSE 的文件系统，适用于需要快速开发、部署文件挂载逻辑的场景。
-    ![]()
+- 📝 项目描述: 分布式存储系统,RustFS 用热门安全的 Rust 语言开发，兼容 S3 协议。适用于 AI/ML 及海量数据存储、大数据、互联网、工业和保密存储等全部场景。近乎免费使用。遵循 Apache 2 协议，支持国产保密设备和系统。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250709/pic_org_433d9f94-69b8-4cec-8e48-d32345e79f1e.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.07.08 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -39,16 +39,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.07.08 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 高性能对象存储 https://github.com/rustfs/rustfs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 分布式高性能对象存储 https://github.com/rustfs/rustfs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：3.1k
 - 🔺 日增长数量：1060⭐
 - 🔺 上周增长数量：1078⭐
 - 🔺 上月增长数量：1078⭐
 - 📅 开源时间：2023-11-23
-- 📝 项目描述：一个现代化的用户态文件系统工具包，支持构建基于 FUSE 的文件系统，适用于需要快速开发、部署文件挂载逻辑的场景。
+- 📝 项目描述：分布式存储系统,RustFS 用热门安全的 Rust 语言开发，兼容 S3 协议。适用于 AI/ML 及海量数据存储、大数据、互联网、工业和保密存储等全部场景。近乎免费使用。遵循 Apache 2 协议，支持国产保密设备和系统。
 
-    ![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250709/pic_org_433d9f94-69b8-4cec-8e48-d32345e79f1e.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 多智能体系统 https://github.com/humanlayer/12-factor-agents</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -59,7 +59,7 @@
 - 📅 开源时间：2025-03-31
 - 📝 项目描述：结合了 Twelve-Factor App 原则与 AI agent 架构，帮助用户构建可扩展、模块化、可维护的多智能体系统。
 
-    ![]()
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250709/pic_org_f5b09a12-fd84-4aa9-8c3d-6e2be09b5e10.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. Mac 工具 https://github.com/dockur/macos</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
