@@ -3,12 +3,12 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 - OpenGithub社区：https://open.itc.cn/
+- Github: https://github.com/OpenGithubs
 - 微信公众号: >>[搜索开源推荐官](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
 - 头条社区: >>[搜索开源推荐官](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
 - 知乎社区: >>[搜索Open Github社区](https://www.zhihu.com/people/OpenGithub)
+- **订阅日榜榜单**: [订阅日榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065035174692438029#wechat_redirect)
 - 日飙升榜: https://github.com/OpenGithubs/github-daily-rank
-- 周飙升榜: https://github.com/OpenGithubs/github-weekly-rank
-- 月飙升榜: https://github.com/OpenGithubs/github-monthly-rank
 
 
 > 🏆2025.07.08日榜最佳项目:rustfs/rustfs  分布式高性能对象存储
