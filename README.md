@@ -92,6 +92,7 @@
 - 📅 开源时间：2024-06-08
 - 📝 项目描述：集成了多种 Google GenAI 功能的工具箱，支持多模型交互和快速原型开发，是构建 AI 应用的高效助手。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250714/pic_org_f583de2d-1f89-44ab-afa6-04db723c48a0.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/getzep/graphiti</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -152,9 +153,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-��扩展、模块化、可维护的多智能体系统。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250709/pic_org_f5b09a12-fd84-4aa9-8c3d-6e2be09b5e10.jpg)
+0250709/pic_org_f5b09a12-fd84-4aa9-8c3d-6e2be09b5e10.jpg)
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
