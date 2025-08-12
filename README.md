@@ -19,6 +19,7 @@
 - ⭐ 总星标数量：36156⭐
 - 🔺 日Star增长量：272⭐
 - 📝 项目描述: 如果你想打造自己的多模态 AI（图文语音全能型选手），那 Jan 是很棒的起点，开箱即用，还支持本地部署，灵活又实用。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250812/pic_org_645a9e32-4236-4e27-9995-5538c91c0506.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.08.11 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -49,6 +50,7 @@
 - 📅 开源时间：2023-08-17
 - 📝 项目描述：如果你想打造自己的多模态 AI（图文语音全能型选手），那 Jan 是很棒的起点，开箱即用，还支持本地部署，灵活又实用。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250812/pic_org_645a9e32-4236-4e27-9995-5538c91c0506.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -166,9 +168,7 @@ MacOS、Windows、Linux（正在努力适配）多平台支持
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�地图 https://github.com/datawhalechina/happy-llm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：14.7k
+�星标数量：14.7k
 - 🔺 日增长数量：68⭐
 - 🔺 上周增长数量：461⭐
 - 🔺 上月增长数量：4265⭐
