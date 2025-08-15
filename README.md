@@ -18,7 +18,8 @@
 - 📅 开源时间：2022-11-27
 - ⭐ 总星标数量：31191⭐
 - 🔺 日Star增长量：203⭐
-- 📝 项目描述: 面向实时 AI 应用的数据流处理框架，结合 SQL 与 Python 编程体验。
+- 📝 项目描述: 一个结合 Python 易用性与 Rust 高效性的统一 ETL 框架，面向实时 AI 应用的数据流处理框架，以流处理与 LLM 应用为核心，适合需要构建高性能、实时智能数据管道的开发者
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250815/pic_org_bee043fc-7ea5-4224-b911-2dbf7fb5ff4a.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.08.14 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -47,8 +48,9 @@
 - 🔺 上周增长数量：811⭐
 - 🔺 上月增长数量：2517⭐
 - 📅 开源时间：2022-11-27
-- 📝 项目描述：面向实时 AI 应用的数据流处理框架，结合 SQL 与 Python 编程体验。
+- 📝 项目描述：一个结合 Python 易用性与 Rust 高效性的统一 ETL 框架，面向实时 AI 应用的数据流处理框架，以流处理与 LLM 应用为核心，适合需要构建高性能、实时智能数据管道的开发者
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250815/pic_org_bee043fc-7ea5-4224-b911-2dbf7fb5ff4a.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 多模态 AI 助手开发平台 https://github.com/menloresearch/jan</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -155,11 +157,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-le="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-<span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�星标数量：14.7k
+�量：14.7k
 - 🔺 日增长数量：68⭐
 - 🔺 上周增长数量：461⭐
 - 🔺 上月增长数量：4265⭐
