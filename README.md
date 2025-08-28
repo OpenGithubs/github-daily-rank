@@ -1,4 +1,4 @@
-## 2025.08.27 最佳开源项目🔝:awesome-tuis
+## 2025.08.27 最佳开源项目🔝:genai-toolbox
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -13,142 +13,141 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2025.08.27日榜最佳项目:rothgar/awesome-tuis  终端UI资源合集
-- 开源地址：https://github.com/rothgar/awesome-tuis
-- 📅 开源时间：2019-04-01
-- ⭐ 总星标数量：11777⭐
-- 🔺 日Star增长量：428⭐
-- 📝 项目描述: 精选开源终端用户界面（TUI）库与应用资源，方便开发者快速构建交互式终端程序。
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250826/pic_org_c1cd1f0a-c70a-4737-afe5-3f56dcc78726.png)
+> 🏆2025.08.27日榜最佳项目:googleapis/genai-toolbox  Google 出品的大模型实用工具集
+- 开源地址：https://github.com/googleapis/genai-toolbox
+- 📅 开源时间：2024-06-08
+- ⭐ 总星标数量：9912⭐
+- 🔺 日Star增长量：212⭐
+- 📝 项目描述: 集成了多种 Google GenAI 功能的工具箱，支持多模型交互和快速原型开发，是构建 AI 应用的高效助手。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250714/pic_org_f583de2d-1f89-44ab-afa6-04db723c48a0.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.08.27 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)| 11.8k  | 🔺428 |
-| 2 |  [simstudioai/sim](https://github.com/simstudioai/sim)| 12.4k  | 🔺205 |
-| 3 |  [pathwaycom/pathway](https://github.com/pathwaycom/pathway)| 32.1k  | 🔺200 |
-| 4 |  [anthropics/claude-code](https://github.com/anthropics/claude-code)| 31.5k  | 🔺165 |
-| 5 |  [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)| 9.7k  | 🔺155 |
-| 6 |  [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)| 18.2k  | 🔺116 |
-| 7 |  [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)| 9.9k  | 🔺112 |
-| 8 |  [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)| 35.4k  | 🔺94 |
-| 9 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 36.8k  | 🔺84 |
-| 10 |  [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)| 14.6k  | 🔺70 |
+| 1 |  [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)| 9.9k  | 🔺212 |
+| 2 |  [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)| 11.9k  | 🔺160 |
+| 3 |  [simstudioai/sim](https://github.com/simstudioai/sim)| 12.5k  | 🔺153 |
+| 4 |  [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)| 18.3k  | 🔺147 |
+| 5 |  [anthropics/claude-code](https://github.com/anthropics/claude-code)| 31.7k  | 🔺145 |
+| 6 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)| 13.2k  | 🔺114 |
+| 7 |  [pathwaycom/pathway](https://github.com/pathwaycom/pathway)| 32.2k  | 🔺102 |
+| 8 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)| 22.2k  | 🔺99 |
+| 9 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 36.9k  | 🔺94 |
+| 10 |  [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)| 35.5k  | 🔺88 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.08.27 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 终端UI资源合集 https://github.com/rothgar/awesome-tuis</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. Google 出品的大模型实用工具集 https://github.com/googleapis/genai-toolbox</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：11.8k
-- 🔺 日增长数量：428⭐
-- 🔺 上周增长数量：1215⭐
-- 🔺 上月增长数量：1466⭐
-- 📅 开源时间：2019-04-01
-- 📝 项目描述：精选开源终端用户界面（TUI）库与应用资源，方便开发者快速构建交互式终端程序。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250826/pic_org_c1cd1f0a-c70a-4737-afe5-3f56dcc78726.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  AI 智能体构建工具 https://github.com/simstudioai/sim</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：12.4k
-- 🔺 日增长数量：205⭐
-- 🔺 上周增长数量：3657⭐
-- 🔺 上月增长数量：6124⭐
-- 📅 开源时间：2025-01-06
-- 📝 项目描述：一款开源的 AI 智能体工作流构建工具。其界面轻量且直观，能帮助用户快速搭建并部署大语言模型（LLMs），还可与各类常用工具实现连接。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250722/pic_org_c9c575a4-72d6-4d43-8a80-3f9b99ff896e.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 流式数据处理引擎 https://github.com/pathwaycom/pathway</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：32.1k
-- 🔺 日增长数量：200⭐
-- 🔺 上周增长数量：245⭐
-- 🔺 上月增长数量：2786⭐
-- 📅 开源时间：2022-11-27
-- 📝 项目描述：一个结合 Python 易用性与 Rust 高效性的统一 ETL 框架，面向实时 AI 应用的数据流处理框架，以流处理与 LLM 应用为核心，适合需要构建高性能、实时智能数据管道的开发者
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250815/pic_org_bee043fc-7ea5-4224-b911-2dbf7fb5ff4a.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：31.5k
-- 🔺 日增长数量：165⭐
-- 🔺 上周增长数量：851⭐
-- 🔺 上月增长数量：5060⭐
-- 📅 开源时间：2025-02-23
-- 📝 项目描述：Claude 不止会聊天，它还能写代码！这个项目总结了它在开发场景下的高效用法，是你把 Claude 用出生产力的秘籍。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250718/pic_org_efb63442-ba53-444b-a50a-489ad71471dd.jpg)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. Google 出品的大模型实用工具集 https://github.com/googleapis/genai-toolbox</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：9.7k
-- 🔺 日增长数量：155⭐
-- 🔺 上周增长数量：250⭐
-- 🔺 上月增长数量：1372⭐
+- ⭐ 总星标数量：9.9k
+- 🔺 日增长数量：212⭐
+- 🔺 上周增长数量：439⭐
+- 🔺 上月增长数量：1493⭐
 - 📅 开源时间：2024-06-08
 - 📝 项目描述：集成了多种 Google GenAI 功能的工具箱，支持多模型交互和快速原型开发，是构建 AI 应用的高效助手。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250714/pic_org_f583de2d-1f89-44ab-afa6-04db723c48a0.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 分布式浏览器自动化平台 https://github.com/microsoft/playwright-mcp</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 终端UI资源合集 https://github.com/rothgar/awesome-tuis</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：18.2k
-- 🔺 日增长数量：116⭐
-- 🔺 上周增长数量：599⭐
-- 🔺 上月增长数量：2404⭐
+- ⭐ 总星标数量：11.9k
+- 🔺 日增长数量：160⭐
+- 🔺 上周增长数量：1341⭐
+- 🔺 上月增长数量：1609⭐
+- 📅 开源时间：2019-04-01
+- 📝 项目描述：精选开源终端用户界面（TUI）库与应用资源，方便开发者快速构建交互式终端程序。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250826/pic_org_c1cd1f0a-c70a-4737-afe5-3f56dcc78726.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  AI 智能体构建工具 https://github.com/simstudioai/sim</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：12.5k
+- 🔺 日增长数量：153⭐
+- 🔺 上周增长数量：2738⭐
+- 🔺 上月增长数量：6243⭐
+- 📅 开源时间：2025-01-06
+- 📝 项目描述：一款开源的 AI 智能体工作流构建工具。其界面轻量且直观，能帮助用户快速搭建并部署大语言模型（LLMs），还可与各类常用工具实现连接。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250722/pic_org_c9c575a4-72d6-4d43-8a80-3f9b99ff896e.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 分布式浏览器自动化平台 https://github.com/microsoft/playwright-mcp</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：18.3k
+- 🔺 日增长数量：147⭐
+- 🔺 上周增长数量：623⭐
+- 🔺 上月增长数量：2446⭐
 - 📅 开源时间：2025-03-22
 - 📝 项目描述：基于 Playwright 构建的大规模浏览器自动化平台，支持分布式爬虫、自动化测试、性能监控等，适用于云端批量浏览器任务执行。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250625/pic_org_2249a0c3-c8bf-4057-b319-65bf91fe3bde.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 微软官方图标库 https://github.com/microsoft/fluentui-system-icons</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：9.9k
-- 🔺 日增长数量：112⭐
-- 🔺 上周增长数量：121⭐
-- 🔺 上月增长数量：178⭐
-- 📅 开源时间：2020-05-13
-- 📝 项目描述：微软开源的图标集合。这是一套微软 Fluent UI 设计风格的图标，它丰富、精致、统一。
+- ⭐ 总星标数量：31.7k
+- 🔺 日增长数量：145⭐
+- 🔺 上周增长数量：839⭐
+- 🔺 上月增长数量：4762⭐
+- 📅 开源时间：2025-02-23
+- 📝 项目描述：Claude 不止会聊天，它还能写代码！这个项目总结了它在开发场景下的高效用法，是你把 Claude 用出生产力的秘籍。
 
-    ![](https://photocdn.tv.sohu.com/img/github/263452252.png)
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250718/pic_org_efb63442-ba53-444b-a50a-489ad71471dd.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. AI 智能体从入门到实战教程 https://github.com/microsoft/ai-agents-for-beginners</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 多智能体系统 https://github.com/humanlayer/12-factor-agents</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：35.4k
-- 🔺 日增长数量：94⭐
-- 🔺 上周增长数量：703⭐
-- 🔺 上月增长数量：2405⭐
-- 📅 开源时间：2024-11-28
-- 📝 项目描述：微软推出的初学者友好项目，从零构建智能体，帮助你理解智能体结构和运行机制，适合教育与实战双场景使用。
+- ⭐ 总星标数量：13.2k
+- 🔺 日增长数量：114⭐
+- 🔺 上周增长数量：338⭐
+- 🔺 上月增长数量：2280⭐
+- 📅 开源时间：2025-03-31
+- 📝 项目描述：结合了 Twelve-Factor App 原则与 AI agent 架构，帮助用户构建可扩展、模块化、可维护的多智能体系统。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250709/pic_org_f5b09a12-fd84-4aa9-8c3d-6e2be09b5e10.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 流式数据处理引擎 https://github.com/pathwaycom/pathway</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：32.2k
+- 🔺 日增长数量：102⭐
+- 🔺 上周增长数量：319⭐
+- 🔺 上月增长数量：2801⭐
+- 📅 开源时间：2022-11-27
+- 📝 项目描述：一个结合 Python 易用性与 Rust 高效性的统一 ETL 框架，面向实时 AI 应用的数据流处理框架，以流处理与 LLM 应用为核心，适合需要构建高性能、实时智能数据管道的开发者
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250815/pic_org_bee043fc-7ea5-4224-b911-2dbf7fb5ff4a.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. Embedding 向量数据库 https://github.com/chroma-core/chroma</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：22.2k
+- 🔺 日增长数量：99⭐
+- 🔺 上周增长数量：235⭐
+- 🔺 上月增长数量：778⭐
+- 📅 开源时间：2022-10-06
+- 📝 项目描述：支持快速插入、搜索与管理嵌入向量的数据引擎，适合构建相似度搜索与推荐系统，兼容多数据格式。
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. AI文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：36.8k
-- 🔺 日增长数量：84⭐
-- 🔺 上周增长数量：443⭐
-- 🔺 上月增长数量：1981⭐
+- ⭐ 总星标数量：36.9k
+- 🔺 日增长数量：94⭐
+- 🔺 上周增长数量：475⭐
+- 🔺 上月增长数量：2007⭐
 - 📅 开源时间：2024-07-09
 - 📝 项目描述：一个实用的文档处理项目。docling 可以帮助用户更好地管理和分析文档，提高工作效率。专注于用 AI 理解结构化和非结构化的技术文档，如软件说明书、API 文档、论文、技术报告等,是一个很有帮助的工具。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250703/pic_org_f73e677b-b72b-49a5-8778-681327b529dc.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 量化交易的高性能算法交易框架 https://github.com/nautechsystems/nautilus_trader</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. AI 智能体从入门到实战教程 https://github.com/microsoft/ai-agents-for-beginners</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：14.6k
-- 🔺 日增长数量：70⭐
-- 🔺 上周增长数量：332⭐
-- 🔺 上月增长数量：4678⭐
-- 📅 开源时间：2018-06-25
-- 📝 项目描述：A high-performance algorithmic trading platform and event-driven backtester
+- ⭐ 总星标数量：35.5k
+- 🔺 日增长数量：88⭐
+- 🔺 上周增长数量：739⭐
+- 🔺 上月增长数量：2289⭐
+- 📅 开源时间：2024-11-28
+- 📝 项目描述：微软推出的初学者友好项目，从零构建智能体，帮助你理解智能体结构和运行机制，适合教育与实战双场景使用。
 
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250623/pic_org_fc54a985-952e-4f31-8a38-c551e27c52cf.jpg)
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
@@ -158,4 +157,5 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+>
 -8719-b729a4e2e3e4.png" alt=""></span><center>
