@@ -13,12 +13,13 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2025.09.17日榜最佳项目:Alibaba-NLP/WebAgent  类人智能体的网页操作利器
+> 🏆2025.09.17日榜最佳项目:Alibaba-NLP/WebAgent  智能搜索与推理大模型
 - 开源地址：https://github.com/Alibaba-NLP/WebAgent
 - 📅 开源时间：2025-01-09
 - ⭐ 总星标数量：7538⭐
 - 🔺 日Star增长量：909⭐
-- 📝 项目描述: 阿里 NLP 团队开源的 WebAgent，能像人一样读懂网页并自动执行操作，是 AI Agent 研究的理想项目。
+- 📝 项目描述: 阿里巴巴开源的智能搜索与推理大模型，专注解决长上下文、多步骤、跨工具的信息检索任务，结合自动合成数据、持续预训练和强化学习优化，支持128K超长输入，具备强大的信息整合与分析能力，适合科研、知识发现和复杂问题解答场景。
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250918/pic_org_a6e7cf3e-94af-469a-805b-acc816f69893.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.09.17 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -40,15 +41,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.09.17 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 类人智能体的网页操作利器 https://github.com/Alibaba-NLP/WebAgent</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 智能搜索与推理大模型 https://github.com/Alibaba-NLP/WebAgent</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：7.5k
 - 🔺 日增长数量：909⭐
 - 🔺 上周增长数量：1006⭐
 - 🔺 上月增长数量：1330⭐
 - 📅 开源时间：2025-01-09
-- 📝 项目描述：阿里 NLP 团队开源的 WebAgent，能像人一样读懂网页并自动执行操作，是 AI Agent 研究的理想项目。
+- 📝 项目描述：阿里巴巴开源的智能搜索与推理大模型，专注解决长上下文、多步骤、跨工具的信息检索任务，结合自动合成数据、持续预训练和强化学习优化，支持128K超长输入，具备强大的信息整合与分析能力，适合科研、知识发现和复杂问题解答场景。
 
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250918/pic_org_a6e7cf3e-94af-469a-805b-acc816f69893.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/trufflesecurity/trufflehog</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -150,13 +152,5 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-ter>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
