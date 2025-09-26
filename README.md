@@ -16,8 +16,8 @@
 > 🏆2025.09.25日榜最佳项目:OpenCut-app/OpenCut  免费开源的视频剪辑应用
 - 开源地址：https://github.com/OpenCut-app/OpenCut
 - 📅 开源时间：2025-06-22
-- ⭐ 总星标数量：37049⭐
-- 🔺 日Star增长量：1929⭐
+- ⭐ 总星标数量：38514⭐
+- 🔺 日Star增长量：1465⭐
 - 📝 项目描述: 开源、跨平台、注重用户体验的视频剪辑工具，支持时间轴、多轨编辑、导出高质量 MP4/H264 视频，界面简洁友好
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250711/pic_org_540cf6de-fb1f-4528-8788-eee403d78237.jpg)
 
@@ -25,16 +25,16 @@
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)| 37k  | 🔺1929 |
-| 2 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 39.6k  | 🔺121 |
-| 3 |  [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)| 18.2k  | 🔺104 |
-| 4 |  [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)| 37.7k  | 🔺103 |
-| 5 |  [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)| 39.5k  | 🔺102 |
-| 6 |  [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki)| 6k  | 🔺91 |
-| 7 |  [anthropics/claude-code](https://github.com/anthropics/claude-code)| 34.1k  | 🔺89 |
-| 8 |  [netless-io/flat](https://github.com/netless-io/flat)| 6.1k  | 🔺85 |
-| 9 |  [Predidit/Kazumi](https://github.com/Predidit/Kazumi)| 16.2k  | 🔺82 |
-| 10 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)| 14.8k  | 🔺78 |
+| 1 |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)| 38.5k  | 🔺1465 |
+| 2 |  [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)| 38k  | 🔺349 |
+| 3 |  [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)| 39.6k  | 🔺122 |
+| 4 |  [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)| 20.4k  | 🔺122 |
+| 5 |  [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)| 18.3k  | 🔺120 |
+| 6 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 39.7k  | 🔺110 |
+| 7 |  [anthropics/claude-code](https://github.com/anthropics/claude-code)| 34.2k  | 🔺106 |
+| 8 |  [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)| 30.1k  | 🔺71 |
+| 9 |  [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)| 14.9k  | 🔺64 |
+| 10 |  [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki)| 6.1k  | 🔺62 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
@@ -43,110 +43,109 @@
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 免费开源的视频剪辑应用 https://github.com/OpenCut-app/OpenCut</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：37k
-- 🔺 日增长数量：1929⭐
-- 🔺 上周增长数量：5083⭐
-- 🔺 上月增长数量：5755⭐
+- ⭐ 总星标数量：38.5k
+- 🔺 日增长数量：1465⭐
+- 🔺 上周增长数量：6527⭐
+- 🔺 上月增长数量：7177⭐
 - 📅 开源时间：2025-06-22
 - 📝 项目描述：开源、跨平台、注重用户体验的视频剪辑工具，支持时间轴、多轨编辑、导出高质量 MP4/H264 视频，界面简洁友好
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250711/pic_org_540cf6de-fb1f-4528-8788-eee403d78237.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. AI文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 思源笔记 https://github.com/siyuan-note/siyuan</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：38k
+- 🔺 日增长数量：349⭐
+- 🔺 上周增长数量：723⭐
+- 🔺 上月增长数量：1148⭐
+- 📅 开源时间：2020-08-30
+- 📝 项目描述：支持图像、思维导图与模块化结构的知识管理工具，强调本地优先与私有同步，适合个人知识构建。
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. AI 智能体从入门到实战教程 https://github.com/microsoft/ai-agents-for-beginners</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：39.6k
-- 🔺 日增长数量：121⭐
-- 🔺 上周增长数量：738⭐
-- 🔺 上月增长数量：2865⭐
+- 🔺 日增长数量：122⭐
+- 🔺 上周增长数量：716⭐
+- 🔺 上月增长数量：4277⭐
+- 📅 开源时间：2024-11-28
+- 📝 项目描述：微软推出的初学者友好项目，从零构建智能体，帮助你理解智能体结构和运行机制，适合教育与实战双场景使用。
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 分布式浏览器自动化平台 https://github.com/microsoft/playwright-mcp</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：20.4k
+- 🔺 日增长数量：122⭐
+- 🔺 上周增长数量：338⭐
+- 🔺 上月增长数量：2054⭐
+- 📅 开源时间：2025-03-22
+- 📝 项目描述：基于 Playwright 构建的大规模浏览器自动化平台，支持分布式爬虫、自动化测试、性能监控等，适用于云端批量浏览器任务执行。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250625/pic_org_2249a0c3-c8bf-4057-b319-65bf91fe3bde.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 中文 LLM 学习首选地图 https://github.com/datawhalechina/happy-llm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：18.3k
+- 🔺 日增长数量：120⭐
+- 🔺 上周增长数量：648⭐
+- 🔺 上月增长数量：2521⭐
+- 📅 开源时间：2024-05-28
+- 📝 项目描述：中文大模型怎么学？从理论到实战，全都帮你梳理好了。这是国内开发者很用心的整理，特别适合做中文大模型应用的你。
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. AI文档助手 https://github.com/DS4SD/docling</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：39.7k
+- 🔺 日增长数量：110⭐
+- 🔺 上周增长数量：743⭐
+- 🔺 上月增长数量：2891⭐
 - 📅 开源时间：2024-07-09
 - 📝 项目描述：一个实用的文档处理项目。docling 可以帮助用户更好地管理和分析文档，提高工作效率。专注于用 AI 理解结构化和非结构化的技术文档，如软件说明书、API 文档、论文、技术报告等,是一个很有帮助的工具。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250703/pic_org_f73e677b-b72b-49a5-8778-681327b529dc.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 中文 LLM 学习首选地图 https://github.com/datawhalechina/happy-llm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：18.2k
-- 🔺 日增长数量：104⭐
-- 🔺 上周增长数量：613⭐
-- 🔺 上月增长数量：2463⭐
-- 📅 开源时间：2024-05-28
-- 📝 项目描述：中文大模型怎么学？从理论到实战，全都帮你梳理好了。这是国内开发者很用心的整理，特别适合做中文大模型应用的你。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 思源笔记 https://github.com/siyuan-note/siyuan</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：37.7k
-- 🔺 日增长数量：103⭐
-- 🔺 上周增长数量：398⭐
-- 🔺 上月增长数量：818⭐
-- 📅 开源时间：2020-08-30
-- 📝 项目描述：支持图像、思维导图与模块化结构的知识管理工具，强调本地优先与私有同步，适合个人知识构建。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. AI 智能体从入门到实战教程 https://github.com/microsoft/ai-agents-for-beginners</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：39.5k
-- 🔺 日增长数量：102⭐
-- 🔺 上周增长数量：669⭐
-- 🔺 上月增长数量：4249⭐
-- 📅 开源时间：2024-11-28
-- 📝 项目描述：微软推出的初学者友好项目，从零构建智能体，帮助你理解智能体结构和运行机制，适合教育与实战双场景使用。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. AI开源知识库 https://github.com/chaitin/PandaWiki</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：6k
-- 🔺 日增长数量：91⭐
-- 🔺 上周增长数量：347⭐
-- 🔺 上月增长数量：588⭐
-- 📅 开源时间：2025-05-15
-- 📝 项目描述：一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
-
-    ![](http://photocdn.tv.sohu.com/img/q_mini/20250708/pic_org_b0f78b00-8f81-4cbe-b322-d9ff6513dfed.png)
-
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：34.1k
-- 🔺 日增长数量：89⭐
-- 🔺 上周增长数量：503⭐
-- 🔺 上月增长数量：2741⭐
+- ⭐ 总星标数量：34.2k
+- 🔺 日增长数量：106⭐
+- 🔺 上周增长数量：541⭐
+- 🔺 上月增长数量：2682⭐
 - 📅 开源时间：2025-02-23
 - 📝 项目描述：Claude 不止会聊天，它还能写代码！这个项目总结了它在开发场景下的高效用法，是你把 Claude 用出生产力的秘籍。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250718/pic_org_efb63442-ba53-444b-a50a-489ad71471dd.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 开源白板协作工具 https://github.com/netless-io/flat</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 快速目录跳转工具 https://github.com/ajeetdsouza/zoxide</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：6.1k
-- 🔺 日增长数量：85⭐
-- 🔺 上周增长数量：140⭐
-- 🔺 上月增长数量：149⭐
-- 📅 开源时间：2020-08-26
-- 📝 项目描述：前后端完全开源、功能丰富的在线教室项目。通过它可以快速完成支持多人视频、语音、白板互动、录制回放等功能的在线教室
+- ⭐ 总星标数量：30.1k
+- 🔺 日增长数量：71⭐
+- 🔺 上周增长数量：466⭐
+- 🔺 上月增长数量：993⭐
+- 📅 开源时间：2020-03-05
+- 📝 项目描述：z 命令替代品，基于使用频率智能跳转目录，提高命令行工作效率，支持 Linux/Mac/Windows。
 
-    ![](https://photocdn.tv.sohu.com/img/github/290373467.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 预测工具 https://github.com/Predidit/Kazumi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 多智能体系统 https://github.com/humanlayer/12-factor-agents</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：16.2k
-- 🔺 日增长数量：82⭐
-- 🔺 上周增长数量：309⭐
-- 🔺 上月增长数量：1085⭐
-- 📅 开源时间：2024-05-09
-- 📝 项目描述：一个具有预测功能的项目。Kazumi 可能在数据分析和趋势预测方面有独特的能力，为用户提供有价值的信息和决策支持。
-
-    ![](https://photocdn.tv.sohu.com/img/github/798049841.png)
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 多智能体系统 https://github.com/humanlayer/12-factor-agents</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：14.8k
-- 🔺 日增长数量：78⭐
-- 🔺 上周增长数量：302⭐
-- 🔺 上月增长数量：1771⭐
+- ⭐ 总星标数量：14.9k
+- 🔺 日增长数量：64⭐
+- 🔺 上周增长数量：288⭐
+- 🔺 上月增长数量：1721⭐
 - 📅 开源时间：2025-03-31
 - 📝 项目描述：结合了 Twelve-Factor App 原则与 AI agent 架构，帮助用户构建可扩展、模块化、可维护的多智能体系统。
 
     ![](http://photocdn.tv.sohu.com/img/q_mini/20250709/pic_org_f5b09a12-fd84-4aa9-8c3d-6e2be09b5e10.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. AI开源知识库 https://github.com/chaitin/PandaWiki</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：6.1k
+- 🔺 日增长数量：62⭐
+- 🔺 上周增长数量：304⭐
+- 🔺 上月增长数量：634⭐
+- 📅 开源时间：2025-05-15
+- 📝 项目描述：一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
+
+    ![](http://photocdn.tv.sohu.com/img/q_mini/20250708/pic_org_b0f78b00-8f81-4cbe-b322-d9ff6513dfed.png)
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
