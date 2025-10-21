@@ -19,6 +19,7 @@
 - ⭐ 总星标数量：20,140⭐
 - 🔺 日Star增长量：279⭐
 - 📝 项目描述: 一个由社区维护、采用 CC-BY-SA 许可证的开源指南，旨在帮助你从安装、SSH 配置、网络防护、防火墙设置、日志审计等多个维度，对 Linux 服务器进行系统性加固。该指南提供丰富的脚本与命令片段，并以 Debian 环境为主，但其原则适用于大多数发行版。无论是个人 VPS 还是企业服务节点，都可以通过本指南建立更具安全性的服务器环境。
+    ![](http://opengithub.cn/image/repos/20251021/a0b4a29a-2791-4c4c-86fb-671dcbae58d2.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.10.20 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -49,6 +50,7 @@
 - 📅 开源时间：2019-02-09
 - 📝 项目描述：一个由社区维护、采用 CC-BY-SA 许可证的开源指南，旨在帮助你从安装、SSH 配置、网络防护、防火墙设置、日志审计等多个维度，对 Linux 服务器进行系统性加固。该指南提供丰富的脚本与命令片段，并以 Debian 环境为主，但其原则适用于大多数发行版。无论是个人 VPS 还是企业服务节点，都可以通过本指南建立更具安全性的服务器环境。
 
+    ![](http://opengithub.cn/image/repos/20251021/a0b4a29a-2791-4c4c-86fb-671dcbae58d2.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -154,4 +156,3 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-g/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
