@@ -14,12 +14,13 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2025.10.22日榜最佳项目:dyad-sh/dyad  去中心化数据库
+> 🏆2025.10.22日榜最佳项目:dyad-sh/dyad  私有AI 应用构建器 Dyad
 - 开源地址：https://github.com/dyad-sh/dyad
 - 📅 开源时间：2025-04-11
 - ⭐ 总星标数量：16,687⭐
 - 🔺 日Star增长量：215⭐
-- 📝 项目描述: 基于对等网络的数据库，注重隐私与数据可控性。
+- 📝 项目描述: 一个 本地运行、开源免费的 AI 应用构建工具，它让你无需被云平台锁定，使用自己的 AI 模型密钥，在 Mac 或 Windows 上快速搭建 AI 驱动的全栈应用。「你控制代码、你控制模型、你控制托管环境」——所有代码默认保存在本地，可随意部署、迁移或扩展。
+    ![](http://opengithub.cn/image/repos/20251023/558bbdce-7079-4e37-9076-79d7e92601c8.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.10.22 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -41,15 +42,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.10.22 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 去中心化数据库 https://github.com/dyad-sh/dyad</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 私有AI 应用构建器 Dyad https://github.com/dyad-sh/dyad</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：16.7k
 - 🔺 日增长数量：215⭐
 - 🔺 上周增长数量：456⭐
 - 🔺 上月增长数量：1,670⭐
 - 📅 开源时间：2025-04-11
-- 📝 项目描述：基于对等网络的数据库，注重隐私与数据可控性。
+- 📝 项目描述：一个 本地运行、开源免费的 AI 应用构建工具，它让你无需被云平台锁定，使用自己的 AI 模型密钥，在 Mac 或 Windows 上快速搭建 AI 驱动的全栈应用。「你控制代码、你控制模型、你控制托管环境」——所有代码默认保存在本地，可随意部署、迁移或扩展。
 
+    ![](http://opengithub.cn/image/repos/20251023/558bbdce-7079-4e37-9076-79d7e92601c8.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -154,19 +156,4 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�批量浏览器任务执行。
-
-    ![](http://opengithub.cn/image/repo/R_kgDOOMjd8A.jpg)
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+nter><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
