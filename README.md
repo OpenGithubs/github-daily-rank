@@ -81,8 +81,9 @@
 - 🔺 上周增长数量：1,619⭐
 - 🔺 上月增长数量：1,772⭐
 - 📅 开源时间：2016-07-17
-- 📝 项目描述： Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- 📝 项目描述：收集各种类别非常好用的 Mac 应用程序、软件以及工具。通过 Pull Request 或者 issues 推荐优秀好用的Mac应用，希望能帮助大家快乐、高效的工作.
 
+    ![](http://opengithub.cn/image/repos/20251027/d922307c-582b-436a-a2bb-41445c5cb4d8.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 系统设计 https://github.com/ashishps1/awesome-system-design-resources</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -103,7 +104,7 @@
 - 📅 开源时间：2015-01-15
 - 📝 项目描述：采用 Go 编写的开源对象存储服务。支持存储图片、视频、日志等文件，还拥有方便操作的 Web 管理后台。虽然轻量却有着不错的性能，同时采用 RS code 编码算法实现即使丢失一半的硬盘，依旧可以找回数据。适用于大数据、机器学习等场景
 
-    ![]()
+    ![](http://opengithub.cn/image/repos/20251027/03deaaa0-5285-42c0-acb4-bbf1e3ff13c0.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -153,8 +154,5 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
