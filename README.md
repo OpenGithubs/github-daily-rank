@@ -20,7 +20,7 @@
 - ⭐ 总星标数量：54,293⭐
 - 🔺 日Star增长量：908⭐
 - 📝 项目描述: 一个全新的浏览器和网络引擎。由网络驱动 标准优先方法，Ladybird 旨在通过以下方式呈现现代网络 性能好，稳定性好，安全性好。
-    ![](http://opengithub.cn/image/repos/20251027/d42f678c-319d-4b4b-86dd-3b2745e65a8c.jpg)
+    ![](https://opengithub.cnhttp://opengithub.cn/image/repos/20251027/d42f678c-319d-4b4b-86dd-3b2745e65a8c.jpg)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.10.27 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -51,7 +51,7 @@
 - 📅 开源时间：2024-05-30
 - 📝 项目描述：一个全新的浏览器和网络引擎。由网络驱动 标准优先方法，Ladybird 旨在通过以下方式呈现现代网络 性能好，稳定性好，安全性好。
 
-    ![](http://opengithub.cn/image/repos/20251027/d42f678c-319d-4b4b-86dd-3b2745e65a8c.jpg)
+    ![](https://opengithub.cnhttp://opengithub.cn/image/repos/20251027/d42f678c-319d-4b4b-86dd-3b2745e65a8c.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 精选 LLM 应用灵感大全 https://github.com/Shubhamsaboo/awesome-llm-apps</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -62,7 +62,7 @@
 - 📅 开源时间：2024-04-29
 - 📝 项目描述：摘要支持最先进的模型，帮助你快速了解仓库内容。总结此仓库：关于使用 OpenAI、Anthropic、Gemini 和开源模型构建的包含 AI 代理和 RAG 的精彩大语言模型应用合集。
 
-    ![](http://opengithub.cn/image/repos/20251027/85c98623-c8be-4f1c-b42d-973226057ea6.png)
+    ![](https://opengithub.cnhttp://opengithub.cn/image/repos/20251027/85c98623-c8be-4f1c-b42d-973226057ea6.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 多功能电子书阅读器 https://github.com/troyeguo/koodo-reader</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -73,7 +73,7 @@
 - 📅 开源时间：2020-03-05
 - 📝 项目描述：先进的电子书阅读工具。该阅读器支持 EPUB、Kindle、PDF、漫画等多种常见文本格式，界面清爽功能丰富，拥有自定义字体、添加笔记、书签、划词翻译、导入图书、数据同步等功能。提供了 Windows、macOS 和 Linux 客户端，还支持网页版可在线使用。
 
-    ![](http://opengithub.cn/image/repo/MDEwOlJlcG9zaXRvcnkyNDUwNDkwMjg=.png)
+    ![](https://opengithub.cnhttp://opengithub.cn/image/repo/MDEwOlJlcG9zaXRvcnkyNDUwNDkwMjg=.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. Claude 编程使用全景图 https://github.com/anthropics/claude-code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -84,7 +84,7 @@
 - 📅 开源时间：2025-02-23
 - 📝 项目描述：Claude 不止会聊天，它还能写代码！这个项目总结了它在开发场景下的高效用法，是你把 Claude 用出生产力的秘籍。
 
-    ![](http://opengithub.cn/image/repo/R_kgDON91aYw.jpg)
+    ![](https://opengithub.cnhttp://opengithub.cn/image/repo/R_kgDON91aYw.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/jaywcjlove/awesome-mac</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -95,7 +95,7 @@
 - 📅 开源时间：2016-07-17
 - 📝 项目描述：收集各种类别非常好用的 Mac 应用程序、软件以及工具。通过 Pull Request 或者 issues 推荐优秀好用的Mac应用，希望能帮助大家快乐、高效的工作.
 
-    ![](http://opengithub.cn/image/repos/20251027/d922307c-582b-436a-a2bb-41445c5cb4d8.jpg)
+    ![](https://opengithub.cnhttp://opengithub.cn/image/repos/20251027/d922307c-582b-436a-a2bb-41445c5cb4d8.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 交互式提示工程教程 https://github.com/anthropics/prompt-eng-interactive-tutorial</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -106,7 +106,7 @@
 - 📅 开源时间：2024-04-02
 - 📝 项目描述：来自 Anthropic 的交互式提示工程学习平台，通过可视化与实时反馈，帮助用户掌握高效的提示构建技巧，适用于 LLM 应用开发者与研究者。 
 
-    ![]()
+    ![](https://opengithub.cn)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. MCP 服务器与工具精选 https://github.com/punkpeye/awesome-mcp-servers</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -147,7 +147,7 @@
 - 📅 开源时间：2024-05-28
 - 📝 项目描述：一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM,走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。
 
-    ![](http://opengithub.cn/image/repo/R_kgDOMBef5Q.png)
+    ![](https://opengithub.cnhttp://opengithub.cn/image/repo/R_kgDOMBef5Q.png)
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
@@ -157,4 +157,3 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
