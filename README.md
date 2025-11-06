@@ -86,14 +86,14 @@
 
     ![](https://opengithub.cn/image/repo/MDEwOlJlcG9zaXRvcnkxNDMzMjgzMTU=.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/GopeedLab/gopeed</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 高速下载工具 https://github.com/GopeedLab/gopeed</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：21.1k
 - 🔺 日增长数量：131⭐
 - 🔺 上周增长数量：327⭐
 - 🔺 上月增长数量：527⭐
 - 📅 开源时间：2019-04-21
-- 📝 项目描述：A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- 📝 项目描述：Gopeed 是一个开源的高速下载工具，支持多个协议的加速下载，包括 HTTP、FTP 等。它通过优化下载策略和多线程机制，提供了比传统下载方式更快的下载速度，适合需要快速获取大文件的用户。
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 精选 LLM 应用灵感大全 https://github.com/Shubhamsaboo/awesome-llm-apps</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
