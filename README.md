@@ -14,12 +14,13 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2025.11.11日榜最佳项目:usestrix/strix  
+> 🏆2025.11.11日榜最佳项目:usestrix/strix  自动化渗透测试工具
 - 开源地址：https://github.com/usestrix/strix
 - 📅 开源时间：2025-08-06
 - ⭐ 总星标数量：9518⭐
 - 🔺 日Star增长量：908⭐
-- 📝 项目描述: ✨ Open-source AI hackers for your apps 👨🏻‍💻
+- 📝 项目描述: 一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。
+    ![](https://opengithub.cn/image/repos/20251112/411c7662-8c7d-4081-9fe2-d239ca03a9b2.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.11.11 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -41,15 +42,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.11.11 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/usestrix/strix</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 自动化渗透测试工具 https://github.com/usestrix/strix</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：9.5k
 - 🔺 日增长数量：908⭐
 - 🔺 上周增长数量：1526⭐
 - 🔺 上月增长数量：1526⭐
 - 📅 开源时间：2025-08-06
-- 📝 项目描述：✨ Open-source AI hackers for your apps 👨🏻‍💻
+- 📝 项目描述：一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。
 
+    ![](https://opengithub.cn/image/repos/20251112/411c7662-8c7d-4081-9fe2-d239ca03a9b2.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 开源游戏资源合集 https://github.com/bobeff/open-source-games</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -60,6 +62,7 @@
 - 📅 开源时间：2021-09-16
 - 📝 项目描述：本仓库整理大量开源游戏项目，涵盖 PC、移动与网页平台，含源码链接、许可证说明与运行方式。适合游戏开发学习者参考、二次开发或作为开源游戏资源库。
 
+    ![](https://opengithub.cn/image/repos/20251112/2a6399ed-9542-4931-9371-6abcde47574e.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 舆情分析系统 https://github.com/666ghj/BettaFish</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -152,25 +155,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-、安全风险与反模式。适合作为开发流程中的辅助工具，提高代码质量与安全性。
-
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-e="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：55.2k
-- 🔺 日增长数量：75⭐
-- 🔺 上周增长数量：482⭐
-- 🔺 上月增长数量：6011⭐
-- 📅 开源时间：2024-05-30
-- 📝 项目描述：一个全新的浏览器和网络引擎。由网络驱动 标准优先方法，Ladybird 旨在通过以下方式呈现现代网络 性能好，稳定性好，安全性好。
+�安全性好。
 
     ![](https://opengithub.cn/image/repos/20251027/d42f678c-319d-4b4b-86dd-3b2745e65a8c.jpg)
 
