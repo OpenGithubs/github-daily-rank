@@ -150,29 +150,3 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�效率。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 开源数字笔记本 https://github.com/lfnovo/open-notebook</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：12k
-- 🔺 日增长数量：122⭐
-- 🔺 上周增长数量：684⭐
-- 🔺 上月增长数量：2181⭐
-- 📅 开源时间：2024-10-22
-- 📝 项目描述：极简开源笔记系统，支持 Markdown、任务记录、项目管理，强调本地数据与可定制性。
-
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-g" alt=""></span><center>
-"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
