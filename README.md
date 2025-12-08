@@ -14,12 +14,12 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2025.12.07日榜最佳项目:microsoft/VibeVoice  
+> 🏆2025.12.07日榜最佳项目:microsoft/VibeVoice  多模态语音模型框架
 - 开源地址：https://github.com/microsoft/VibeVoice
 - 📅 开源时间：2025-08-25
 - ⭐ 总星标数量：11808⭐
 - 🔺 日Star增长量：852⭐
-- 📝 项目描述: Open-Source Frontier Voice AI
+- 📝 项目描述: VibeVoice 是微软推出的开源语音模型，用于语音识别、合成、语音理解等任务。支持大规模训练与推理，是构建智能语音系统的重要基础组件，也支持与多模态模型结合。
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.12.07 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -41,54 +41,54 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.12.07 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/microsoft/VibeVoice</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 多模态语音模型框架 https://github.com/microsoft/VibeVoice</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：11.8k
 - 🔺 日增长数量：852⭐
 - 🔺 上周增长数量：1326⭐
 - 🔺 上月增长数量：1326⭐
 - 📅 开源时间：2025-08-25
-- 📝 项目描述：Open-Source Frontier Voice AI
+- 📝 项目描述：VibeVoice 是微软推出的开源语音模型，用于语音识别、合成、语音理解等任务。支持大规模训练与推理，是构建智能语音系统的重要基础组件，也支持与多模态模型结合。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/rustfs/rustfs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Rust 实现的虚拟文件系统 https://github.com/rustfs/rustfs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：15.4k
 - 🔺 日增长数量：381⭐
 - 🔺 上周增长数量：1182⭐
 - 🔺 上月增长数量：1182⭐
 - 📅 开源时间：2023-11-23
-- 📝 项目描述：🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- 📝 项目描述：RustFS 是一个 Rust 编写的 VFS 框架，用于构建虚拟文件系统、高性能存储层或自定义文件协议。适合系统开发者研究文件系统结构或构建定制化的存储方案。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/ashishpatel26/500-AI-Agents-Projects</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 500 个 AI Agents 项目集 https://github.com/ashishpatel26/500-AI-Agents-Projects</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：19.2k
 - 🔺 日增长数量：366⭐
 - 🔺 上周增长数量：1317⭐
 - 🔺 上月增长数量：1317⭐
 - 📅 开源时间：2024-12-20
-- 📝 项目描述：The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+- 📝 项目描述：汇总 500+ 个 AI Agent 项目及示例，涵盖自动化、数据处理、编程助手、游戏 Agent 等领域。适合学习 Agent 生态、快速找到参考项目或构建自己的 Agent 系统，是极具价值的资源导航库。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/sst/opencode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. Serverless 开发框架 https://github.com/sst/opencode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：36.6k
 - 🔺 日增长数量：337⭐
 - 🔺 上周增长数量：1141⭐
 - 🔺 上月增长数量：1141⭐
 - 📅 开源时间：2025-05-01
-- 📝 项目描述：The AI coding agent built for the terminal.
+- 📝 项目描述：OpenCode 是基于 SST 的开源 serverless 框架，简化云上开发、部署、环境管理过程。适合快速搭建 API、后台服务、边缘函数等应用，开发体验优秀，适合全栈开发者。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/patchy631/ai-engineering-hub</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. AI 工程师知识库 https://github.com/patchy631/ai-engineering-hub</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：21.7k
 - 🔺 日增长数量：298⭐
 - 🔺 上周增长数量：298⭐
 - 🔺 上月增长数量：298⭐
 - 📅 开源时间：2024-10-21
-- 📝 项目描述：In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- 📝 项目描述：提供系统化的 AI 工程知识，包括模型部署、评估、可观测性、数据处理、MLOps、Agent 架构等。适合 AI 工程师学习现代 AI 工程的最佳实践与完整体系。
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 快速入门 https://github.com/anthropics/anthropic-quickstarts</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
