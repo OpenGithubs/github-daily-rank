@@ -14,12 +14,12 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2025.12.23日榜最佳项目:rendercv/rendercv  
+> 🏆2025.12.23日榜最佳项目:rendercv/rendercv  渲染CV开发库
 - 开源地址：https://github.com/rendercv/rendercv
 - 📅 开源时间：2023-06-11
 - ⭐ 总星标数量：6459⭐
 - 🔺 日Star增长量：1506⭐
-- 📝 项目描述: Typst-based CV/resume generator for academics and engineers
+- 📝 项目描述: RenderCV 是一款专注于计算机视觉的开源开发库，提供高效的图像处理和渲染功能，广泛应用于人工智能、图像识别和图像生成等领域。
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.12.23 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -41,14 +41,14 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.12.23 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/rendercv/rendercv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 渲染CV开发库 https://github.com/rendercv/rendercv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：6.5k
 - 🔺 日增长数量：1506⭐
 - 🔺 上周增长数量：1506⭐
 - 🔺 上月增长数量：1506⭐
 - 📅 开源时间：2023-06-11
-- 📝 项目描述：Typst-based CV/resume generator for academics and engineers
+- 📝 项目描述：RenderCV 是一款专注于计算机视觉的开源开发库，提供高效的图像处理和渲染功能，广泛应用于人工智能、图像识别和图像生成等领域。
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 模块化探索平台 https://github.com/exo-explore/exo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
@@ -61,24 +61,24 @@
 - 📝 项目描述：Exo 是一个面向研究与探索场景的模块化平台，强调可组合、可扩展的系统设计。它通过插件化结构支持快速实验、功能验证与数据探索，适合科研人员和工程师在复杂系统中进行原型构建与迭代，降低探索成本并提升实验复现能力。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/anthropics/skills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. 人工智能技能库 https://github.com/anthropics/skills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：25.8k
 - 🔺 日增长数量：897⭐
 - 🔺 上周增长数量：897⭐
 - 🔺 上月增长数量：897⭐
 - 📅 开源时间：2025-09-22
-- 📝 项目描述：Public repository for Agent Skills
+- 📝 项目描述：Skills 是一款基于人工智能的技能库平台，支持用户创建、管理和分享技能模型。它旨在通过AI提升技能自动化和个性化发展。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/google/langextract</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4. 语言提取工具 https://github.com/google/langextract</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：18.6k
 - 🔺 日增长数量：383⭐
 - 🔺 上周增长数量：383⭐
 - 🔺 上月增长数量：383⭐
 - 📅 开源时间：2025-07-09
-- 📝 项目描述：A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- 📝 项目描述：LangExtract 是一款用于提取和处理自然语言的工具，能够自动化分析文本并提取关键信息，广泛应用于文本挖掘和情感分析等领域。
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. 开源代码生成平台 https://github.com/sst/opencode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
@@ -91,7 +91,7 @@
 - 📝 项目描述：Opencode 致力于打造可本地部署的代码生成与理解工具，结合大模型能力提升开发效率。项目关注开发者隐私与可定制性，适合对代码安全和可控性要求较高的团队与个人。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/lintsinghua/DeepAudit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 深度安全审计工具 https://github.com/lintsinghua/DeepAudit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：2.7k
 - 🔺 日增长数量：328⭐
@@ -150,12 +150,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-
-- 🔺 日增长数量：224⭐
-- 🔺 上周增长数量：1760⭐
-- 🔺 上月增长数量：2337⭐
-- 📅 开源时间：2024-02-06
-- 📝 项目描述：Daytona 是一个面向开发团队的云开发环境与工作区管理平台，支持快速创建、共享和销毁开发环境，适用于远程开发、云 IDE 和 DevOps 场景。它强调环境一致性与自动化配置，可与 Git、容器及 CI/CD 流程集成，减少“在我机器上能跑”的问题，提升团队协作效率。
+队协作效率。
 
 
 ---
