@@ -14,12 +14,13 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.01.27日榜最佳项目:clawdbot/clawdbot  
+> 🏆2026.01.27日榜最佳项目:clawdbot/clawdbot  人工智能助手
 - 开源地址：https://github.com/clawdbot/clawdbot
 - 📅 开源时间：2025-11-24
 - ⭐ 总星标数量：68237⭐
 - 🔺 日Star增长量：22657⭐
-- 📝 项目描述: 
+- 📝 项目描述: Moltbot 是一款可在个人设备端部署的专属 AI 助手；可在你日常使用的各类渠道直接响应需求，涵盖 WhatsApp、电报、斯拉克、迪斯科德、谷歌聊天、信令、苹果即时通讯、微软团队、网页聊天，同时支持蓝泡、矩阵、扎罗、扎罗个人等拓展渠道；在苹果电脑系统、苹果移动系统、安卓系统中均可实现语音交互，还能生成由你操控的实时交互画布；网关仅为控制中枢，核心产品为该智能助手。
+    ![](https://opengithub.cn/image/repos/20260128/226806ce-3ab5-4207-9f9a-4bc62ce793ea.png)
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.01.27 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -41,15 +42,16 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.01.27 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/clawdbot/clawdbot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 人工智能助手 https://github.com/clawdbot/clawdbot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：68.2k
 - 🔺 日增长数量：22657⭐
 - 🔺 上周增长数量：22657⭐
 - 🔺 上月增长数量：22657⭐
 - 📅 开源时间：2025-11-24
-- 📝 项目描述：
+- 📝 项目描述：Moltbot 是一款可在个人设备端部署的专属 AI 助手；可在你日常使用的各类渠道直接响应需求，涵盖 WhatsApp、电报、斯拉克、迪斯科德、谷歌聊天、信令、苹果即时通讯、微软团队、网页聊天，同时支持蓝泡、矩阵、扎罗、扎罗个人等拓展渠道；在苹果电脑系统、苹果移动系统、安卓系统中均可实现语音交互，还能生成由你操控的实时交互画布；网关仅为控制中枢，核心产品为该智能助手。
 
+    ![](https://opengithub.cn/image/repos/20260128/226806ce-3ab5-4207-9f9a-4bc62ce793ea.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 人工智能技能库 https://github.com/anthropics/skills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -139,17 +141,6 @@
 - 🔺 上月增长数量：780⭐
 - 📅 开源时间：2024-02-27
 - 📝 项目描述：FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
-
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�目描述：Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
 
 
 ---
