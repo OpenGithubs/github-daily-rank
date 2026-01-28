@@ -1,4 +1,4 @@
-## 2026.01.27 最佳开源项目🔝:clawdbot
+## 2026.01.27 最佳开源项目🔝:moltbot
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -14,8 +14,8 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.01.27日榜最佳项目:clawdbot/clawdbot  人工智能助手
-- 开源地址：https://github.com/clawdbot/clawdbot
+> 🏆2026.01.27日榜最佳项目:moltbot/moltbot  人工智能助手
+- 开源地址：https://github.com/moltbot/moltbot
 - 📅 开源时间：2025-11-24
 - ⭐ 总星标数量：68237⭐
 - 🔺 日Star增长量：22657⭐
@@ -26,7 +26,7 @@
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot)| 68.2k  | 🔺22657 |
+| 1 |  [moltbot/moltbot](https://github.com/moltbot/moltbot)| 68.2k  | 🔺22657 |
 | 2 |  [anthropics/skills](https://github.com/anthropics/skills)| 55.6k  | 🔺1463 |
 | 3 |  [sst/opencode](https://github.com/sst/opencode)| 90k  | 🔺1289 |
 | 4 |  [obra/superpowers](https://github.com/obra/superpowers)| 37.9k  | 🔺1048 |
@@ -42,7 +42,7 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.01.27 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 人工智能助手 https://github.com/clawdbot/clawdbot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 人工智能助手 https://github.com/moltbot/moltbot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：68.2k
 - 🔺 日增长数量：22657⭐
@@ -151,3 +151,4 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+n><center>
