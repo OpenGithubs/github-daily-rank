@@ -1,4 +1,4 @@
-## 2026.07.26 最佳开源项目🔝:buzz
+## 2026.07.27 最佳开源项目🔝:openworker
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,131 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.07.26日榜最佳项目:block/buzz  
-- 开源地址：https://github.com/block/buzz
-- 📅 开源时间：2026-03-07
-- ⭐ 总星标数量：11587⭐
-- 🔺 日Star增长量：2104⭐
-- 📝 项目描述: A hive mind communication platform
+> 🏆2026.07.27日榜最佳项目:andrewyng/openworker  
+- 开源地址：https://github.com/andrewyng/openworker
+- 📅 开源时间：2026-07-25
+- ⭐ 总星标数量：8451⭐
+- 🔺 日Star增长量：3774⭐
+- 📝 项目描述: 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.26 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.27 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [block/buzz](https://github.com/block/buzz)| 11.6k  | 🔺2104 |
-| 2 |  [andrewyng/openworker](https://github.com/andrewyng/openworker)| 4.7k  | 🔺1350 |
-| 3 |  [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)| 29.9k  | 🔺1257 |
-| 4 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 3.4k  | 🔺1002 |
-| 5 |  [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic)| 4.9k  | 🔺725 |
-| 6 |  [stablyai/orca](https://github.com/stablyai/orca)| 28.9k  | 🔺675 |
-| 7 |  [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)| 19.7k  | 🔺672 |
-| 8 |  [Nutlope/hallmark](https://github.com/Nutlope/hallmark)| 17.6k  | 🔺626 |
-| 9 |  [safishamsi/graphify](https://github.com/safishamsi/graphify)| 95.7k  | 🔺584 |
-| 10 |  [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)| 70.5k  | 🔺543 |
+| 1 |  [andrewyng/openworker](https://github.com/andrewyng/openworker)| 8.5k  | 🔺3774 |
+| 2 |  [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)| 32k  | 🔺3403 |
+| 3 |  [block/buzz](https://github.com/block/buzz)| 14.5k  | 🔺2923 |
+| 4 |  [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)| 22.6k  | 🔺2861 |
+| 5 |  [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)| 32k  | 🔺2135 |
+| 6 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 5.4k  | 🔺1981 |
+| 7 |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review)| 14.6k  | 🔺1817 |
+| 8 |  [stablyai/orca](https://github.com/stablyai/orca)| 30.7k  | 🔺1772 |
+| 9 |  [earendil-works/pi](https://github.com/earendil-works/pi)| 78.9k  | 🔺1406 |
+| 10 |  [pbakaus/impeccable](https://github.com/pbakaus/impeccable)| 51.4k  | 🔺1362 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.26 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.27 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/block/buzz</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/andrewyng/openworker</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：11.6k
-- 🔺 日增长数量：2104⭐
-- 🔺 上周增长数量：5007⭐
-- 🔺 上月增长数量：5007⭐
-- 📅 开源时间：2026-03-07
-- 📝 项目描述：A hive mind communication platform
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/andrewyng/openworker</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：4.7k
-- 🔺 日增长数量：1350⭐
-- 🔺 上周增长数量：1350⭐
-- 🔺 上月增长数量：1350⭐
+- ⭐ 总星标数量：8.5k
+- 🔺 日增长数量：3774⭐
+- 🔺 上周增长数量：5124⭐
+- 🔺 上月增长数量：5124⭐
 - 📅 开源时间：2026-07-25
 - 📝 项目描述：
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/diegosouzapw/OmniRoute</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/permissionlesstech/bitchat</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：29.9k
-- 🔺 日增长数量：1257⭐
-- 🔺 上周增长数量：11190⭐
-- 🔺 上月增长数量：17342⭐
-- 📅 开源时间：2026-02-13
-- 📝 项目描述：Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：3.4k
-- 🔺 日增长数量：1002⭐
-- 🔺 上周增长数量：1856⭐
-- 🔺 上月增长数量：1856⭐
-- 📅 开源时间：2026-04-16
-- 📝 项目描述：The best browser for both you and your AI agents work in parallel.
+- ⭐ 总星标数量：32k
+- 🔺 日增长数量：3403⭐
+- 🔺 上周增长数量：3403⭐
+- 🔺 上月增长数量：3403⭐
+- 📅 开源时间：2025-07-04
+- 📝 项目描述：bluetooth mesh chat, IRC vibes
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/CoreBunch/Instatic</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/block/buzz</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：4.9k
-- 🔺 日增长数量：725⭐
-- 🔺 上周增长数量：1419⭐
-- 🔺 上月增长数量：3437⭐
-- 📅 开源时间：2026-04-30
-- 📝 项目描述：Instatic is a modern self-hosted visual CMS - get it running in 1 minute
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/stablyai/orca</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：28.9k
-- 🔺 日增长数量：675⭐
-- 🔺 上周增长数量：7205⭐
-- 🔺 上月增长数量：22618⭐
-- 📅 开源时间：2026-03-17
-- 📝 项目描述：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- ⭐ 总星标数量：14.5k
+- 🔺 日增长数量：2923⭐
+- 🔺 上周增长数量：7930⭐
+- 🔺 上月增长数量：7930⭐
+- 📅 开源时间：2026-03-07
+- 📝 项目描述：A hive mind communication platform
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/bojieli/ai-agent-book</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/bojieli/ai-agent-book</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19.7k
-- 🔺 日增长数量：672⭐
-- 🔺 上周增长数量：5486⭐
-- 🔺 上月增长数量：5486⭐
+- ⭐ 总星标数量：22.6k
+- 🔺 日增长数量：2861⭐
+- 🔺 上周增长数量：8347⭐
+- 🔺 上月增长数量：8347⭐
 - 📅 开源时间：2025-09-09
 - 📝 项目描述：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/Nutlope/hallmark</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/diegosouzapw/OmniRoute</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：17.6k
-- 🔺 日增长数量：626⭐
-- 🔺 上周增长数量：4810⭐
-- 🔺 上月增长数量：13382⭐
-- 📅 开源时间：2026-04-28
-- 📝 项目描述：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/safishamsi/graphify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：95.7k
-- 🔺 日增长数量：584⭐
-- 🔺 上周增长数量：4906⭐
-- 🔺 上月增长数量：18737⭐
-- 📅 开源时间：2026-04-03
-- 📝 项目描述：AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+- ⭐ 总星标数量：32k
+- 🔺 日增长数量：2135⭐
+- 🔺 上周增长数量：10592⭐
+- 🔺 上月增长数量：19477⭐
+- 📅 开源时间：2026-02-13
+- 📝 项目描述：Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/ComposioHQ/awesome-claude-skills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：70.5k
-- 🔺 日增长数量：543⭐
-- 🔺 上周增长数量：1783⭐
-- 🔺 上月增长数量：1783⭐
-- 📅 开源时间：2025-10-17
-- 📝 项目描述：A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- ⭐ 总星标数量：5.4k
+- 🔺 日增长数量：1981⭐
+- 🔺 上周增长数量：3837⭐
+- 🔺 上月增长数量：3837⭐
+- 📅 开源时间：2026-04-16
+- 📝 项目描述：The best browser for both you and your AI agents work in parallel.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/alibaba/open-code-review</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：14.6k
+- 🔺 日增长数量：1817⭐
+- 🔺 上周增长数量：3222⭐
+- 🔺 上月增长数量：3222⭐
+- 📅 开源时间：2026-05-18
+- 📝 项目描述：Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/stablyai/orca</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：30.7k
+- 🔺 日增长数量：1772⭐
+- 🔺 上周增长数量：7309⭐
+- 🔺 上月增长数量：24390⭐
+- 📅 开源时间：2026-03-17
+- 📝 项目描述：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/earendil-works/pi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：78.9k
+- 🔺 日增长数量：1406⭐
+- 🔺 上周增长数量：5515⭐
+- 🔺 上月增长数量：6162⭐
+- 📅 开源时间：2025-08-09
+- 📝 项目描述：AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/pbakaus/impeccable</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：51.4k
+- 🔺 日增长数量：1362⭐
+- 🔺 上周增长数量：3103⭐
+- 🔺 上月增长数量：11547⭐
+- 📅 开源时间：2025-11-16
+- 📝 项目描述：The design language that makes your AI harness better at design.
 
 
 ---
@@ -150,6 +150,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+ini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 nter>
 th:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 态</span><center>
