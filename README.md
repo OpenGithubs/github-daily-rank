@@ -1,4 +1,4 @@
-## 2026.08.02 最佳开源项目🔝:AI-For-Beginners
+## 2026.08.03 最佳开源项目🔝:qm
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,131 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.08.02日榜最佳项目:microsoft/AI-For-Beginners  
-- 开源地址：https://github.com/microsoft/AI-For-Beginners
-- 📅 开源时间：2021-03-04
-- ⭐ 总星标数量：56776⭐
-- 🔺 日Star增长量：3084⭐
-- 📝 项目描述: 12 Weeks, 24 Lessons, AI for All!
+> 🏆2026.08.03日榜最佳项目:yc-software/qm  
+- 开源地址：https://github.com/yc-software/qm
+- 📅 开源时间：2026-08-02
+- ⭐ 总星标数量：9241⭐
+- 🔺 日Star增长量：4372⭐
+- 📝 项目描述: 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.02 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.03 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)| 56.8k  | 🔺3084 |
-| 2 |  [block/buzz](https://github.com/block/buzz)| 20.3k  | 🔺2024 |
-| 3 |  [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)| 36.9k  | 🔺1933 |
-| 4 |  [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)| 29.1k  | 🔺1808 |
-| 5 |  [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)| 10.1k  | 🔺1569 |
-| 6 |  [stablyai/orca](https://github.com/stablyai/orca)| 35.1k  | 🔺1397 |
-| 7 |  [different-ai/openwork](https://github.com/different-ai/openwork)| 19.9k  | 🔺1314 |
-| 8 |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)| 93.4k  | 🔺1140 |
-| 9 |  [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)| 56.6k  | 🔺1140 |
-| 10 |  [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)| 11.7k  | 🔺1127 |
+| 1 |  [yc-software/qm](https://github.com/yc-software/qm)| 9.2k  | 🔺4372 |
+| 2 |  [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)| 60.6k  | 🔺3810 |
+| 3 |  [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)| 15.4k  | 🔺3692 |
+| 4 |  [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)| 38.7k  | 🔺1763 |
+| 5 |  [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)| 11.9k  | 🔺1740 |
+| 6 |  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)| 65.6k  | 🔺1714 |
+| 7 |  [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)| 30.8k  | 🔺1687 |
+| 8 |  [block/buzz](https://github.com/block/buzz)| 21.7k  | 🔺1460 |
+| 9 |  [stablyai/orca](https://github.com/stablyai/orca)| 36.5k  | 🔺1410 |
+| 10 |  [lyogavin/airllm](https://github.com/lyogavin/airllm)| 26.8k  | 🔺1327 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.02 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.03 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/microsoft/AI-For-Beginners</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/yc-software/qm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：56.8k
-- 🔺 日增长数量：3084⭐
-- 🔺 上周增长数量：3967⭐
-- 🔺 上月增长数量：7504⭐
+- ⭐ 总星标数量：9.2k
+- 🔺 日增长数量：4372⭐
+- 🔺 上周增长数量：4372⭐
+- 🔺 上月增长数量：4372⭐
+- 📅 开源时间：2026-08-02
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/microsoft/AI-For-Beginners</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：60.6k
+- 🔺 日增长数量：3810⭐
+- 🔺 上周增长数量：7722⭐
+- 🔺 上月增长数量：11314⭐
 - 📅 开源时间：2021-03-04
 - 📝 项目描述：12 Weeks, 24 Lessons, AI for All!
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/block/buzz</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/zhaoxuya520/reverse-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：20.3k
-- 🔺 日增长数量：2024⭐
-- 🔺 上周增长数量：10780⭐
-- 🔺 上月增长数量：13683⭐
-- 📅 开源时间：2026-03-07
-- 📝 项目描述：A hive mind communication platform
+- ⭐ 总星标数量：15.4k
+- 🔺 日增长数量：3692⭐
+- 🔺 上周增长数量：4819⭐
+- 🔺 上月增长数量：4819⭐
+- 📅 开源时间：2026-05-13
+- 📝 项目描述：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/diegosouzapw/OmniRoute</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/diegosouzapw/OmniRoute</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：36.9k
-- 🔺 日增长数量：1933⭐
-- 🔺 上周增长数量：8312⭐
-- 🔺 上月增长数量：24397⭐
+- ⭐ 总星标数量：38.7k
+- 🔺 日增长数量：1763⭐
+- 🔺 上周增长数量：8818⭐
+- 🔺 上月增长数量：26160⭐
 - 📅 开源时间：2026-02-13
 - 📝 项目描述：Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/bojieli/ai-agent-book</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/TencentCloud/TencentDB-Agent-Memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：29.1k
-- 🔺 日增长数量：1808⭐
-- 🔺 上周增长数量：10072⭐
-- 🔺 上月增长数量：14886⭐
+- ⭐ 总星标数量：11.9k
+- 🔺 日增长数量：1740⭐
+- 🔺 上周增长数量：2639⭐
+- 🔺 上月增长数量：5673⭐
+- 📅 开源时间：2026-04-07
+- 📝 项目描述：TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/Panniantong/Agent-Reach</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：65.6k
+- 🔺 日增长数量：1714⭐
+- 🔺 上周增长数量：4782⭐
+- 🔺 上月增长数量：23377⭐
+- 📅 开源时间：2026-02-24
+- 📝 项目描述：Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/bojieli/ai-agent-book</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：30.8k
+- 🔺 日增长数量：1687⭐
+- 🔺 上周增长数量：11087⭐
+- 🔺 上月增长数量：16573⭐
 - 📅 开源时间：2025-09-09
 - 📝 项目描述：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/huggingface/speech-to-speech</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/block/buzz</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：10.1k
-- 🔺 日增长数量：1569⭐
-- 🔺 上周增长数量：3823⭐
-- 🔺 上月增长数量：4674⭐
-- 📅 开源时间：2024-08-07
-- 📝 项目描述：Build local voice agents with open-source models
+- ⭐ 总星标数量：21.7k
+- 🔺 日增长数量：1460⭐
+- 🔺 上周增长数量：10136⭐
+- 🔺 上月增长数量：15143⭐
+- 📅 开源时间：2026-03-07
+- 📝 项目描述：A hive mind communication platform
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/stablyai/orca</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/stablyai/orca</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：35.1k
-- 🔺 日增长数量：1397⭐
-- 🔺 上周增长数量：6882⭐
-- 🔺 上月增长数量：27764⭐
+- ⭐ 总星标数量：36.5k
+- 🔺 日增长数量：1410⭐
+- 🔺 上周增长数量：7617⭐
+- 🔺 上月增长数量：28639⭐
 - 📅 开源时间：2026-03-17
 - 📝 项目描述：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/different-ai/openwork</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/lyogavin/airllm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19.9k
-- 🔺 日增长数量：1314⭐
-- 🔺 上周增长数量：2072⭐
-- 🔺 上月增长数量：2072⭐
-- 📅 开源时间：2026-01-14
-- 📝 项目描述：The open-source alternative to Claude Cowork (powered by opencode)
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/DietrichGebert/ponytail</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：93.4k
-- 🔺 日增长数量：1140⭐
-- 🔺 上周增长数量：4539⭐
-- 🔺 上月增长数量：35727⭐
-- 📅 开源时间：2026-06-15
-- 📝 项目描述：
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/mvanhorn/last30days-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：56.6k
-- 🔺 日增长数量：1140⭐
-- 🔺 上周增长数量：3140⭐
-- 🔺 上月增长数量：7441⭐
-- 📅 开源时间：2026-01-24
-- 📝 项目描述：AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/zhaoxuya520/reverse-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：11.7k
-- 🔺 日增长数量：1127⭐
-- 🔺 上周增长数量：1127⭐
-- 🔺 上月增长数量：1127⭐
-- 📅 开源时间：2026-05-13
-- 📝 项目描述：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+- ⭐ 总星标数量：26.8k
+- 🔺 日增长数量：1327⭐
+- 🔺 上周增长数量：2650⭐
+- 🔺 上月增长数量：4691⭐
+- 📅 开源时间：2023-06-13
+- 📝 项目描述：AirLLM 70B inference with single 4GB GPU
 
 
 ---
@@ -150,6 +150,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+/span><center>
 /photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 " alt=""></span><center>
 1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
