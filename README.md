@@ -1,4 +1,4 @@
-## 2026.08.06 最佳开源项目🔝:anydoc
+## 2026.08.07 最佳开源项目🔝:anydoc
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,135 +15,142 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.08.06日榜最佳项目:firecrawl/anydoc  
+> 🏆2026.08.07日榜最佳项目:firecrawl/anydoc  
 - 开源地址：https://github.com/firecrawl/anydoc
 - 📅 开源时间：2026-08-06
-- ⭐ 总星标数量：7794⭐
-- 🔺 日Star增长量：3008⭐
+- ⭐ 总星标数量：10703⭐
+- 🔺 日Star增长量：2909⭐
 - 📝 项目描述: 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.06 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.07 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)| 7.8k  | 🔺3008 |
-| 2 |  [cloudflare/computer](https://github.com/cloudflare/computer)| 4.6k  | 🔺1971 |
-| 3 |  [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)| 16.2k  | 🔺1257 |
-| 4 |  [trycompai/crm](https://github.com/trycompai/crm)| 7.1k  | 🔺1067 |
-| 5 |  [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)| 12.3k  | 🔺1023 |
-| 6 |  [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)| 19.8k  | 🔺772 |
-| 7 |  [huangruiteng/loopx](https://github.com/huangruiteng/loopx)| 2.8k  | 🔺710 |
-| 8 |  [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)| 17.5k  | 🔺583 |
-| 9 |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)| 17.7k  | 🔺471 |
-| 10 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 9.1k  | 🔺404 |
+| 1 |  [firecrawl/anydoc](https://github.com/firecrawl/anydoc)| 10.7k  | 🔺2909 |
+| 2 |  [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)| 17.4k  | 🔺1242 |
+| 3 |  [cloudflare/computer](https://github.com/cloudflare/computer)| 5.5k  | 🔺816 |
+| 4 |  [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)| 13k  | 🔺709 |
+| 5 |  [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)| 18.2k  | 🔺693 |
+| 6 |  [huangruiteng/loopx](https://github.com/huangruiteng/loopx)| 3.3k  | 🔺587 |
+| 7 |  [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)| 18.1k  | 🔺409 |
+| 8 |  [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)| 3.2k  | 🔺408 |
+| 9 |  [pranshuparmar/witr](https://github.com/pranshuparmar/witr)| 19.6k  | 🔺387 |
+| 10 |  [trycompai/crm](https://github.com/trycompai/crm)| 7.4k  | 🔺343 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.06 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.08.07 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/firecrawl/anydoc</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：7.8k
-- 🔺 日增长数量：3008⭐
-- 🔺 上周增长数量：3008⭐
-- 🔺 上月增长数量：3008⭐
+- ⭐ 总星标数量：10.7k
+- 🔺 日增长数量：2909⭐
+- 🔺 上周增长数量：5917⭐
+- 🔺 上月增长数量：5917⭐
 - 📅 开源时间：2026-08-06
 - 📝 项目描述：
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/cloudflare/computer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/TencentCloud/TencentDB-Agent-Memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：4.6k
-- 🔺 日增长数量：1971⭐
-- 🔺 上周增长数量：1971⭐
-- 🔺 上月增长数量：1971⭐
-- 📅 开源时间：2026-06-05
-- 📝 项目描述：Give your agent a computer 👾
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/TencentCloud/TencentDB-Agent-Memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：16.2k
-- 🔺 日增长数量：1257⭐
-- 🔺 上周增长数量：6821⭐
-- 🔺 上月增长数量：9805⭐
+- ⭐ 总星标数量：17.4k
+- 🔺 日增长数量：1242⭐
+- 🔺 上周增长数量：7821⭐
+- 🔺 上月增长数量：11023⭐
 - 📅 开源时间：2026-04-07
 - 📝 项目描述：TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/trycompai/crm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/cloudflare/computer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：7.1k
-- 🔺 日增长数量：1067⭐
-- 🔺 上周增长数量：3942⭐
-- 🔺 上月增长数量：3942⭐
-- 📅 开源时间：2026-08-04
-- 📝 项目描述：
+- ⭐ 总星标数量：5.5k
+- 🔺 日增长数量：816⭐
+- 🔺 上周增长数量：2787⭐
+- 🔺 上月增长数量：2787⭐
+- 📅 开源时间：2026-06-05
+- 📝 项目描述：Give your agent a computer 👾
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/firecrawl/pdf-inspector</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/firecrawl/pdf-inspector</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：12.3k
-- 🔺 日增长数量：1023⭐
-- 🔺 上周增长数量：4337⭐
-- 🔺 上月增长数量：4337⭐
+- ⭐ 总星标数量：13k
+- 🔺 日增长数量：709⭐
+- 🔺 上周增长数量：5046⭐
+- 🔺 上月增长数量：5046⭐
 - 📅 开源时间：2026-02-07
 - 📝 项目描述：Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/zhaoxuya520/reverse-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/virgiliojr94/book-to-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19.8k
-- 🔺 日增长数量：772⭐
-- 🔺 上周增长数量：9165⭐
-- 🔺 上月增长数量：9165⭐
-- 📅 开源时间：2026-05-13
-- 📝 项目描述：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/huangruiteng/loopx</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：2.8k
-- 🔺 日增长数量：710⭐
-- 🔺 上周增长数量：710⭐
-- 🔺 上月增长数量：710⭐
-- 📅 开源时间：2026-05-31
-- 📝 项目描述：Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/virgiliojr94/book-to-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：17.5k
-- 🔺 日增长数量：583⭐
-- 🔺 上周增长数量：4971⭐
-- 🔺 上月增长数量：6298⭐
+- ⭐ 总星标数量：18.2k
+- 🔺 日增长数量：693⭐
+- 🔺 上周增长数量：4575⭐
+- 🔺 上月增长数量：6991⭐
 - 📅 开源时间：2026-05-01
 - 📝 项目描述：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/ayghri/i-have-adhd</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/huangruiteng/loopx</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：17.7k
-- 🔺 日增长数量：471⭐
-- 🔺 上周增长数量：4252⭐
-- 🔺 上月增长数量：10981⭐
+- ⭐ 总星标数量：3.3k
+- 🔺 日增长数量：587⭐
+- 🔺 上周增长数量：1297⭐
+- 🔺 上月增长数量：1297⭐
+- 📅 开源时间：2026-05-31
+- 📝 项目描述：Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/ayghri/i-have-adhd</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：18.1k
+- 🔺 日增长数量：409⭐
+- 🔺 上周增长数量：3935⭐
+- 🔺 上月增长数量：11390⭐
 - 📅 开源时间：2026-05-14
 - 📝 项目描述：A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/FareedKhan-dev/kimi-k3-in-c</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：9.1k
-- 🔺 日增长数量：404⭐
-- 🔺 上周增长数量：3122⭐
-- 🔺 上月增长数量：7509⭐
-- 📅 开源时间：2026-04-16
-- 📝 项目描述：The best browser for both you and your AI agents work in parallel.
+- ⭐ 总星标数量：3.2k
+- 🔺 日增长数量：408⭐
+- 🔺 上周增长数量：644⭐
+- 🔺 上月增长数量：644⭐
+- 📅 开源时间：2026-08-06
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/pranshuparmar/witr</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：19.6k
+- 🔺 日增长数量：387⭐
+- 🔺 上周增长数量：1167⭐
+- 🔺 上月增长数量：1422⭐
+- 📅 开源时间：2025-12-21
+- 📝 项目描述：Why is this running?
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/trycompai/crm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：7.4k
+- 🔺 日增长数量：343⭐
+- 🔺 上周增长数量：4285⭐
+- 🔺 上月增长数量：4285⭐
+- 📅 开源时间：2026-08-04
+- 📝 项目描述：
 
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
+
+<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+�&公众号
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
