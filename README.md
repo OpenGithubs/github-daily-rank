@@ -1,4 +1,4 @@
-## 2026.10.16 最佳开源项目🔝:anatomy
+## 2026.10.17 最佳开源项目🔝:anatomy
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,126 +15,142 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.10.16日榜最佳项目:wheresryan22/anatomy  
+> 🏆2026.10.17日榜最佳项目:wheresryan22/anatomy  
 - 开源地址：https://github.com/wheresryan22/anatomy
 - 📅 开源时间：2026-10-12
-- ⭐ 总星标数量：13833⭐
-- 🔺 日Star增长量：1290⭐
+- ⭐ 总星标数量：14989⭐
+- 🔺 日Star增长量：1156⭐
 - 📝 项目描述: An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.16 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.17 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 13.8k  | 🔺1290 |
-| 2 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 12.8k  | 🔺552 |
-| 3 |  [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)| 3.9k  | 🔺544 |
-| 4 |  [storytold/wordcraft](https://github.com/storytold/wordcraft)| 13.6k  | 🔺526 |
-| 5 |  [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)| 3.5k  | 🔺476 |
-| 6 |  [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)| 2.8k  | 🔺465 |
-| 7 |  [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)| 8.1k  | 🔺442 |
-| 8 |  [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)| 2.7k  | 🔺415 |
-| 9 |  [storytold/cadcraft](https://github.com/storytold/cadcraft)| 5.1k  | 🔺371 |
-| 10 |  [cursor/plugins](https://github.com/cursor/plugins)| 11.9k  | 🔺283 |
+| 1 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 15k  | 🔺1156 |
+| 2 |  [storytold/cadcraft](https://github.com/storytold/cadcraft)| 5.6k  | 🔺460 |
+| 3 |  [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)| 5.3k  | 🔺444 |
+| 4 |  [storytold/wordcraft](https://github.com/storytold/wordcraft)| 14k  | 🔺388 |
+| 5 |  [cursor/plugins](https://github.com/cursor/plugins)| 12.2k  | 🔺380 |
+| 6 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 13.1k  | 🔺296 |
+| 7 |  [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)| 9.8k  | 🔺267 |
+| 8 |  [ARahim3/DigUp](https://github.com/ARahim3/DigUp)| 4.5k  | 🔺254 |
+| 9 |  [corsairdev/corsair](https://github.com/corsairdev/corsair)| 15.2k  | 🔺239 |
+| 10 |  [superdesigndev/treg](https://github.com/superdesigndev/treg)| 5.7k  | 🔺196 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.16 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.17 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/wheresryan22/anatomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：13.8k
-- 🔺 日增长数量：1290⭐
-- 🔺 上周增长数量：10683⭐
-- 🔺 上月增长数量：10683⭐
+- ⭐ 总星标数量：15k
+- 🔺 日增长数量：1156⭐
+- 🔺 上周增长数量：11839⭐
+- 🔺 上月增长数量：11839⭐
 - 📅 开源时间：2026-10-12
 - 📝 项目描述：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/storytold/cadcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：12.8k
-- 🔺 日增长数量：552⭐
-- 🔺 上周增长数量：4287⭐
-- 🔺 上月增长数量：8731⭐
-- 📅 开源时间：2026-07-19
-- 📝 项目描述：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/LosaLosSantos/aurelio-finance</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：3.9k
-- 🔺 日增长数量：544⭐
-- 🔺 上周增长数量：1849⭐
-- 🔺 上月增长数量：1849⭐
-- 📅 开源时间：2026-10-11
-- 📝 项目描述：Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/storytold/wordcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：13.6k
-- 🔺 日增长数量：526⭐
-- 🔺 上周增长数量：10496⭐
-- 🔺 上月增长数量：10496⭐
-- 📅 开源时间：2026-10-11
-- 📝 项目描述：An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/jhaizhou-ops/d2r-mobile</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：3.5k
-- 🔺 日增长数量：476⭐
-- 🔺 上周增长数量：1443⭐
-- 🔺 上月增长数量：1443⭐
-- 📅 开源时间：2026-10-15
-- 📝 项目描述：Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/onehumanbeing/esp32-iphone-agent</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：2.8k
-- 🔺 日增长数量：465⭐
-- 🔺 上周增长数量：770⭐
-- 🔺 上月增长数量：770⭐
-- 📅 开源时间：2026-10-15
-- 📝 项目描述：Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/rehan-remade/universal-modder</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.1k
-- 🔺 日增长数量：442⭐
-- 🔺 上周增长数量：2498⭐
-- 🔺 上月增长数量：5971⭐
-- 📅 开源时间：2026-10-03
-- 📝 项目描述：Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/michael-denyer/pstack-claude</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：2.7k
-- 🔺 日增长数量：415⭐
-- 🔺 上周增长数量：940⭐
-- 🔺 上月增长数量：1254⭐
-- 📅 开源时间：2026-05-26
-- 📝 项目描述：Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/storytold/cadcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：5.1k
-- 🔺 日增长数量：371⭐
-- 🔺 上周增长数量：2488⭐
-- 🔺 上月增长数量：2488⭐
+- ⭐ 总星标数量：5.6k
+- 🔺 日增长数量：460⭐
+- 🔺 上周增长数量：2948⭐
+- 🔺 上月增长数量：2948⭐
 - 📅 开源时间：2026-10-12
 - 📝 项目描述：CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/cursor/plugins</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/withmarbleapp/os-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：11.9k
+- ⭐ 总星标数量：5.3k
+- 🔺 日增长数量：444⭐
+- 🔺 上周增长数量：517⭐
+- 🔺 上月增长数量：946⭐
+- 📅 开源时间：2026-07-08
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/storytold/wordcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：14k
+- 🔺 日增长数量：388⭐
+- 🔺 上周增长数量：10884⭐
+- 🔺 上月增长数量：10884⭐
+- 📅 开源时间：2026-10-11
+- 📝 项目描述：An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/cursor/plugins</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：12.2k
+- 🔺 日增长数量：380⭐
+- 🔺 上周增长数量：1519⭐
+- 🔺 上月增长数量：4718⭐
+- 📅 开源时间：2026-01-23
+- 📝 项目描述：Cursor plugin specification and official plugins
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：13.1k
+- 🔺 日增长数量：296⭐
+- 🔺 上周增长数量：3977⭐
+- 🔺 上月增长数量：9027⭐
+- 📅 开源时间：2026-07-19
+- 📝 项目描述：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/akitaonrails/ai-memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：9.8k
+- 🔺 日增长数量：267⭐
+- 🔺 上周增长数量：718⭐
+- 🔺 上月增长数量：3196⭐
+- 📅 开源时间：2026-05-22
+- 📝 项目描述：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/ARahim3/DigUp</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：4.5k
+- 🔺 日增长数量：254⭐
+- 🔺 上周增长数量：2214⭐
+- 🔺 上月增长数量：2214⭐
+- 📅 开源时间：2026-10-14
+- 📝 项目描述：Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/corsairdev/corsair</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：15.2k
+- 🔺 日增长数量：239⭐
+- 🔺 上周增长数量：1511⭐
+- 🔺 上月增长数量：3861⭐
+- 📅 开源时间：2025-10-15
+- 📝 项目描述：Connect your users to their apps
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/superdesigndev/treg</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：5.7k
+- 🔺 日增长数量：196⭐
+- 🔺 上周增长数量：713⭐
+- 🔺 上月增长数量：713⭐
+- 📅 开源时间：2026-07-15
+- 📝 项目描述：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+
+
+---
+## 更多Github开源项目,请关注微信&公众号
+
+<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+总星标数量：11.9k
 - 🔺 日增长数量：283⭐
 - 🔺 上周增长数量：1320⭐
 - 🔺 上月增长数量：4415⭐
