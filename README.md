@@ -1,4 +1,4 @@
-## 2026.10.20 最佳开源项目🔝:cleanyourtv
+## 2026.10.21 最佳开源项目🔝:cleanyourtv
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,131 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.10.20日榜最佳项目:Gathin23/cleanyourtv  
+> 🏆2026.10.21日榜最佳项目:Gathin23/cleanyourtv  
 - 开源地址：https://github.com/Gathin23/cleanyourtv
 - 📅 开源时间：2026-10-20
-- ⭐ 总星标数量：10914⭐
-- 🔺 日Star增长量：5874⭐
+- ⭐ 总星标数量：18260⭐
+- 🔺 日Star增长量：7346⭐
 - 📝 项目描述: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.20 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.21 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)| 10.9k  | 🔺5874 |
-| 2 |  [HeyPuter/everything](https://github.com/HeyPuter/everything)| 3.1k  | 🔺740 |
-| 3 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 17.5k  | 🔺723 |
-| 4 |  [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)| 11.9k  | 🔺697 |
-| 5 |  [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)| 6.6k  | 🔺551 |
-| 6 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 18.1k  | 🔺390 |
-| 7 |  [storytold/wordcraft](https://github.com/storytold/wordcraft)| 15k  | 🔺320 |
-| 8 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 14.1k  | 🔺284 |
-| 9 |  [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)| 4.1k  | 🔺214 |
-| 10 |  [ARahim3/DigUp](https://github.com/ARahim3/DigUp)| 5.2k  | 🔺212 |
+| 1 |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)| 18.3k  | 🔺7346 |
+| 2 |  [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)| 17.6k  | 🔺5663 |
+| 3 |  [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)| 3.7k  | 🔺984 |
+| 4 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 18.4k  | 🔺929 |
+| 5 |  [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)| 7k  | 🔺421 |
+| 6 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 18.5k  | 🔺380 |
+| 7 |  [HeyPuter/everything](https://github.com/HeyPuter/everything)| 3.4k  | 🔺376 |
+| 8 |  [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)| 12.2k  | 🔺360 |
+| 9 |  [storytold/wordcraft](https://github.com/storytold/wordcraft)| 15.3k  | 🔺289 |
+| 10 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 14.4k  | 🔺266 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.20 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.21 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/Gathin23/cleanyourtv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：10.9k
-- 🔺 日增长数量：5874⭐
-- 🔺 上周增长数量：5874⭐
-- 🔺 上月增长数量：5874⭐
+- ⭐ 总星标数量：18.3k
+- 🔺 日增长数量：7346⭐
+- 🔺 上周增长数量：13220⭐
+- 🔺 上月增长数量：13220⭐
 - 📅 开源时间：2026-10-20
 - 📝 项目描述：Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/HeyPuter/everything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/deepseek-ai/DeepInfer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：3.1k
-- 🔺 日增长数量：740⭐
-- 🔺 上周增长数量：1015⭐
-- 🔺 上月增长数量：1015⭐
-- 📅 开源时间：2026-10-18
-- 📝 项目描述：We're rebuilding and open-sourcing the world’s software from scratch.
+- ⭐ 总星标数量：17.6k
+- 🔺 日增长数量：5663⭐
+- 🔺 上周增长数量：5663⭐
+- 🔺 上月增长数量：5663⭐
+- 📅 开源时间：2026-10-21
+- 📝 项目描述：DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/wheresryan22/anatomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/ly05010419/MacNativeGames</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：17.5k
-- 🔺 日增长数量：723⭐
-- 🔺 上周增长数量：9505⭐
-- 🔺 上月增长数量：14340⭐
+- ⭐ 总星标数量：3.7k
+- 🔺 日增长数量：984⭐
+- 🔺 上周增长数量：984⭐
+- 🔺 上月增长数量：984⭐
+- 📅 开源时间：2026-10-21
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/wheresryan22/anatomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：18.4k
+- 🔺 日增长数量：929⭐
+- 🔺 上周增长数量：8625⭐
+- 🔺 上月增长数量：15269⭐
 - 📅 开源时间：2026-10-12
 - 📝 项目描述：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/akitaonrails/ai-memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：11.9k
-- 🔺 日增长数量：697⭐
-- 🔺 上周增长数量：2650⭐
-- 🔺 上月增长数量：4959⭐
-- 📅 开源时间：2026-05-22
-- 📝 项目描述：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/withmarbleapp/os-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：6.6k
-- 🔺 日增长数量：551⭐
-- 🔺 上周增长数量：1757⭐
-- 🔺 上月增长数量：2180⭐
+- ⭐ 总星标数量：7k
+- 🔺 日增长数量：421⭐
+- 🔺 上周增长数量：2173⭐
+- 🔺 上月增长数量：2576⭐
 - 📅 开源时间：2026-07-08
 - 📝 项目描述：
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：18.1k
-- 🔺 日增长数量：390⭐
-- 🔺 上周增长数量：820⭐
-- 🔺 上月增长数量：2155⭐
+- ⭐ 总星标数量：18.5k
+- 🔺 日增长数量：380⭐
+- 🔺 上周增长数量：1108⭐
+- 🔺 上月增长数量：2465⭐
 - 📅 开源时间：2026-04-16
 - 📝 项目描述：The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/storytold/wordcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/HeyPuter/everything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：15k
-- 🔺 日增长数量：320⭐
-- 🔺 上周增长数量：4182⭐
-- 🔺 上月增长数量：11901⭐
+- ⭐ 总星标数量：3.4k
+- 🔺 日增长数量：376⭐
+- 🔺 上周增长数量：1391⭐
+- 🔺 上月增长数量：1391⭐
+- 📅 开源时间：2026-10-18
+- 📝 项目描述：We're rebuilding and open-sourcing the world’s software from scratch.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/akitaonrails/ai-memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：12.2k
+- 🔺 日增长数量：360⭐
+- 🔺 上周增长数量：2964⭐
+- 🔺 上月增长数量：5225⭐
+- 📅 开源时间：2026-05-22
+- 📝 项目描述：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/storytold/wordcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：15.3k
+- 🔺 日增长数量：289⭐
+- 🔺 上周增长数量：3072⭐
+- 🔺 上月增长数量：12190⭐
 - 📅 开源时间：2026-10-11
 - 📝 项目描述：An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：14.1k
-- 🔺 日增长数量：284⭐
-- 🔺 上周增长数量：3144⭐
-- 🔺 上月增长数量：10042⭐
+- ⭐ 总星标数量：14.4k
+- 🔺 日增长数量：266⭐
+- 🔺 上周增长数量：2663⭐
+- 🔺 上月增长数量：10308⭐
 - 📅 开源时间：2026-07-19
 - 📝 项目描述：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/QingYunA/answer-me-with-html</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：4.1k
-- 🔺 日增长数量：214⭐
-- 🔺 上周增长数量：801⭐
-- 🔺 上月增长数量：2066⭐
-- 📅 开源时间：2026-10-08
-- 📝 项目描述：Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/ARahim3/DigUp</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：5.2k
-- 🔺 日增长数量：212⭐
-- 🔺 上周增长数量：2882⭐
-- 🔺 上月增长数量：2882⭐
-- 📅 开源时间：2026-10-14
-- 📝 项目描述：Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 
 
 ---
@@ -148,6 +148,9 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+b开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 =""></span><center>
