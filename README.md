@@ -1,4 +1,4 @@
-## 2026.10.23 最佳开源项目🔝:OpenShell
+## 2026.10.24 最佳开源项目🔝:OpenShell
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,131 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.10.23日榜最佳项目:NVIDIA/OpenShell  
+> 🏆2026.10.24日榜最佳项目:NVIDIA/OpenShell  
 - 开源地址：https://github.com/NVIDIA/OpenShell
 - 📅 开源时间：2026-02-25
-- ⭐ 总星标数量：18625⭐
-- 🔺 日Star增长量：1315⭐
+- ⭐ 总星标数量：19361⭐
+- 🔺 日Star增长量：736⭐
 - 📝 项目描述: OpenShell is the safe, private runtime for autonomous AI agents.
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.23 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.24 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)| 18.6k  | 🔺1315 |
-| 2 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 3.8k  | 🔺770 |
-| 3 |  [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)| 3.9k  | 🔺602 |
-| 4 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 19.6k  | 🔺549 |
-| 5 |  [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)| 8.3k  | 🔺449 |
-| 6 |  [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)| 4.8k  | 🔺426 |
-| 7 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 15.2k  | 🔺347 |
-| 8 |  [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)| 13k  | 🔺262 |
-| 9 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 19k  | 🔺225 |
-| 10 |  [storytold/wordcraft](https://github.com/storytold/wordcraft)| 15.7k  | 🔺210 |
+| 1 |  [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)| 19.4k  | 🔺736 |
+| 2 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 4.3k  | 🔺553 |
+| 3 |  [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)| 8.8k  | 🔺513 |
+| 4 |  [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)| 3.2k  | 🔺410 |
+| 5 |  [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)| 4.2k  | 🔺348 |
+| 6 |  [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)| 5.2k  | 🔺335 |
+| 7 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 15.5k  | 🔺282 |
+| 8 |  [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)| 13.2k  | 🔺254 |
+| 9 |  [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)| 3.8k  | 🔺198 |
+| 10 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 19.2k  | 🔺193 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.23 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.24 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/NVIDIA/OpenShell</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：18.6k
-- 🔺 日增长数量：1315⭐
-- 🔺 上周增长数量：2198⭐
-- 🔺 上月增长数量：8158⭐
+- ⭐ 总星标数量：19.4k
+- 🔺 日增长数量：736⭐
+- 🔺 上周增长数量：2839⭐
+- 🔺 上月增长数量：8894⭐
 - 📅 开源时间：2026-02-25
 - 📝 项目描述：OpenShell is the safe, private runtime for autonomous AI agents.
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/pengchujin/aerial-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：3.8k
-- 🔺 日增长数量：770⭐
-- 🔺 上周增长数量：1763⭐
-- 🔺 上月增长数量：1763⭐
+- ⭐ 总星标数量：4.3k
+- 🔺 日增长数量：553⭐
+- 🔺 上周增长数量：2316⭐
+- 🔺 上月增长数量：2316⭐
 - 📅 开源时间：2026-10-22
 - 📝 项目描述：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/simbasjungles/free-my-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/SnailSploit/Claude-Red</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：3.9k
-- 🔺 日增长数量：602⭐
-- 🔺 上周增长数量：1178⭐
-- 🔺 上月增长数量：1178⭐
-- 📅 开源时间：2026-10-22
-- 📝 项目描述：A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/wheresryan22/anatomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：19.6k
-- 🔺 日增长数量：549⭐
-- 🔺 上周增长数量：5792⭐
-- 🔺 上月增长数量：16475⭐
-- 📅 开源时间：2026-10-12
-- 📝 项目描述：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/SnailSploit/Claude-Red</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.3k
-- 🔺 日增长数量：449⭐
-- 🔺 上周增长数量：749⭐
-- 🔺 上月增长数量：2147⭐
+- ⭐ 总星标数量：8.8k
+- 🔺 日增长数量：513⭐
+- 🔺 上周增长数量：1243⭐
+- 🔺 上月增长数量：2511⭐
 - 📅 开源时间：2026-03-04
 - 📝 项目描述：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
 
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/xiaoyang111222/cn-math-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：3.2k
+- 🔺 日增长数量：410⭐
+- 🔺 上周增长数量：410⭐
+- 🔺 上月增长数量：410⭐
+- 📅 开源时间：2026-10-24
+- 📝 项目描述：数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/simbasjungles/free-my-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：4.2k
+- 🔺 日增长数量：348⭐
+- 🔺 上周增长数量：1526⭐
+- 🔺 上月增长数量：1526⭐
+- 📅 开源时间：2026-10-22
+- 📝 项目描述：A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+
+
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/ly05010419/MacNativeGames</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：4.8k
-- 🔺 日增长数量：426⭐
-- 🔺 上周增长数量：2081⭐
-- 🔺 上月增长数量：2081⭐
+- ⭐ 总星标数量：5.2k
+- 🔺 日增长数量：335⭐
+- 🔺 上周增长数量：2416⭐
+- 🔺 上月增长数量：2416⭐
 - 📅 开源时间：2026-10-21
 - 📝 项目描述：
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：15.2k
-- 🔺 日增长数量：347⭐
-- 🔺 上周增长数量：2372⭐
-- 🔺 上月增长数量：11103⭐
+- ⭐ 总星标数量：15.5k
+- 🔺 日增长数量：282⭐
+- 🔺 上周增长数量：2358⭐
+- 🔺 上月增长数量：11385⭐
 - 📅 开源时间：2026-07-19
 - 📝 项目描述：Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/akitaonrails/ai-memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：13k
-- 🔺 日增长数量：262⭐
-- 🔺 上周增长数量：3421⭐
-- 🔺 上月增长数量：5871⭐
+- ⭐ 总星标数量：13.2k
+- 🔺 日增长数量：254⭐
+- 🔺 上周增长数量：3408⭐
+- 🔺 上月增长数量：6079⭐
 - 📅 开源时间：2026-05-22
 - 📝 项目描述：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/rlaope/oh-my-hermes</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19k
-- 🔺 日增长数量：225⭐
-- 🔺 上周增长数量：1507⭐
-- 🔺 上月增长数量：2825⭐
+- ⭐ 总星标数量：3.8k
+- 🔺 日增长数量：198⭐
+- 🔺 上周增长数量：362⭐
+- 🔺 上月增长数量：983⭐
+- 📅 开源时间：2026-06-03
+- 📝 项目描述：The coding intelligence and skills package for Hermes Agent ⚚ Install once, then just type 'dag-ulw' to be graph engineering master.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：19.2k
+- 🔺 日增长数量：193⭐
+- 🔺 上周增长数量：1627⭐
+- 🔺 上月增长数量：2975⭐
 - 📅 开源时间：2026-04-16
 - 📝 项目描述：The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/storytold/wordcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：15.7k
-- 🔺 日增长数量：210⭐
-- 🔺 上周增长数量：2113⭐
-- 🔺 上月增长数量：12609⭐
-- 📅 开源时间：2026-10-11
-- 📝 项目描述：An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 
 ---
@@ -150,8 +150,6 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
