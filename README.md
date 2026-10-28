@@ -1,4 +1,4 @@
-## 2026.10.26 最佳开源项目🔝:aerial-tv
+## 2026.10.27 最佳开源项目🔝:aerial-tv
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,137 +15,142 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.10.26日榜最佳项目:pengchujin/aerial-tv  
+> 🏆2026.10.27日榜最佳项目:pengchujin/aerial-tv  
 - 开源地址：https://github.com/pengchujin/aerial-tv
 - 📅 开源时间：2026-10-22
-- ⭐ 总星标数量：6009⭐
-- 🔺 日Star增长量：1671⭐
+- ⭐ 总星标数量：6688⭐
+- 🔺 日Star增长量：679⭐
 - 📝 项目描述: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.26 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.27 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 6k  | 🔺1671 |
-| 2 |  [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)| 3.7k  | 🔺1184 |
-| 3 |  [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)| 4k  | 🔺825 |
-| 4 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 16.2k  | 🔺703 |
-| 5 |  [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)| 2.7k  | 🔺605 |
-| 6 |  [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)| 4.8k  | 🔺601 |
-| 7 |  [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)| 9.4k  | 🔺583 |
-| 8 |  [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)| 5.7k  | 🔺560 |
-| 9 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 19.7k  | 🔺533 |
-| 10 |  [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)| 13.7k  | 🔺511 |
+| 1 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 6.7k  | 🔺679 |
+| 2 |  [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)| 4.2k  | 🔺491 |
+| 3 |  [openai/math](https://github.com/openai/math)| 16k  | 🔺464 |
+| 4 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 16.5k  | 🔺363 |
+| 5 |  [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)| 3k  | 🔺293 |
+| 6 |  [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)| 14k  | 🔺279 |
+| 7 |  [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)| 13.5k  | 🔺268 |
+| 8 |  [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)| 6k  | 🔺265 |
+| 9 |  [HeyPuter/everything](https://github.com/HeyPuter/everything)| 4.4k  | 🔺246 |
+| 10 |  [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)| 4.3k  | 🔺243 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.26 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.27 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/pengchujin/aerial-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：6k
-- 🔺 日增长数量：1671⭐
-- 🔺 上周增长数量：3987⭐
-- 🔺 上月增长数量：3987⭐
+- ⭐ 总星标数量：6.7k
+- 🔺 日增长数量：679⭐
+- 🔺 上周增长数量：4666⭐
+- 🔺 上月增长数量：4666⭐
 - 📅 开源时间：2026-10-22
 - 📝 项目描述：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/JustAResearcher/gpu-unlock-ada</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：3.7k
-- 🔺 日增长数量：1184⭐
-- 🔺 上周增长数量：1184⭐
-- 🔺 上月增长数量：1184⭐
+- ⭐ 总星标数量：4.2k
+- 🔺 日增长数量：491⭐
+- 🔺 上周增长数量：1675⭐
+- 🔺 上月增长数量：1675⭐
 - 📅 开源时间：2026-10-26
 - 📝 项目描述：GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/xiaoyang111222/cn-math-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/openai/math</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：4k
-- 🔺 日增长数量：825⭐
-- 🔺 上周增长数量：1235⭐
-- 🔺 上月增长数量：1235⭐
-- 📅 开源时间：2026-10-24
-- 📝 项目描述：数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+- ⭐ 总星标数量：16k
+- 🔺 日增长数量：464⭐
+- 🔺 上周增长数量：705⭐
+- 🔺 上月增长数量：6698⭐
+- 📅 开源时间：2026-10-08
+- 📝 项目描述：
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：16.2k
-- 🔺 日增长数量：703⭐
-- 🔺 上周增长数量：2330⭐
-- 🔺 上月增长数量：12088⭐
+- ⭐ 总星标数量：16.5k
+- 🔺 日增长数量：363⭐
+- 🔺 上周增长数量：2409⭐
+- 🔺 上月增长数量：12451⭐
 - 📅 开源时间：2026-07-19
 - 📝 项目描述：Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/JoasASantos/REA-Prompts</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：2.7k
-- 🔺 日增长数量：605⭐
-- 🔺 上周增长数量：605⭐
-- 🔺 上月增长数量：605⭐
+- ⭐ 总星标数量：3k
+- 🔺 日增长数量：293⭐
+- 🔺 上周增长数量：898⭐
+- 🔺 上月增长数量：898⭐
 - 📅 开源时间：2026-10-25
 - 📝 项目描述：REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/simbasjungles/free-my-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/akitaonrails/ai-memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：4.8k
-- 🔺 日增长数量：601⭐
-- 🔺 上周增长数量：2127⭐
-- 🔺 上月增长数量：2127⭐
-- 📅 开源时间：2026-10-22
-- 📝 项目描述：A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+- ⭐ 总星标数量：14k
+- 🔺 日增长数量：279⭐
+- 🔺 上周增长数量：2161⭐
+- 🔺 上月增长数量：5972⭐
+- 📅 开源时间：2026-05-22
+- 📝 项目描述：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/SnailSploit/Claude-Red</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. LEANN 推理框架 https://github.com/yichuan-w/LEANN</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：9.4k
-- 🔺 日增长数量：583⭐
-- 🔺 上周增长数量：1781⭐
-- 🔺 上月增长数量：2734⭐
-- 📅 开源时间：2026-03-04
-- 📝 项目描述：claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+- ⭐ 总星标数量：13.5k
+- 🔺 日增长数量：268⭐
+- 🔺 上周增长数量：442⭐
+- 🔺 上月增长数量：529⭐
+- 📅 开源时间：2025-06-09
+- 📝 项目描述：[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/ly05010419/MacNativeGames</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：5.7k
-- 🔺 日增长数量：560⭐
-- 🔺 上周增长数量：2976⭐
-- 🔺 上月增长数量：2976⭐
+- ⭐ 总星标数量：6k
+- 🔺 日增长数量：265⭐
+- 🔺 上周增长数量：3241⭐
+- 🔺 上月增长数量：3241⭐
 - 📅 开源时间：2026-10-21
 - 📝 项目描述：Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/HeyPuter/everything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19.7k
-- 🔺 日增长数量：533⭐
-- 🔺 上周增长数量：2008⭐
-- 🔺 上月增长数量：3407⭐
-- 📅 开源时间：2026-04-16
-- 📝 项目描述：The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- ⭐ 总星标数量：4.4k
+- 🔺 日增长数量：246⭐
+- 🔺 上周增长数量：1316⭐
+- 🔺 上月增长数量：2331⭐
+- 📅 开源时间：2026-10-18
+- 📝 项目描述：We're rebuilding and open-sourcing the world’s software from scratch.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/akitaonrails/ai-memory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/xiaoyang111222/cn-math-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：13.7k
-- 🔺 日增长数量：511⭐
-- 🔺 上周增长数量：2579⭐
-- 🔺 上月增长数量：6165⭐
-- 📅 开源时间：2026-05-22
-- 📝 项目描述：Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- ⭐ 总星标数量：4.3k
+- 🔺 日增长数量：243⭐
+- 🔺 上周增长数量：1478⭐
+- 🔺 上月增长数量：1478⭐
+- 📅 开源时间：2026-10-24
+- 📝 项目描述：数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
 
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
