@@ -1,4 +1,4 @@
-## 2026.10.28 最佳开源项目🔝:ub-mode
+## 2026.10.29 最佳开源项目🔝:ub-mode
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,131 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.10.28日榜最佳项目:unclebob/ub-mode  
+> 🏆2026.10.29日榜最佳项目:unclebob/ub-mode  
 - 开源地址：https://github.com/unclebob/ub-mode
 - 📅 开源时间：2026-10-28
-- ⭐ 总星标数量：3645⭐
-- 🔺 日Star增长量：1490⭐
+- ⭐ 总星标数量：4554⭐
+- 🔺 日Star增长量：909⭐
 - 📝 项目描述: 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.28 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.29 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [unclebob/ub-mode](https://github.com/unclebob/ub-mode)| 3.6k  | 🔺1490 |
-| 2 |  [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)| 4.2k  | 🔺1059 |
-| 3 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 7.4k  | 🔺668 |
-| 4 |  [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)| 3k  | 🔺584 |
-| 5 |  [HeyPuter/everything](https://github.com/HeyPuter/everything)| 4.9k  | 🔺524 |
-| 6 |  [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)| 4.8k  | 🔺519 |
-| 7 |  [openai/math](https://github.com/openai/math)| 16.5k  | 🔺517 |
-| 8 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 17k  | 🔺453 |
-| 9 |  [memvid/memvid](https://github.com/memvid/memvid)| 17.1k  | 🔺438 |
-| 10 |  [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)| 4.6k  | 🔺279 |
+| 1 |  [unclebob/ub-mode](https://github.com/unclebob/ub-mode)| 4.6k  | 🔺909 |
+| 2 |  [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)| 3.5k  | 🔺776 |
+| 3 |  [openai/math](https://github.com/openai/math)| 17.1k  | 🔺543 |
+| 4 |  [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)| 4.7k  | 🔺457 |
+| 5 |  [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)| 5.2k  | 🔺400 |
+| 6 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)| 8k  | 🔺390 |
+| 7 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 7.7k  | 🔺365 |
+| 8 |  [macro-inc/macro](https://github.com/macro-inc/macro)| 5.6k  | 🔺309 |
+| 9 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 17.3k  | 🔺290 |
+| 10 |  [HeyPuter/everything](https://github.com/HeyPuter/everything)| 5.2k  | 🔺288 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.28 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.29 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/unclebob/ub-mode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：3.6k
-- 🔺 日增长数量：1490⭐
-- 🔺 上周增长数量：1490⭐
-- 🔺 上月增长数量：1490⭐
+- ⭐ 总星标数量：4.6k
+- 🔺 日增长数量：909⭐
+- 🔺 上周增长数量：2399⭐
+- 🔺 上月增长数量：2399⭐
 - 📅 开源时间：2026-10-28
 - 📝 项目描述：
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/rddmwmddr/android-ad-cleaner</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/interplains/Zero-Breach-Toolkit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：4.2k
-- 🔺 日增长数量：1059⭐
-- 🔺 上周增长数量：1059⭐
-- 🔺 上月增长数量：1059⭐
-- 📅 开源时间：2026-10-28
-- 📝 项目描述：关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/pengchujin/aerial-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：7.4k
-- 🔺 日增长数量：668⭐
-- 🔺 上周增长数量：5334⭐
-- 🔺 上月增长数量：5334⭐
-- 📅 开源时间：2026-10-22
-- 📝 项目描述：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+- ⭐ 总星标数量：3.5k
+- 🔺 日增长数量：776⭐
+- 🔺 上周增长数量：776⭐
+- 🔺 上月增长数量：776⭐
+- 📅 开源时间：2026-10-29
+- 📝 项目描述：Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/designfuchen/word-atlas</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/openai/math</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：3k
-- 🔺 日增长数量：584⭐
-- 🔺 上周增长数量：584⭐
-- 🔺 上月增长数量：584⭐
-- 📅 开源时间：2026-10-28
-- 📝 项目描述：词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/HeyPuter/everything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：4.9k
-- 🔺 日增长数量：524⭐
-- 🔺 上周增长数量：1464⭐
-- 🔺 上月增长数量：2855⭐
-- 📅 开源时间：2026-10-18
-- 📝 项目描述：We're rebuilding and open-sourcing the world’s software from scratch.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/xiaoyang111222/cn-math-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：4.8k
-- 🔺 日增长数量：519⭐
-- 🔺 上周增长数量：1997⭐
-- 🔺 上月增长数量：1997⭐
-- 📅 开源时间：2026-10-24
-- 📝 项目描述：数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/openai/math</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：16.5k
-- 🔺 日增长数量：517⭐
-- 🔺 上周增长数量：1173⭐
-- 🔺 上月增长数量：7215⭐
+- ⭐ 总星标数量：17.1k
+- 🔺 日增长数量：543⭐
+- 🔺 上周增长数量：1669⭐
+- 🔺 上月增长数量：7758⭐
 - 📅 开源时间：2026-10-08
 - 📝 项目描述：
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/rddmwmddr/android-ad-cleaner</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：17k
-- 🔺 日增长数量：453⭐
-- 🔺 上周增长数量：2596⭐
-- 🔺 上月增长数量：12904⭐
+- ⭐ 总星标数量：4.7k
+- 🔺 日增长数量：457⭐
+- 🔺 上周增长数量：1516⭐
+- 🔺 上月增长数量：1516⭐
+- 📅 开源时间：2026-10-28
+- 📝 项目描述：关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/xiaoyang111222/cn-math-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：5.2k
+- 🔺 日增长数量：400⭐
+- 🔺 上周增长数量：2397⭐
+- 🔺 上月增长数量：2397⭐
+- 📅 开源时间：2026-10-24
+- 📝 项目描述：数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/CopilotKit/OpenBot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：8k
+- 🔺 日增长数量：390⭐
+- 🔺 上周增长数量：1086⭐
+- 🔺 上月增长数量：2542⭐
+- 📅 开源时间：2026-08-22
+- 📝 项目描述：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/pengchujin/aerial-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：7.7k
+- 🔺 日增长数量：365⭐
+- 🔺 上周增长数量：4706⭐
+- 🔺 上月增长数量：5699⭐
+- 📅 开源时间：2026-10-22
+- 📝 项目描述：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/macro-inc/macro</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：5.6k
+- 🔺 日增长数量：309⭐
+- 🔺 上周增长数量：792⭐
+- 🔺 上月增长数量：1243⭐
+- 📅 开源时间：2025-11-08
+- 📝 项目描述：Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：17.3k
+- 🔺 日增长数量：290⭐
+- 🔺 上周增长数量：2438⭐
+- 🔺 上月增长数量：13194⭐
 - 📅 开源时间：2026-07-19
 - 📝 项目描述：Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/memvid/memvid</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/HeyPuter/everything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：17.1k
-- 🔺 日增长数量：438⭐
-- 🔺 上周增长数量：540⭐
-- 🔺 上月增长数量：592⭐
-- 📅 开源时间：2025-05-28
-- 📝 项目描述：Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/rlaope/oh-my-hermes</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：4.6k
-- 🔺 日增长数量：279⭐
-- 🔺 上周增长数量：1110⭐
-- 🔺 上月增长数量：1751⭐
-- 📅 开源时间：2026-06-03
-- 📝 项目描述：⚚ The coding harness with Hermes Agent, Just type 'dag-ulw'
+- ⭐ 总星标数量：5.2k
+- 🔺 日增长数量：288⭐
+- 🔺 上周增长数量：1616⭐
+- 🔺 上月增长数量：3143⭐
+- 📅 开源时间：2026-10-18
+- 📝 项目描述：We're rebuilding and open-sourcing the world’s software from scratch.
 
 
 ---
@@ -150,9 +150,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-��源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+��微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
