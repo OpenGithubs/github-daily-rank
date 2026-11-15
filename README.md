@@ -1,4 +1,4 @@
-## 2026.11.13 最佳开源项目🔝:dsh-Go
+## 2026.11.14 最佳开源项目🔝:unslop
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,131 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.11.13日榜最佳项目:ccch1mneyyy/dsh-Go  
-- 开源地址：https://github.com/ccch1mneyyy/dsh-Go
-- 📅 开源时间：2026-10-31
-- ⭐ 总星标数量：19657⭐
-- 🔺 日Star增长量：12326⭐
-- 📝 项目描述: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+> 🏆2026.11.14日榜最佳项目:heydamir/unslop  
+- 开源地址：https://github.com/heydamir/unslop
+- 📅 开源时间：2026-11-01
+- ⭐ 总星标数量：15944⭐
+- 🔺 日Star增长量：1509⭐
+- 📝 项目描述: A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.13 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.14 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)| 19.7k  | 🔺12326 |
-| 2 |  [heydamir/unslop](https://github.com/heydamir/unslop)| 14.4k  | 🔺7111 |
-| 3 |  [zortos293/Lichii](https://github.com/zortos293/Lichii)| 8.5k  | 🔺6306 |
-| 4 |  [Minireel/HGhub](https://github.com/Minireel/HGhub)| 8.3k  | 🔺6025 |
-| 5 |  [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)| 7.5k  | 🔺4538 |
-| 6 |  [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)| 6.9k  | 🔺2895 |
-| 7 |  [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)| 5.8k  | 🔺2892 |
-| 8 |  [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)| 6.7k  | 🔺2241 |
-| 9 |  [wangzan101/Mika](https://github.com/wangzan101/Mika)| 8.2k  | 🔺2227 |
-| 10 |  [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)| 4.5k  | 🔺2101 |
+| 1 |  [heydamir/unslop](https://github.com/heydamir/unslop)| 15.9k  | 🔺1509 |
+| 2 |  [huamidev/GestaltX](https://github.com/huamidev/GestaltX)| 7.5k  | 🔺1427 |
+| 3 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)| 12.2k  | 🔺1216 |
+| 4 |  [shadcn/improve](https://github.com/shadcn/improve)| 11.8k  | 🔺1160 |
+| 5 |  [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)| 3.1k  | 🔺1058 |
+| 6 |  [tailscale/tailcat](https://github.com/tailscale/tailcat)| 9.8k  | 🔺985 |
+| 7 |  [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)| 4.1k  | 🔺904 |
+| 8 |  [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)| 5.3k  | 🔺802 |
+| 9 |  [zortos293/Lichii](https://github.com/zortos293/Lichii)| 9.2k  | 🔺681 |
+| 10 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 11.8k  | 🔺576 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.13 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.14 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/ccch1mneyyy/dsh-Go</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/heydamir/unslop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19.7k
-- 🔺 日增长数量：12326⭐
-- 🔺 上周增长数量：17241⭐
-- 🔺 上月增长数量：17241⭐
-- 📅 开源时间：2026-10-31
-- 📝 项目描述：dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/heydamir/unslop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：14.4k
-- 🔺 日增长数量：7111⭐
-- 🔺 上周增长数量：11056⭐
-- 🔺 上月增长数量：11056⭐
+- ⭐ 总星标数量：15.9k
+- 🔺 日增长数量：1509⭐
+- 🔺 上周增长数量：12565⭐
+- 🔺 上月增长数量：12565⭐
 - 📅 开源时间：2026-11-01
 - 📝 项目描述：A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/zortos293/Lichii</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/huamidev/GestaltX</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：8.5k
-- 🔺 日增长数量：6306⭐
-- 🔺 上周增长数量：6306⭐
-- 🔺 上月增长数量：6306⭐
+- ⭐ 总星标数量：7.5k
+- 🔺 日增长数量：1427⭐
+- 🔺 上周增长数量：2893⭐
+- 🔺 上月增长数量：2893⭐
+- 📅 开源时间：2026-11-11
+- 📝 项目描述：An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/CopilotKit/OpenBot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：12.2k
+- 🔺 日增长数量：1216⭐
+- 🔺 上周增长数量：4638⭐
+- 🔺 上月增长数量：6534⭐
+- 📅 开源时间：2026-08-22
+- 📝 项目描述：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/shadcn/improve</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：11.8k
+- 🔺 日增长数量：1160⭐
+- 🔺 上周增长数量：2566⭐
+- 🔺 上月增长数量：2651⭐
+- 📅 开源时间：2026-06-10
+- 📝 项目描述：Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/JenkinWoo/sheeridVerify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：3.1k
+- 🔺 日增长数量：1058⭐
+- 🔺 上周增长数量：1085⭐
+- 🔺 上月增长数量：1085⭐
+- 📅 开源时间：2026-11-11
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/tailscale/tailcat</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：9.8k
+- 🔺 日增长数量：985⭐
+- 🔺 上周增长数量：1155⭐
+- 🔺 上月增长数量：1874⭐
+- 📅 开源时间：2024-10-30
+- 📝 项目描述：like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/tangerineturtle1/NX2navi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：4.1k
+- 🔺 日增长数量：904⭐
+- 🔺 上周增长数量：1224⭐
+- 🔺 上月增长数量：1224⭐
+- 📅 开源时间：2026-11-11
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/KKKKhazix/agent-autoloop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：5.3k
+- 🔺 日增长数量：802⭐
+- 🔺 上周增长数量：2903⭐
+- 🔺 上月增长数量：2903⭐
+- 📅 开源时间：2026-11-05
+- 📝 项目描述：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/zortos293/Lichii</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：9.2k
+- 🔺 日增长数量：681⭐
+- 🔺 上周增长数量：6987⭐
+- 🔺 上月增长数量：6987⭐
 - 📅 开源时间：2026-11-06
 - 📝 项目描述：VERY experimental Nintendo Switch 2 emulator
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/Minireel/HGhub</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/pengchujin/aerial-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：8.3k
-- 🔺 日增长数量：6025⭐
-- 🔺 上周增长数量：6025⭐
-- 🔺 上月增长数量：6025⭐
-- 📅 开源时间：2026-11-08
-- 📝 项目描述：YellowFruit third-party client
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/NotRexed/Hookshot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：7.5k
-- 🔺 日增长数量：4538⭐
-- 🔺 上周增长数量：4538⭐
-- 🔺 上月增长数量：4538⭐
-- 📅 开源时间：2026-11-09
-- 📝 项目描述：A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/patch-gg/pixelfx</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：6.9k
-- 🔺 日增长数量：2895⭐
-- 🔺 上周增长数量：4424⭐
-- 🔺 上月增长数量：4424⭐
-- 📅 开源时间：2026-11-02
-- 📝 项目描述：244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/Djihads80/Eglantine</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：5.8k
-- 🔺 日增长数量：2892⭐
-- 🔺 上周增长数量：3383⭐
-- 🔺 上月增长数量：3383⭐
-- 📅 开源时间：2026-11-03
-- 📝 项目描述：VERY experimental Nintendo Switch 2 emulator
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/valentderah/totk-pc-recomp</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：6.7k
-- 🔺 日增长数量：2241⭐
-- 🔺 上周增长数量：4133⭐
-- 🔺 上月增长数量：4133⭐
-- 📅 开源时间：2026-11-01
-- 📝 项目描述：Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/wangzan101/Mika</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.2k
-- 🔺 日增长数量：2227⭐
-- 🔺 上周增长数量：5566⭐
-- 🔺 上月增长数量：5566⭐
-- 📅 开源时间：2026-11-01
-- 📝 项目描述：An on-device AI agent for Android that operates apps and the web to get things done for you.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/KKKKhazix/agent-autoloop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：4.5k
-- 🔺 日增长数量：2101⭐
-- 🔺 上周增长数量：2101⭐
-- 🔺 上月增长数量：2101⭐
-- 📅 开源时间：2026-11-05
-- 📝 项目描述：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+- ⭐ 总星标数量：11.8k
+- 🔺 日增长数量：576⭐
+- 🔺 上周增长数量：4491⭐
+- 🔺 上月增长数量：9825⭐
+- 📅 开源时间：2026-10-22
+- 📝 项目描述：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
 
 ---
@@ -150,7 +150,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-dn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 e="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 众号
 
