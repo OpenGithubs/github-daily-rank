@@ -1,4 +1,4 @@
-## 2026.11.25 最佳开源项目🔝:VIctory
+## 2026.11.26 最佳开源项目🔝:portwatch-vi
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,132 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.11.25日榜最佳项目:Marvisak/VIctory  
-- 开源地址：https://github.com/Marvisak/VIctory
+> 🏆2026.11.26日榜最佳项目:4lwayz/portwatch-vi  
+- 开源地址：https://github.com/4lwayz/portwatch-vi
 - 📅 开源时间：2026-11-25
-- ⭐ 总星标数量：12445⭐
-- 🔺 日Star增长量：1272⭐
-- 📝 项目描述: An attempt at running GTA VI on PC
+- ⭐ 总星标数量：5457⭐
+- 🔺 日Star增长量：1679⭐
+- 📝 项目描述: Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.25 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.26 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [Marvisak/VIctory](https://github.com/Marvisak/VIctory)| 12.4k  | 🔺1272 |
-| 2 |  [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)| 3.8k  | 🔺1031 |
-| 3 |  [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)| 16.1k  | 🔺835 |
-| 4 |  [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)| 9.2k  | 🔺644 |
-| 5 |  [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)| 3.9k  | 🔺553 |
-| 6 |  [openai/math](https://github.com/openai/math)| 18.3k  | 🔺548 |
-| 7 |  [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)| 7.8k  | 🔺542 |
-| 8 |  [xcl-dev/xcl](https://github.com/xcl-dev/xcl)| 8.3k  | 🔺484 |
-| 9 |  [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)| 9.5k  | 🔺388 |
-| 10 |  [cursor/plugins](https://github.com/cursor/plugins)| 19.5k  | 🔺367 |
+| 1 |  [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)| 5.5k  | 🔺1679 |
+| 2 |  [Marvisak/VIctory](https://github.com/Marvisak/VIctory)| 13.2k  | 🔺759 |
+| 3 |  [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)| 16.8k  | 🔺756 |
+| 4 |  [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)| 8.4k  | 🔺632 |
+| 5 |  [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)| 10.1k  | 🔺567 |
+| 6 |  [superdesigndev/treg](https://github.com/superdesigndev/treg)| 9.5k  | 🔺557 |
+| 7 |  [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)| 8.9k  | 🔺463 |
+| 8 |  [intel/intel-one-mono](https://github.com/intel/intel-one-mono)| 10.7k  | 🔺427 |
+| 9 |  [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)| 4.2k  | 🔺342 |
+| 10 |  [xcl-dev/xcl](https://github.com/xcl-dev/xcl)| 8.6k  | 🔺312 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.25 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.26 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/Marvisak/VIctory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/4lwayz/portwatch-vi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：12.4k
-- 🔺 日增长数量：1272⭐
-- 🔺 上周增长数量：1272⭐
-- 🔺 上月增长数量：1272⭐
-- 📅 开源时间：2026-11-25
-- 📝 项目描述：An attempt at running GTA VI on PC
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/4lwayz/portwatch-vi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：3.8k
-- 🔺 日增长数量：1031⭐
-- 🔺 上周增长数量：1031⭐
-- 🔺 上月增长数量：1031⭐
+- ⭐ 总星标数量：5.5k
+- 🔺 日增长数量：1679⭐
+- 🔺 上周增长数量：2710⭐
+- 🔺 上月增长数量：2710⭐
 - 📅 开源时间：2026-11-25
 - 📝 项目描述：Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 
 
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/Marvisak/VIctory</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：13.2k
+- 🔺 日增长数量：759⭐
+- 🔺 上周增长数量：2031⭐
+- 🔺 上月增长数量：2031⭐
+- 📅 开源时间：2026-11-25
+- 📝 项目描述：An attempt at running GTA VI on PC
+
+
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/zhouxiaoka/autoclip</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：16.1k
-- 🔺 日增长数量：835⭐
-- 🔺 上周增长数量：5294⭐
-- 🔺 上月增长数量：6801⭐
+- ⭐ 总星标数量：16.8k
+- 🔺 日增长数量：756⭐
+- 🔺 上周增长数量：5717⭐
+- 🔺 上月增长数量：7533⭐
 - 📅 开源时间：2025-07-08
-- 📝 项目描述：AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
+- 📝 项目描述：AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/anhao/ai-pose-gallery-zh</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/kunkundi/crossdesk</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：9.2k
-- 🔺 日增长数量：644⭐
-- 🔺 上周增长数量：1913⭐
-- 🔺 上月增长数量：6059⭐
-- 📅 开源时间：2026-10-30
-- 📝 项目描述：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/AFK-surf/xnulinux</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：3.9k
-- 🔺 日增长数量：553⭐
-- 🔺 上周增长数量：553⭐
-- 🔺 上月增长数量：553⭐
-- 📅 开源时间：2026-11-25
-- 📝 项目描述：XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/openai/math</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：18.3k
-- 🔺 日增长数量：548⭐
-- 🔺 上周增长数量：687⭐
-- 🔺 上月增长数量：1037⭐
-- 📅 开源时间：2026-10-07
-- 📝 项目描述：
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/kunkundi/crossdesk</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：7.8k
-- 🔺 日增长数量：542⭐
-- 🔺 上周增长数量：3018⭐
-- 🔺 上月增长数量：3352⭐
+- ⭐ 总星标数量：8.4k
+- 🔺 日增长数量：632⭐
+- 🔺 上周增长数量：3366⭐
+- 🔺 上月增长数量：3968⭐
 - 📅 开源时间：2026-08-31
 - 📝 项目描述：A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/xcl-dev/xcl</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/erkamyaman/rust-anything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：8.3k
-- 🔺 日增长数量：484⭐
-- 🔺 上周增长数量：484⭐
-- 🔺 上月增长数量：484⭐
-- 📅 开源时间：2026-11-25
-- 📝 项目描述：Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
+- ⭐ 总星标数量：10.1k
+- 🔺 日增长数量：567⭐
+- 🔺 上周增长数量：6829⭐
+- 🔺 上月增长数量：6829⭐
+- 📅 开源时间：2026-11-19
+- 📝 项目描述：Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/erkamyaman/rust-anything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/superdesigndev/treg</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：9.5k
-- 🔺 日增长数量：388⭐
-- 🔺 上周增长数量：6262⭐
-- 🔺 上月增长数量：6262⭐
-- 📅 开源时间：2026-11-19
-- 📝 项目描述：Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+- 🔺 日增长数量：557⭐
+- 🔺 上周增长数量：980⭐
+- 🔺 上月增长数量：4531⭐
+- 📅 开源时间：2026-07-15
+- 📝 项目描述：OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/cursor/plugins</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/magnitudedev/magnitude</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19.5k
-- 🔺 日增长数量：367⭐
-- 🔺 上周增长数量：2362⭐
-- 🔺 上月增长数量：8948⭐
-- 📅 开源时间：2026-01-23
-- 📝 项目描述：Cursor plugin specification and official plugins
+- ⭐ 总星标数量：8.9k
+- 🔺 日增长数量：463⭐
+- 🔺 上周增长数量：982⭐
+- 🔺 上月增长数量：2270⭐
+- 📅 开源时间：2026-06-12
+- 📝 项目描述：Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. 字体库 https://github.com/intel/intel-one-mono</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：10.7k
+- 🔺 日增长数量：427⭐
+- 🔺 上周增长数量：428⭐
+- 🔺 上月增长数量：517⭐
+- 📅 开源时间：2023-04-12
+- 📝 项目描述：Intel One Mono font repository
+
+    ![](https://discoverhub.cn/image/repo/R_kgDOJVlcBg.jpg)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/AFK-surf/xnulinux</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：4.2k
+- 🔺 日增长数量：342⭐
+- 🔺 上周增长数量：895⭐
+- 🔺 上月增长数量：895⭐
+- 📅 开源时间：2026-11-25
+- 📝 项目描述：XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/xcl-dev/xcl</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：8.6k
+- 🔺 日增长数量：312⭐
+- 🔺 上周增长数量：796⭐
+- 🔺 上月增长数量：796⭐
+- 📅 开源时间：2026-11-25
+- 📝 项目描述：Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 
 
 ---
@@ -150,13 +151,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+/photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 </span><center>
 open_github</center>
